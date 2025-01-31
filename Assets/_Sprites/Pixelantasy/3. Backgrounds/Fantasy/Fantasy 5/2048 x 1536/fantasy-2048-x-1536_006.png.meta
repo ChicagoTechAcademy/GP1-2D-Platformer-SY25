@@ -1,0 +1,4368 @@
+fileFormatVersion: 2
+guid: e0b2e83cf3c82944abe7df86cb62b720
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4993233338989355777
+    second: fantasy-2048-x-1536_006_0
+  - first:
+      213: -6522082664834909191
+    second: fantasy-2048-x-1536_006_1
+  - first:
+      213: 8242867166600165732
+    second: fantasy-2048-x-1536_006_2
+  - first:
+      213: 2300261486666726757
+    second: fantasy-2048-x-1536_006_3
+  - first:
+      213: -3208814504110363152
+    second: fantasy-2048-x-1536_006_4
+  - first:
+      213: -2522904902273270509
+    second: fantasy-2048-x-1536_006_5
+  - first:
+      213: -3976355370044621426
+    second: fantasy-2048-x-1536_006_6
+  - first:
+      213: -4671138747945431226
+    second: fantasy-2048-x-1536_006_7
+  - first:
+      213: -4554952676892494648
+    second: fantasy-2048-x-1536_006_8
+  - first:
+      213: -6423385033423475782
+    second: fantasy-2048-x-1536_006_9
+  - first:
+      213: -1737337322307025072
+    second: fantasy-2048-x-1536_006_10
+  - first:
+      213: 2109671494742390227
+    second: fantasy-2048-x-1536_006_11
+  - first:
+      213: -9181020613911756611
+    second: fantasy-2048-x-1536_006_12
+  - first:
+      213: -4542271976123638449
+    second: fantasy-2048-x-1536_006_13
+  - first:
+      213: -4428493049647158960
+    second: fantasy-2048-x-1536_006_14
+  - first:
+      213: -8560360396891086988
+    second: fantasy-2048-x-1536_006_15
+  - first:
+      213: 7011900179517038961
+    second: fantasy-2048-x-1536_006_16
+  - first:
+      213: 1714906566255896279
+    second: fantasy-2048-x-1536_006_17
+  - first:
+      213: -8910969443395891334
+    second: fantasy-2048-x-1536_006_18
+  - first:
+      213: 4453580166557412842
+    second: fantasy-2048-x-1536_006_19
+  - first:
+      213: -6146582451716034179
+    second: fantasy-2048-x-1536_006_20
+  - first:
+      213: -3358972997052423539
+    second: fantasy-2048-x-1536_006_21
+  - first:
+      213: -9209231997842273774
+    second: fantasy-2048-x-1536_006_22
+  - first:
+      213: -8585610188563015188
+    second: fantasy-2048-x-1536_006_23
+  - first:
+      213: -4427559897240897664
+    second: fantasy-2048-x-1536_006_24
+  - first:
+      213: 8339183537234854925
+    second: fantasy-2048-x-1536_006_25
+  - first:
+      213: 4780356375632793855
+    second: fantasy-2048-x-1536_006_26
+  - first:
+      213: 9183737557708676967
+    second: fantasy-2048-x-1536_006_27
+  - first:
+      213: -6973920844813195953
+    second: fantasy-2048-x-1536_006_28
+  - first:
+      213: -7915900263170622676
+    second: fantasy-2048-x-1536_006_29
+  - first:
+      213: -2466799032695232695
+    second: fantasy-2048-x-1536_006_30
+  - first:
+      213: -5806663593410863788
+    second: fantasy-2048-x-1536_006_31
+  - first:
+      213: -2140555962950086340
+    second: fantasy-2048-x-1536_006_32
+  - first:
+      213: 5261771252455346994
+    second: fantasy-2048-x-1536_006_33
+  - first:
+      213: 7778052181206692205
+    second: fantasy-2048-x-1536_006_34
+  - first:
+      213: -8456237606736384398
+    second: fantasy-2048-x-1536_006_35
+  - first:
+      213: -7751044227762165010
+    second: fantasy-2048-x-1536_006_36
+  - first:
+      213: -374281506368910830
+    second: fantasy-2048-x-1536_006_37
+  - first:
+      213: -3495183587554546449
+    second: fantasy-2048-x-1536_006_38
+  - first:
+      213: 6423266643890891509
+    second: fantasy-2048-x-1536_006_39
+  - first:
+      213: 2440687128053162709
+    second: fantasy-2048-x-1536_006_40
+  - first:
+      213: -5903410075416602491
+    second: fantasy-2048-x-1536_006_41
+  - first:
+      213: 358948146842484594
+    second: fantasy-2048-x-1536_006_42
+  - first:
+      213: 7377142799538410837
+    second: fantasy-2048-x-1536_006_43
+  - first:
+      213: -9143982212542560222
+    second: fantasy-2048-x-1536_006_44
+  - first:
+      213: 4552305063969967547
+    second: fantasy-2048-x-1536_006_45
+  - first:
+      213: -6933977922949279509
+    second: fantasy-2048-x-1536_006_46
+  - first:
+      213: -642535293106948622
+    second: fantasy-2048-x-1536_006_47
+  - first:
+      213: -644985341584207000
+    second: fantasy-2048-x-1536_006_48
+  - first:
+      213: 6970483755267776717
+    second: fantasy-2048-x-1536_006_49
+  - first:
+      213: 1068304544099660282
+    second: fantasy-2048-x-1536_006_50
+  - first:
+      213: 7048711561593349357
+    second: fantasy-2048-x-1536_006_51
+  - first:
+      213: -8400102045366636478
+    second: fantasy-2048-x-1536_006_52
+  - first:
+      213: -1669116483444755884
+    second: fantasy-2048-x-1536_006_53
+  - first:
+      213: -1681223144479864669
+    second: fantasy-2048-x-1536_006_54
+  - first:
+      213: 5323788454058628730
+    second: fantasy-2048-x-1536_006_55
+  - first:
+      213: -8829933831614490114
+    second: fantasy-2048-x-1536_006_56
+  - first:
+      213: -8337646642408872545
+    second: fantasy-2048-x-1536_006_57
+  - first:
+      213: -155468112514464317
+    second: fantasy-2048-x-1536_006_58
+  - first:
+      213: 5190071407065872718
+    second: fantasy-2048-x-1536_006_59
+  - first:
+      213: 4660424746892928204
+    second: fantasy-2048-x-1536_006_60
+  - first:
+      213: 7919370670417782583
+    second: fantasy-2048-x-1536_006_61
+  - first:
+      213: 7375319149802435880
+    second: fantasy-2048-x-1536_006_62
+  - first:
+      213: 1317225580468041780
+    second: fantasy-2048-x-1536_006_63
+  - first:
+      213: 4341289188887930726
+    second: fantasy-2048-x-1536_006_64
+  - first:
+      213: 7617612314254978777
+    second: fantasy-2048-x-1536_006_65
+  - first:
+      213: -4056089560499044995
+    second: fantasy-2048-x-1536_006_66
+  - first:
+      213: -1032787543056495755
+    second: fantasy-2048-x-1536_006_67
+  - first:
+      213: 5412443550939707705
+    second: fantasy-2048-x-1536_006_68
+  - first:
+      213: 5817333753492002206
+    second: fantasy-2048-x-1536_006_69
+  - first:
+      213: 7029562724419907672
+    second: fantasy-2048-x-1536_006_70
+  - first:
+      213: 8549598194224427757
+    second: fantasy-2048-x-1536_006_71
+  - first:
+      213: 4716452752138495506
+    second: fantasy-2048-x-1536_006_72
+  - first:
+      213: 7993940045524059154
+    second: fantasy-2048-x-1536_006_73
+  - first:
+      213: -2593356844198897901
+    second: fantasy-2048-x-1536_006_74
+  - first:
+      213: 4841479910651708770
+    second: fantasy-2048-x-1536_006_75
+  - first:
+      213: -8693202020813416583
+    second: fantasy-2048-x-1536_006_76
+  - first:
+      213: 6194490754843011294
+    second: fantasy-2048-x-1536_006_77
+  - first:
+      213: -4592429022254508934
+    second: fantasy-2048-x-1536_006_78
+  - first:
+      213: -4811007187216125269
+    second: fantasy-2048-x-1536_006_79
+  - first:
+      213: -890175497393984997
+    second: fantasy-2048-x-1536_006_80
+  - first:
+      213: 5899791543904318846
+    second: fantasy-2048-x-1536_006_81
+  - first:
+      213: 2298312534005373271
+    second: fantasy-2048-x-1536_006_82
+  - first:
+      213: 2214819743498268160
+    second: fantasy-2048-x-1536_006_83
+  - first:
+      213: -7167616839620546080
+    second: fantasy-2048-x-1536_006_84
+  - first:
+      213: -5381695799719354220
+    second: fantasy-2048-x-1536_006_85
+  - first:
+      213: -4492965699470260651
+    second: fantasy-2048-x-1536_006_86
+  - first:
+      213: 1491487532444905689
+    second: fantasy-2048-x-1536_006_87
+  - first:
+      213: 2167024882339971741
+    second: fantasy-2048-x-1536_006_88
+  - first:
+      213: 1353279855549876626
+    second: fantasy-2048-x-1536_006_89
+  - first:
+      213: -5913467496700291146
+    second: fantasy-2048-x-1536_006_90
+  - first:
+      213: 6472281082724915298
+    second: fantasy-2048-x-1536_006_91
+  - first:
+      213: -2220667560881722329
+    second: fantasy-2048-x-1536_006_92
+  - first:
+      213: 8496035106228433331
+    second: fantasy-2048-x-1536_006_93
+  - first:
+      213: -9181025197257824878
+    second: fantasy-2048-x-1536_006_94
+  - first:
+      213: -3446717192222141812
+    second: fantasy-2048-x-1536_006_95
+  - first:
+      213: 5915732219971434827
+    second: fantasy-2048-x-1536_006_96
+  - first:
+      213: -390680218550109086
+    second: fantasy-2048-x-1536_006_97
+  - first:
+      213: -1719460777450179135
+    second: fantasy-2048-x-1536_006_98
+  - first:
+      213: 5588396774404748372
+    second: fantasy-2048-x-1536_006_99
+  - first:
+      213: -2698714475353041705
+    second: fantasy-2048-x-1536_006_100
+  - first:
+      213: -3530981801241216386
+    second: fantasy-2048-x-1536_006_101
+  - first:
+      213: 5736819653565237774
+    second: fantasy-2048-x-1536_006_102
+  - first:
+      213: 879437077335681486
+    second: fantasy-2048-x-1536_006_103
+  - first:
+      213: -6163995603583739315
+    second: fantasy-2048-x-1536_006_104
+  - first:
+      213: -6310060263182235017
+    second: fantasy-2048-x-1536_006_105
+  - first:
+      213: 71474276572774011
+    second: fantasy-2048-x-1536_006_106
+  - first:
+      213: -1087596622331364775
+    second: fantasy-2048-x-1536_006_107
+  - first:
+      213: -7512589489307285741
+    second: fantasy-2048-x-1536_006_108
+  - first:
+      213: -7932146593402874089
+    second: fantasy-2048-x-1536_006_109
+  - first:
+      213: -2171374142856380745
+    second: fantasy-2048-x-1536_006_110
+  - first:
+      213: -4843414400705912179
+    second: fantasy-2048-x-1536_006_111
+  - first:
+      213: -976632454442557675
+    second: fantasy-2048-x-1536_006_112
+  - first:
+      213: -7753815898368815447
+    second: fantasy-2048-x-1536_006_113
+  - first:
+      213: -7756276591881320690
+    second: fantasy-2048-x-1536_006_114
+  - first:
+      213: -2157880907196907835
+    second: fantasy-2048-x-1536_006_115
+  - first:
+      213: 3298983527524200878
+    second: fantasy-2048-x-1536_006_116
+  - first:
+      213: 6984660386501321853
+    second: fantasy-2048-x-1536_006_117
+  - first:
+      213: -1421532786364668035
+    second: fantasy-2048-x-1536_006_118
+  - first:
+      213: 6900522416826812320
+    second: fantasy-2048-x-1536_006_119
+  - first:
+      213: -2279222899821402380
+    second: fantasy-2048-x-1536_006_120
+  - first:
+      213: -7621902672188845027
+    second: fantasy-2048-x-1536_006_121
+  - first:
+      213: 6415737475792597402
+    second: fantasy-2048-x-1536_006_122
+  - first:
+      213: 5933644215152100255
+    second: fantasy-2048-x-1536_006_123
+  - first:
+      213: 5522205381875019249
+    second: fantasy-2048-x-1536_006_124
+  - first:
+      213: -7785862175593667586
+    second: fantasy-2048-x-1536_006_125
+  - first:
+      213: -883058357210857322
+    second: fantasy-2048-x-1536_006_126
+  - first:
+      213: 5955611235115003564
+    second: fantasy-2048-x-1536_006_127
+  - first:
+      213: 7632521672141734053
+    second: fantasy-2048-x-1536_006_128
+  - first:
+      213: 732685861698785204
+    second: fantasy-2048-x-1536_006_129
+  - first:
+      213: 8056459262303484420
+    second: fantasy-2048-x-1536_006_130
+  - first:
+      213: -5568173385497253671
+    second: fantasy-2048-x-1536_006_131
+  - first:
+      213: -8476111360098171903
+    second: fantasy-2048-x-1536_006_132
+  - first:
+      213: 2453925814015861423
+    second: fantasy-2048-x-1536_006_133
+  - first:
+      213: -5752857700767280539
+    second: fantasy-2048-x-1536_006_134
+  - first:
+      213: -602864934382018239
+    second: fantasy-2048-x-1536_006_135
+  - first:
+      213: -2878336093000642187
+    second: fantasy-2048-x-1536_006_136
+  - first:
+      213: 1742417291138289934
+    second: fantasy-2048-x-1536_006_137
+  - first:
+      213: 6572191017846919621
+    second: fantasy-2048-x-1536_006_138
+  - first:
+      213: -2829335711949036759
+    second: fantasy-2048-x-1536_006_139
+  - first:
+      213: 8493284176469699367
+    second: fantasy-2048-x-1536_006_140
+  - first:
+      213: -9083443398482152766
+    second: fantasy-2048-x-1536_006_141
+  - first:
+      213: -6304872861271983180
+    second: fantasy-2048-x-1536_006_142
+  - first:
+      213: -1040603530513004186
+    second: fantasy-2048-x-1536_006_143
+  - first:
+      213: -551234391966026908
+    second: fantasy-2048-x-1536_006_144
+  - first:
+      213: -3112943351277829248
+    second: fantasy-2048-x-1536_006_145
+  - first:
+      213: -3821995221255752726
+    second: fantasy-2048-x-1536_006_146
+  - first:
+      213: -6531374550018894345
+    second: fantasy-2048-x-1536_006_147
+  - first:
+      213: -9100079728296738012
+    second: fantasy-2048-x-1536_006_148
+  - first:
+      213: 6177332205810027669
+    second: fantasy-2048-x-1536_006_149
+  - first:
+      213: 3838374549368181651
+    second: fantasy-2048-x-1536_006_150
+  - first:
+      213: -6643672208290039850
+    second: fantasy-2048-x-1536_006_151
+  - first:
+      213: -1337537927126732838
+    second: fantasy-2048-x-1536_006_152
+  - first:
+      213: 2222296006287363666
+    second: fantasy-2048-x-1536_006_153
+  - first:
+      213: 4357475939752896463
+    second: fantasy-2048-x-1536_006_154
+  - first:
+      213: -5005795339439077947
+    second: fantasy-2048-x-1536_006_155
+  - first:
+      213: -4931683883370368221
+    second: fantasy-2048-x-1536_006_156
+  - first:
+      213: 5918912699553823091
+    second: fantasy-2048-x-1536_006_157
+  - first:
+      213: 1151439209299430907
+    second: fantasy-2048-x-1536_006_158
+  - first:
+      213: -7924050608806038615
+    second: fantasy-2048-x-1536_006_159
+  - first:
+      213: -5040788670110382420
+    second: fantasy-2048-x-1536_006_160
+  - first:
+      213: -8879076693164971588
+    second: fantasy-2048-x-1536_006_161
+  - first:
+      213: -1182914989811921797
+    second: fantasy-2048-x-1536_006_162
+  - first:
+      213: 4668065252135596956
+    second: fantasy-2048-x-1536_006_163
+  - first:
+      213: -5393496178122569425
+    second: fantasy-2048-x-1536_006_164
+  - first:
+      213: 8466525846537327182
+    second: fantasy-2048-x-1536_006_165
+  - first:
+      213: 7968372359048545010
+    second: fantasy-2048-x-1536_006_166
+  - first:
+      213: -1193185946178374947
+    second: fantasy-2048-x-1536_006_167
+  - first:
+      213: -4376918817047016692
+    second: fantasy-2048-x-1536_006_168
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_0
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1523
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103291b34478b4540800000000000000
+      internalID: 4993233338989355777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1511
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb38ce2f58ec75a0800000000000000
+      internalID: -6522082664834909191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_2
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1505
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469fee3f30c846270800000000000000
+      internalID: 8242867166600165732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_3
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1511
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d384382ab2cef10800000000000000
+      internalID: 2300261486666726757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_4
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1494
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd6164a5300873d0800000000000000
+      internalID: -3208814504110363152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_5
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 1494
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31df8e9bb57dcfcd0800000000000000
+      internalID: -2522904902273270509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_6
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 1459
+        width: 72
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8df5cbcbd521d8c0800000000000000
+      internalID: -3976355370044621426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1422
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f4628be08cc2fb0800000000000000
+      internalID: -4671138747945431226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_8
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1440
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4bb1d6cae89c0c0800000000000000
+      internalID: -4554952676892494648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_9
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1487
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbab3b385d8bd6a0800000000000000
+      internalID: -6423385033423475782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_10
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1493
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0578cd009ecb3e7e0800000000000000
+      internalID: -1737337322307025072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_11
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1505
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d533e40c0f074d10800000000000000
+      internalID: 2109671494742390227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_12
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1493
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db040401566769080800000000000000
+      internalID: -9181020613911756611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_13
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1476
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d50f524bb96f0c0800000000000000
+      internalID: -4542271976123638449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_14
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1465
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059ae75d805da82c0800000000000000
+      internalID: -4428493049647158960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1475
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f1cf1e29d733980800000000000000
+      internalID: -8560360396891086988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_16
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1481
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1716c9800164f4160800000000000000
+      internalID: 7011900179517038961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_17
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1475
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6eaa0af629cc710800000000000000
+      internalID: 1714906566255896279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_18
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1481
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f070ae080e55480800000000000000
+      internalID: -8910969443395891334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_19
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1487
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed216eb09b4ecd30800000000000000
+      internalID: 4453580166557412842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_20
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1469
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71f0de73d3f2baa0800000000000000
+      internalID: -6146582451716034179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_21
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1411
+        width: 57
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82af841bd78261d0800000000000000
+      internalID: -3358972997052423539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_22
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 1446
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a43726a4c323080800000000000000
+      internalID: -9209231997842273774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_23
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 1457
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce91ab2a509c9d880800000000000000
+      internalID: -8585610188563015188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_24
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1451
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087f03f4bb52e82c0800000000000000
+      internalID: -4427559897240897664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_25
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1397
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d044ba58e3bbab370800000000000000
+      internalID: 8339183537234854925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_26
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1409
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0dd55dbcc375240800000000000000
+      internalID: 4780356375632793855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_27
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 1427
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f93a5b6a0337f70800000000000000
+      internalID: 9183737557708676967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_28
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 1439
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45a739e0f7a73f90800000000000000
+      internalID: -6973920844813195953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_29
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 1427
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b3b40a6a2152290800000000000000
+      internalID: -7915900263170622676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_30
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1421
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9476ce3795b24cdd0800000000000000
+      internalID: -2466799032695232695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_31
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1433
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d5d801a369a6fa0800000000000000
+      internalID: -5806663593410863788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_32
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1409
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31148e51b73b42e0800000000000000
+      internalID: -2140555962950086340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_33
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1415
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23396f77311950940800000000000000
+      internalID: 5261771252455346994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_34
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1385
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61f649bf3131fb60800000000000000
+      internalID: 7778052181206692205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_35
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1433
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ead2223b865aa80800000000000000
+      internalID: -8456237606736384398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_36
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1409
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeae4e57752ce6490800000000000000
+      internalID: -7751044227762165010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_37
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 1433
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a02e6f3f84ecaf0800000000000000
+      internalID: -374281506368910830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_38
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1397
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec290f9b0d9e7fc0800000000000000
+      internalID: -3495183587554546449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_39
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1391
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa6bbe0bf6042950800000000000000
+      internalID: 6423266643890891509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_40
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1421
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d22a7bf2001fd120800000000000000
+      internalID: 2440687128053162709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_41
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 1421
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588d45360dfd21ea0800000000000000
+      internalID: -5903410075416602491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_42
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1391
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fb451107d3bf400800000000000000
+      internalID: 358948146842484594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_43
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1379
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55551d75a40e06660800000000000000
+      internalID: 7377142799538410837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_44
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1409
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22809e4ef9c0a1180800000000000000
+      internalID: -9143982212542560222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_45
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1391
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd442726590d2f30800000000000000
+      internalID: 4552305063969967547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_46
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1350
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0153e11df85cf90800000000000000
+      internalID: -6933977922949279509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_47
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1379
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f575b22e814517f0800000000000000
+      internalID: -642535293106948622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_48
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1355
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8631a85cf3d8c07f0800000000000000
+      internalID: -644985341584207000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_49
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 1361
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0ed515b022cb060800000000000000
+      internalID: 6970483755267776717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_50
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 1351
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1fefe925163de00800000000000000
+      internalID: 1068304544099660282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_51
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1321
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4e5f0d1dd02d160800000000000000
+      internalID: 7048711561593349357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_52
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1338
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240b3e402b7dc6b80800000000000000
+      internalID: -8400102045366636478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_53
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1307
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452b683d66b16d8e0800000000000000
+      internalID: -1669116483444755884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_54
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 1331
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8cc1525781ba8e0800000000000000
+      internalID: -1681223144479864669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_55
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 1315
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a769d7f6465e1e940800000000000000
+      internalID: 5323788454058628730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_56
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1301
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef91a6096f5c57580800000000000000
+      internalID: -8829933831614490114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_57
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1307
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95ad70bd8aba4c80800000000000000
+      internalID: -8337646642408872545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_58
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1319
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5ccab439aa7ddf0800000000000000
+      internalID: -155468112514464317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_59
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1313
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49b2115276d60840800000000000000
+      internalID: 5190071407065872718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_60
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 1301
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc42ef48d972da040800000000000000
+      internalID: 4660424746892928204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_61
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1313
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73726e68aa147ed60800000000000000
+      internalID: 7919370670417782583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_62
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1284
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8253c1dc0b56a5660800000000000000
+      internalID: 7375319149802435880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_63
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 1301
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438fadcbfa9b74210800000000000000
+      internalID: 1317225580468041780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_64
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1295
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667a8e2248b5f3c30800000000000000
+      internalID: 4341289188887930726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_65
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1285
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de2fcb3a0237b960800000000000000
+      internalID: 7617612314254978777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_66
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1277
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7db849e800e5b7c0800000000000000
+      internalID: -4056089560499044995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_67
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1289
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b4ba7933dcaa1f0800000000000000
+      internalID: -1032787543056495755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_68
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 1279
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9397d94bbbcdc1b40800000000000000
+      internalID: 5412443550939707705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_69
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 1295
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95d7cc2a325bb050800000000000000
+      internalID: 5817333753492002206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_70
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 1301
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850306bbd060e8160800000000000000
+      internalID: 7029562724419907672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_71
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1265
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2711b824646a670800000000000000
+      internalID: 8549598194224427757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_72
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1271
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216e02b0ac4347140800000000000000
+      internalID: 4716452752138495506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_73
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1265
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2144b312e1e20fe60800000000000000
+      internalID: 7993940045524059154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_74
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1271
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31752bdb0bb820cd0800000000000000
+      internalID: -2593356844198897901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_75
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1283
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265c595d354603340800000000000000
+      internalID: 4841479910651708770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_76
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1255
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97755b412da8b5780800000000000000
+      internalID: -8693202020813416583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_77
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 1243
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8ebde858047f550800000000000000
+      internalID: 6194490754843011294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_78
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1255
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a745350d22a6440c0800000000000000
+      internalID: -4592429022254508934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_79
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 1266
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2b12af37edb3db0800000000000000
+      internalID: -4811007187216125269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_80
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 1277
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a231af91675a3f0800000000000000
+      internalID: -890175497393984997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_81
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1255
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e753547962540e150800000000000000
+      internalID: 5899791543904318846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_82
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1225
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759d73c921f35ef10800000000000000
+      internalID: 2298312534005373271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_83
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1245
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e6cb472de9cbe10800000000000000
+      internalID: 2214819743498268160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_84
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 1271
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e13f44c572878c90800000000000000
+      internalID: -7167616839620546080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_85
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 1229
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49024800f206055b0800000000000000
+      internalID: -5381695799719354220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_86
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1231
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5568f074087c5a1c0800000000000000
+      internalID: -4492965699470260651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_87
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1247
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d07d4e2204d2b410800000000000000
+      internalID: 1491487532444905689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_88
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1223
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d928e4b26a1d21e10800000000000000
+      internalID: 2167024882339971741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_89
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1253
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2990ebfcbd0d7c210800000000000000
+      internalID: 1353279855549876626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_90
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1241
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b75c5484a42feda0800000000000000
+      internalID: -5913467496700291146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_91
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1207
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2689c466a5922d950800000000000000
+      internalID: 6472281082724915298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_92
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1225
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c69657e9a9e21e0800000000000000
+      internalID: -2220667560881722329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_93
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1235
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b17ef94aeaf7e570800000000000000
+      internalID: 8496035106228433331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_94
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1223
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295698be932769080800000000000000
+      internalID: -9181025197257824878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_95
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1229
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c821e54a9fcca20d0800000000000000
+      internalID: -3446717192222141812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_96
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1225
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49fab57c17e81250800000000000000
+      internalID: 5915732219971434827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_97
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 1219
+        width: 53
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c7c804966049af0800000000000000
+      internalID: -390680218550109086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_98
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1229
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c57dd2788f3328e0800000000000000
+      internalID: -1719460777450179135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_99
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1213
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454755af149fd8d40800000000000000
+      internalID: 5588396774404748372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_100
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 1229
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4906aab7d3c8ad0800000000000000
+      internalID: -2698714475353041705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_101
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 1224
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7af5ac72ce6ffec0800000000000000
+      internalID: -3530981801241216386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_102
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 1235
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a4c3774174d9f40800000000000000
+      internalID: 5736819653565237774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_103
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1205
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9a6e4cc53643c00800000000000000
+      internalID: 879437077335681486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_104
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1195
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a525328a6157aa0800000000000000
+      internalID: -6163995603583739315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_105
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1219
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a07bd6f992e68a0800000000000000
+      internalID: -6310060263182235017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_106
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1213
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7eb2b1d97dedf000800000000000000
+      internalID: 71474276572774011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_107
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1201
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a360362a418e0f0800000000000000
+      internalID: -1087596622331364775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_108
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1223
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3178182b9abedb790800000000000000
+      internalID: -7512589489307285741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_109
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 1217
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71795e913ba5be190800000000000000
+      internalID: -7932146593402874089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_110
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 1207
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7beb394b8babdd1e0800000000000000
+      internalID: -2171374142856380745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_111
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 1217
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82a9e9934cb8ccb0800000000000000
+      internalID: -4843414400705912179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_112
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 1219
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f55d405fd4272f0800000000000000
+      internalID: -976632454442557675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_113
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1169
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae43fb9589e46490800000000000000
+      internalID: -7753815898368815447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_114
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1189
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e078c31c88b2c5490800000000000000
+      internalID: -7756276591881320690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_115
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1188
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce3ee27fbaad02e0800000000000000
+      internalID: -2157880907196907835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_116
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1181
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1f1fd1a0858cd20800000000000000
+      internalID: 3298983527524200878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_117
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1177
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74672e7d9f7ee060800000000000000
+      internalID: 6984660386501321853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_118
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1183
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77a9206673b54ce0800000000000000
+      internalID: -1421532786364668035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_119
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 1189
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7059bd39493cf50800000000000000
+      internalID: 6900522416826812320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_120
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1169
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6a53439d29e50e0800000000000000
+      internalID: -2279222899821402380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_121
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1151
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d145597f6ef893690800000000000000
+      internalID: -7621902672188845027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_122
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1172
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9177c00e37490950800000000000000
+      internalID: 6415737475792597402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_123
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 1164
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9341b3d9f9885250800000000000000
+      internalID: 5933644215152100255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_124
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1175
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd29637980d2ac40800000000000000
+      internalID: 5522205381875019249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_125
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 1151
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3e6914a9f03f390800000000000000
+      internalID: -7785862175593667586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_126
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1144
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690c18e4a1fbeb3f0800000000000000
+      internalID: -883058357210857322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_127
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 1163
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caeea593dd496a250800000000000000
+      internalID: 5955611235115003564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_128
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1128
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a08a70a50a2ce960800000000000000
+      internalID: 7632521672141734053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_129
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1133
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bfc186c8e50b2a00800000000000000
+      internalID: 732685861698785204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_130
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1121
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a310d930b4ecf60800000000000000
+      internalID: 8056459262303484420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_131
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1139
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8e6adaecfd9b2b0800000000000000
+      internalID: -5568173385497253671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_132
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 1133
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10402b850adce5a80800000000000000
+      internalID: -8476111360098171903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_133
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 1128
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2a391c6881e0220800000000000000
+      internalID: 2453925814015861423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_134
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1093
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562556ea66eb920b0800000000000000
+      internalID: -5752857700767280539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_135
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1104
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141ee9a498132a7f0800000000000000
+      internalID: -602864934382018239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_136
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1086
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571d280d2981e08d0800000000000000
+      internalID: -2878336093000642187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_137
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1099
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01dbc86b4f4e2810800000000000000
+      internalID: 1742417291138289934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_138
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1099
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c157c6e8ec153b50800000000000000
+      internalID: 6572191017846919621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_139
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1103
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92363f2192e2cb8d0800000000000000
+      internalID: -2829335711949036759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_140
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 1104
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b2cea85f43ed570800000000000000
+      internalID: 8493284176469699367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_141
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 877
+        width: 20
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2ba10fa5021f180800000000000000
+      internalID: -9083443398482152766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_142
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1097
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbf1ed89879088a0800000000000000
+      internalID: -6304872861271983180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_143
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 954
+        width: 52
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66941c33a980f81f0800000000000000
+      internalID: -1040603530513004186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_144
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1079
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463f2e6bd3f9958f0800000000000000
+      internalID: -551234391966026908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_145
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1067
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083cb2dd38a9cc4d0800000000000000
+      internalID: -3112943351277829248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_146
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1074
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae37fc7989b85fac0800000000000000
+      internalID: -3821995221255752726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_147
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 1075
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5d8139375eb55a0800000000000000
+      internalID: -6531374550018894345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_148
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 1079
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423c32f83b506b180800000000000000
+      internalID: -9100079728296738012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_149
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 1061
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c03ea89ea4ab550800000000000000
+      internalID: 6177332205810027669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_150
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1061
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3939df9e055a44530800000000000000
+      internalID: 3838374549368181651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_151
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 894
+        width: 280
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7bcb4835fecc3a0800000000000000
+      internalID: -6643672208290039850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_152
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1056
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adfaff3875c107de0800000000000000
+      internalID: -1337537927126732838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_153
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1043
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e0788817e27de10800000000000000
+      internalID: 2222296006287363666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_154
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1044
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc76842c74dd87c30800000000000000
+      internalID: 4357475939752896463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_155
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 1056
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c58d6e19a7d78ab0800000000000000
+      internalID: -5005795339439077947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_156
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1031
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323b03323a32f8bb0800000000000000
+      internalID: -4931683883370368221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_157
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1027
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37934719db3342250800000000000000
+      internalID: 5918912699553823091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_158
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 888
+        width: 80
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdcfba3cdbbaff00800000000000000
+      internalID: 1151439209299430907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_159
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1039
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3f5e764fd180290800000000000000
+      internalID: -7924050608806038615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_160
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 1037
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6c14a69658b0ab0800000000000000
+      internalID: -5040788670110382420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_161
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1025
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9a37a7ace27c480800000000000000
+      internalID: -8879076693164971588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_162
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1020
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c86c88511759fe0800000000000000
+      internalID: -1182914989811921797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_163
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 913
+        width: 64
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93f2e54d9c48c040800000000000000
+      internalID: 4668065252135596956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_164
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 1025
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29c39d4dc37625b0800000000000000
+      internalID: -5393496178122569425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_165
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1007
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42558c56642f7570800000000000000
+      internalID: 8466525846537327182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_166
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1007
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2412b3178559e60800000000000000
+      internalID: 7968372359048545010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_167
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 989
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2bc0724b3f07fe0800000000000000
+      internalID: -1193185946178374947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-2048-x-1536_006_168
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 900
+        width: 84
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b803b968f0243c0800000000000000
+      internalID: -4376918817047016692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

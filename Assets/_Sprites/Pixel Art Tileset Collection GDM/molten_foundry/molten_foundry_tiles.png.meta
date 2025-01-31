@@ -1,0 +1,4468 @@
+fileFormatVersion: 2
+guid: a4c5542459cb91249b0482b353de2782
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1782528210849166472
+    second: molten_foundry_tiles_0
+  - first:
+      213: -3078787289877509480
+    second: molten_foundry_tiles_1
+  - first:
+      213: -4697487628971202707
+    second: molten_foundry_tiles_2
+  - first:
+      213: 1962306982958191561
+    second: molten_foundry_tiles_3
+  - first:
+      213: -2129897856419229956
+    second: molten_foundry_tiles_4
+  - first:
+      213: -4873653069025006747
+    second: molten_foundry_tiles_5
+  - first:
+      213: -8657539744384790314
+    second: molten_foundry_tiles_6
+  - first:
+      213: -5361590134869038299
+    second: molten_foundry_tiles_7
+  - first:
+      213: 8801745460549929109
+    second: molten_foundry_tiles_8
+  - first:
+      213: 5885338573358141555
+    second: molten_foundry_tiles_9
+  - first:
+      213: 3587861076802578887
+    second: molten_foundry_tiles_10
+  - first:
+      213: 213014228743670083
+    second: molten_foundry_tiles_11
+  - first:
+      213: -737403027936438247
+    second: molten_foundry_tiles_12
+  - first:
+      213: -231539664871221835
+    second: molten_foundry_tiles_13
+  - first:
+      213: -6868476751408222146
+    second: molten_foundry_tiles_14
+  - first:
+      213: -3356385831599099410
+    second: molten_foundry_tiles_15
+  - first:
+      213: 993450541745168257
+    second: molten_foundry_tiles_16
+  - first:
+      213: -146973505672620480
+    second: molten_foundry_tiles_17
+  - first:
+      213: 8245269856013455176
+    second: molten_foundry_tiles_18
+  - first:
+      213: -6964674344516699600
+    second: molten_foundry_tiles_19
+  - first:
+      213: -2663423785517526619
+    second: molten_foundry_tiles_20
+  - first:
+      213: -8139903859109469772
+    second: molten_foundry_tiles_21
+  - first:
+      213: 1514346528514935292
+    second: molten_foundry_tiles_22
+  - first:
+      213: 1877863584837807449
+    second: molten_foundry_tiles_23
+  - first:
+      213: -3210276901637456558
+    second: molten_foundry_tiles_24
+  - first:
+      213: 5857126021499362280
+    second: molten_foundry_tiles_25
+  - first:
+      213: 3882734358669334373
+    second: molten_foundry_tiles_26
+  - first:
+      213: 6693264411794774327
+    second: molten_foundry_tiles_27
+  - first:
+      213: 8795064755274643699
+    second: molten_foundry_tiles_28
+  - first:
+      213: -7301765605051509612
+    second: molten_foundry_tiles_29
+  - first:
+      213: -1032739816613253524
+    second: molten_foundry_tiles_30
+  - first:
+      213: 7079700952241758216
+    second: molten_foundry_tiles_31
+  - first:
+      213: 5062055702984005997
+    second: molten_foundry_tiles_32
+  - first:
+      213: -8503206855147324015
+    second: molten_foundry_tiles_33
+  - first:
+      213: 8228482623018332858
+    second: molten_foundry_tiles_34
+  - first:
+      213: -1102436351402526359
+    second: molten_foundry_tiles_35
+  - first:
+      213: 8382243233932161770
+    second: molten_foundry_tiles_36
+  - first:
+      213: 102575362576780879
+    second: molten_foundry_tiles_37
+  - first:
+      213: 6720924306222825214
+    second: molten_foundry_tiles_38
+  - first:
+      213: 693931523766092727
+    second: molten_foundry_tiles_39
+  - first:
+      213: -8401244133180718415
+    second: molten_foundry_tiles_40
+  - first:
+      213: 7641274560986001169
+    second: molten_foundry_tiles_41
+  - first:
+      213: -6910120024076141315
+    second: molten_foundry_tiles_42
+  - first:
+      213: 8330609583533238385
+    second: molten_foundry_tiles_43
+  - first:
+      213: 5511630318057405328
+    second: molten_foundry_tiles_44
+  - first:
+      213: -9028976950851884186
+    second: molten_foundry_tiles_45
+  - first:
+      213: -8924250535037754313
+    second: molten_foundry_tiles_46
+  - first:
+      213: -7917945025675737756
+    second: molten_foundry_tiles_47
+  - first:
+      213: -3223318187063223323
+    second: molten_foundry_tiles_48
+  - first:
+      213: -8036821300658476895
+    second: molten_foundry_tiles_49
+  - first:
+      213: 9179371320036787946
+    second: molten_foundry_tiles_50
+  - first:
+      213: -1562890948080343518
+    second: molten_foundry_tiles_51
+  - first:
+      213: 3446112391707076156
+    second: molten_foundry_tiles_52
+  - first:
+      213: 5415697945112852669
+    second: molten_foundry_tiles_53
+  - first:
+      213: 6099397219640358026
+    second: molten_foundry_tiles_54
+  - first:
+      213: 3707605467219418586
+    second: molten_foundry_tiles_55
+  - first:
+      213: 8913999873770803853
+    second: molten_foundry_tiles_56
+  - first:
+      213: -4407053750138038768
+    second: molten_foundry_tiles_57
+  - first:
+      213: 2738659639480524070
+    second: molten_foundry_tiles_58
+  - first:
+      213: -5827580283887073453
+    second: molten_foundry_tiles_59
+  - first:
+      213: -6693323524333662367
+    second: molten_foundry_tiles_60
+  - first:
+      213: -1702015918188925538
+    second: molten_foundry_tiles_61
+  - first:
+      213: 1218334005463492936
+    second: molten_foundry_tiles_62
+  - first:
+      213: -2871422510363916440
+    second: molten_foundry_tiles_63
+  - first:
+      213: 1872136257844306191
+    second: molten_foundry_tiles_64
+  - first:
+      213: -8502853526806500428
+    second: molten_foundry_tiles_65
+  - first:
+      213: -235743873391621851
+    second: molten_foundry_tiles_66
+  - first:
+      213: 3638861572448048482
+    second: molten_foundry_tiles_67
+  - first:
+      213: -4421797346384442097
+    second: molten_foundry_tiles_68
+  - first:
+      213: -103670581873031656
+    second: molten_foundry_tiles_69
+  - first:
+      213: -3226324835428737115
+    second: molten_foundry_tiles_70
+  - first:
+      213: 3959095321887012311
+    second: molten_foundry_tiles_71
+  - first:
+      213: -7552776665637103898
+    second: molten_foundry_tiles_72
+  - first:
+      213: 6848010454892504213
+    second: molten_foundry_tiles_73
+  - first:
+      213: -7677508893848297628
+    second: molten_foundry_tiles_74
+  - first:
+      213: 1658454144169194311
+    second: molten_foundry_tiles_75
+  - first:
+      213: -2958651542740460091
+    second: molten_foundry_tiles_76
+  - first:
+      213: -642792320761203486
+    second: molten_foundry_tiles_77
+  - first:
+      213: 8804429969055348511
+    second: molten_foundry_tiles_78
+  - first:
+      213: -5166815118300757378
+    second: molten_foundry_tiles_79
+  - first:
+      213: 7413545381172583428
+    second: molten_foundry_tiles_80
+  - first:
+      213: -7661303666450751510
+    second: molten_foundry_tiles_81
+  - first:
+      213: -4103868216895816260
+    second: molten_foundry_tiles_82
+  - first:
+      213: 70485799723496350
+    second: molten_foundry_tiles_83
+  - first:
+      213: 8848110507814051821
+    second: molten_foundry_tiles_84
+  - first:
+      213: -629883875207293774
+    second: molten_foundry_tiles_85
+  - first:
+      213: 5513618751505809912
+    second: molten_foundry_tiles_86
+  - first:
+      213: -6997053016938410454
+    second: molten_foundry_tiles_87
+  - first:
+      213: -8428229854789619324
+    second: molten_foundry_tiles_88
+  - first:
+      213: 8689809004448689743
+    second: molten_foundry_tiles_89
+  - first:
+      213: 7098898740552458290
+    second: molten_foundry_tiles_90
+  - first:
+      213: -8245210117957930498
+    second: molten_foundry_tiles_91
+  - first:
+      213: -4834752856720764951
+    second: molten_foundry_tiles_92
+  - first:
+      213: -3307781400768655173
+    second: molten_foundry_tiles_93
+  - first:
+      213: 9038187822617719190
+    second: molten_foundry_tiles_94
+  - first:
+      213: -5616600583734919960
+    second: molten_foundry_tiles_95
+  - first:
+      213: 253043852759217289
+    second: molten_foundry_tiles_96
+  - first:
+      213: -198418201720251868
+    second: molten_foundry_tiles_97
+  - first:
+      213: 1034084613032411699
+    second: molten_foundry_tiles_98
+  - first:
+      213: -1310324245554490859
+    second: molten_foundry_tiles_99
+  - first:
+      213: 6606551693128334772
+    second: molten_foundry_tiles_100
+  - first:
+      213: 1229038255281240031
+    second: molten_foundry_tiles_101
+  - first:
+      213: -3099654522576210812
+    second: molten_foundry_tiles_102
+  - first:
+      213: 5356421543296973367
+    second: molten_foundry_tiles_103
+  - first:
+      213: -8640357388577518617
+    second: molten_foundry_tiles_104
+  - first:
+      213: 7584535668168074054
+    second: molten_foundry_tiles_105
+  - first:
+      213: 8919218250020882979
+    second: molten_foundry_tiles_106
+  - first:
+      213: 4359166345047911223
+    second: molten_foundry_tiles_107
+  - first:
+      213: -4680011168338529185
+    second: molten_foundry_tiles_108
+  - first:
+      213: -2673062690691944021
+    second: molten_foundry_tiles_109
+  - first:
+      213: -8022992506119370671
+    second: molten_foundry_tiles_110
+  - first:
+      213: -4569349323974302539
+    second: molten_foundry_tiles_111
+  - first:
+      213: -5392138241762726540
+    second: molten_foundry_tiles_112
+  - first:
+      213: -286084735248680499
+    second: molten_foundry_tiles_113
+  - first:
+      213: -2450084388134052316
+    second: molten_foundry_tiles_114
+  - first:
+      213: -6556891487778942825
+    second: molten_foundry_tiles_115
+  - first:
+      213: -2623741589009965302
+    second: molten_foundry_tiles_116
+  - first:
+      213: -7739275847838073811
+    second: molten_foundry_tiles_117
+  - first:
+      213: -6501174516406150902
+    second: molten_foundry_tiles_118
+  - first:
+      213: -2782631982459763390
+    second: molten_foundry_tiles_119
+  - first:
+      213: 9124756742509575090
+    second: molten_foundry_tiles_120
+  - first:
+      213: -1240262986837662524
+    second: molten_foundry_tiles_121
+  - first:
+      213: -7154303804304510548
+    second: molten_foundry_tiles_122
+  - first:
+      213: 7052315623487171251
+    second: molten_foundry_tiles_123
+  - first:
+      213: -574655531659660981
+    second: molten_foundry_tiles_124
+  - first:
+      213: -6744835961489745094
+    second: molten_foundry_tiles_125
+  - first:
+      213: 3780721453606301057
+    second: molten_foundry_tiles_126
+  - first:
+      213: 7269300926187632266
+    second: molten_foundry_tiles_127
+  - first:
+      213: -4708711732668223039
+    second: molten_foundry_tiles_128
+  - first:
+      213: -4322562376050325541
+    second: molten_foundry_tiles_129
+  - first:
+      213: -7601125308211705259
+    second: molten_foundry_tiles_130
+  - first:
+      213: 481908784685585711
+    second: molten_foundry_tiles_131
+  - first:
+      213: 6615326277966660663
+    second: molten_foundry_tiles_132
+  - first:
+      213: -4313349408844114935
+    second: molten_foundry_tiles_133
+  - first:
+      213: -9178708142516355145
+    second: molten_foundry_tiles_134
+  - first:
+      213: 850587696118942447
+    second: molten_foundry_tiles_135
+  - first:
+      213: 1414524403482745656
+    second: molten_foundry_tiles_136
+  - first:
+      213: -947994689911974497
+    second: molten_foundry_tiles_137
+  - first:
+      213: 8343146754899095639
+    second: molten_foundry_tiles_138
+  - first:
+      213: -6668075508395657178
+    second: molten_foundry_tiles_139
+  - first:
+      213: -7546641391148423225
+    second: molten_foundry_tiles_140
+  - first:
+      213: 5298852966868344978
+    second: molten_foundry_tiles_141
+  - first:
+      213: 8207568700808166476
+    second: molten_foundry_tiles_142
+  - first:
+      213: -6041851573819729746
+    second: molten_foundry_tiles_143
+  - first:
+      213: 6444328404936932316
+    second: molten_foundry_tiles_144
+  - first:
+      213: -2518722229959561687
+    second: molten_foundry_tiles_145
+  - first:
+      213: 8219644504413794232
+    second: molten_foundry_tiles_146
+  - first:
+      213: 456768370347969366
+    second: molten_foundry_tiles_147
+  - first:
+      213: 6637318284477479921
+    second: molten_foundry_tiles_148
+  - first:
+      213: 6641152784678286617
+    second: molten_foundry_tiles_149
+  - first:
+      213: 5604037583449566620
+    second: molten_foundry_tiles_150
+  - first:
+      213: -818645275815647584
+    second: molten_foundry_tiles_151
+  - first:
+      213: 5900871214199008688
+    second: molten_foundry_tiles_152
+  - first:
+      213: 845945303189251824
+    second: molten_foundry_tiles_153
+  - first:
+      213: -1609618061260705291
+    second: molten_foundry_tiles_154
+  - first:
+      213: -391013135875880865
+    second: molten_foundry_tiles_155
+  - first:
+      213: -1340556823064901735
+    second: molten_foundry_tiles_156
+  - first:
+      213: 7584307026085623469
+    second: molten_foundry_tiles_157
+  - first:
+      213: 975143165137642054
+    second: molten_foundry_tiles_158
+  - first:
+      213: -1490804489747759408
+    second: molten_foundry_tiles_159
+  - first:
+      213: -8863023025757440618
+    second: molten_foundry_tiles_160
+  - first:
+      213: 3440311105685054075
+    second: molten_foundry_tiles_161
+  - first:
+      213: 2740165245277092733
+    second: molten_foundry_tiles_162
+  - first:
+      213: 1121321240159331401
+    second: molten_foundry_tiles_163
+  - first:
+      213: 6646047657224160246
+    second: molten_foundry_tiles_164
+  - first:
+      213: -1127234400596644472
+    second: molten_foundry_tiles_165
+  - first:
+      213: -3405970189058663284
+    second: molten_foundry_tiles_166
+  - first:
+      213: 1208032805772552232
+    second: molten_foundry_tiles_167
+  - first:
+      213: 3154214900621662591
+    second: molten_foundry_tiles_168
+  - first:
+      213: 9189171460445134425
+    second: molten_foundry_tiles_169
+  - first:
+      213: 5495303152346029125
+    second: molten_foundry_tiles_170
+  - first:
+      213: -867294718426351747
+    second: molten_foundry_tiles_171
+  - first:
+      213: -1718428101602221877
+    second: molten_foundry_tiles_172
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: molten_foundry_tiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 441
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884f6c9a6ffccb810800000000000000
+      internalID: 1782528210849166472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a0ddf9543f545d0800000000000000
+      internalID: -3078787289877509480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_2
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 441
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67216ac3eb2fceb0800000000000000
+      internalID: -4697487628971202707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_3
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 432
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3dd73edc38b3b10800000000000000
+      internalID: 1962306982958191561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 441
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe044c2f251172e0800000000000000
+      internalID: -2129897856419229956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 432
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ba54efa5e4d5cb0800000000000000
+      internalID: -4873653069025006747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_6
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 441
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d05e1bd87d3ad780800000000000000
+      internalID: -8657539744384790314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_7
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 432
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b64e3ed2ec795b0800000000000000
+      internalID: -5361590134869038299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 423
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5984c7bdcd4162a70800000000000000
+      internalID: 8801745460549929109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 414
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3709ae7204ceca150800000000000000
+      internalID: 5885338573358141555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 423
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9a44ad3a4aac130800000000000000
+      internalID: 3587861076802578887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_11
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 414
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349ce5cff47c4f200800000000000000
+      internalID: 213014228743670083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 423
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9181d8f5ad734c5f0800000000000000
+      internalID: -737403027936438247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_13
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 414
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b510fbc6e769ccf0800000000000000
+      internalID: -231539664871221835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_14
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 423
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30b84c09c44ea0a0800000000000000
+      internalID: -6868476751408222146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_15
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 414
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1b16a7ed8bb61d0800000000000000
+      internalID: -3356385831599099410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 405
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18fd3a2110279cd00800000000000000
+      internalID: 993450541745168257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0465df21068d5fdf0800000000000000
+      internalID: -146973505672620480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 405
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f0becaf351d6270800000000000000
+      internalID: 8245269856013455176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_19
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 396
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a3ec68591885f90800000000000000
+      internalID: -6964674344516699600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_20
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 396
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1d6e1bd2e990bd0800000000000000
+      internalID: -2663423785517526619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_21
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 405
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1e2f33190490f80800000000000000
+      internalID: -8139903859109469772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_22
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 405
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf98af2f42a040510800000000000000
+      internalID: 1514346528514935292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_23
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 396
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d26e62bf28f0a10800000000000000
+      internalID: 1877863584837807449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 378
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25df14faa2ec273d0800000000000000
+      internalID: -3210276901637456558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_25
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 378
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb9a2c8511b84150800000000000000
+      internalID: 5857126021499362280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_26
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 387
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56790bdd35e32e530800000000000000
+      internalID: 3882734358669334373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_27
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 378
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7399ac4258043ec50800000000000000
+      internalID: 6693264411794774327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_28
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 387
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8f3b2fbc85e0a70800000000000000
+      internalID: 8795064755274643699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_29
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 378
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4945dbd5edaeaaa90800000000000000
+      internalID: -7301765605051509612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 369
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e6d55cb98faa1f0800000000000000
+      internalID: -1032739816613253524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 345
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8006d569186204260800000000000000
+      internalID: 7079700952241758216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_32
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 369
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d691a9987d8004640800000000000000
+      internalID: 5062055702984005997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_33
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 360
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19df64bca6a8ef980800000000000000
+      internalID: -8503206855147324015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_34
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 360
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab27b796951713270800000000000000
+      internalID: 8228482623018332858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_35
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 369
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969bc27bafb53b0f0800000000000000
+      internalID: -1102436351402526359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_36
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 369
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2b27b6fc5b35470800000000000000
+      internalID: 8382243233932161770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_37
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 360
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e8811bfbb6c6100800000000000000
+      internalID: 102575362576780879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_38
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 351
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe33ba2c05854d50800000000000000
+      internalID: 6720924306222825214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_39
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 342
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b306845b0751a900800000000000000
+      internalID: 693931523766092727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_40
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 351
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2cd6af8f8c86b80800000000000000
+      internalID: -8401244133180718415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_41
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 342
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11facce5ab24b0a60800000000000000
+      internalID: 7641274560986001169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_42
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 351
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfcb0a113725a10a0800000000000000
+      internalID: -6910120024076141315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_43
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 342
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178a6fc57454c9370800000000000000
+      internalID: 8330609583533238385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 333
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bb519829e3d7c40800000000000000
+      internalID: 5511630318057405328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 324
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ba84ffc41a2b280800000000000000
+      internalID: -9028976950851884186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_46
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 333
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7342c7ccb61b62480800000000000000
+      internalID: -8924250535037754313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_47
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 324
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465c68143fecd1290800000000000000
+      internalID: -7917945025675737756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_48
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 333
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb5a0ecf297443d0800000000000000
+      internalID: -3223318187063223323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_49
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 324
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a865f2ab99777090800000000000000
+      internalID: -8036821300658476895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_50
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 333
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae68338c49da36f70800000000000000
+      internalID: 9179371320036787946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2266ff896fe7f4ae0800000000000000
+      internalID: -1562890948080343518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36a5c346fc03df20800000000000000
+      internalID: 3446112391707076156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_53
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 306
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8b345669c682b40800000000000000
+      internalID: 5415697945112852669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_54
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 315
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a843bac847965a450800000000000000
+      internalID: 6099397219640358026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_55
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 306
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: addd8e8578f047330800000000000000
+      internalID: 3707605467219418586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 297
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d825cf328a3e4bb70800000000000000
+      internalID: 8913999873770803853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01618fcb6fff6d2c0800000000000000
+      internalID: -4407053750138038768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_58
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 288
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d9feb9e6ca10620800000000000000
+      internalID: 2738659639480524070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_59
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 288
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35747de8b96402fa0800000000000000
+      internalID: -5827580283887073453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_60
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 297
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f8355a7b98c13a0800000000000000
+      internalID: -6693323524333662367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_61
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 297
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9de9424a893168e0800000000000000
+      internalID: -1702015918188925538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_62
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 288
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8492e6da25468e010800000000000000
+      internalID: 1218334005463492936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 279
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867c2b5b078a628d0800000000000000
+      internalID: -2871422510363916440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_64
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 270
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0160fbe10a2bf910800000000000000
+      internalID: 1872136257844306191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_65
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 279
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb658574cbcff980800000000000000
+      internalID: -8502853526806500428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_66
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 279
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529848832387abcf0800000000000000
+      internalID: -235743873391621851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_67
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 279
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265d5941255df7230800000000000000
+      internalID: 3638861572448048482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 243
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d8dfbbdbe92a2c0800000000000000
+      internalID: -4421797346384442097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_69
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 261
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816ccc1b720bf8ef0800000000000000
+      internalID: -103670581873031656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_70
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 252
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afdf3ee7aac933d0800000000000000
+      internalID: -3226324835428737115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_71
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 262
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d57cf4183881f630800000000000000
+      internalID: 3959095321887012311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e657d093a52f2790800000000000000
+      internalID: -7552776665637103898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_73
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 243
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5946706f935090f50800000000000000
+      internalID: 6848010454892504213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_74
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 234
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f15469652047590800000000000000
+      internalID: -7677508893848297628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_75
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 243
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743ba7bd143040710800000000000000
+      internalID: 1658454144169194311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_76
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 234
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd1bc4f812c0f6d0800000000000000
+      internalID: -2958651542740460091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_77
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 243
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4fda83ac75417f0800000000000000
+      internalID: -642792320761203486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_78
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 234
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17f853b86e9f2a70800000000000000
+      internalID: 8804429969055348511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72c09d5609cb48b0800000000000000
+      internalID: -5166815118300757378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c970bde3432e660800000000000000
+      internalID: 7413545381172583428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_81
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 225
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef1ecc18e49da590800000000000000
+      internalID: -7661303666450751510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_82
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 216
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbdb8e699912c07c0800000000000000
+      internalID: -4103868216895816260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_83
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 225
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e937a3e167a6af000800000000000000
+      internalID: 70485799723496350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_84
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 216
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def58a7a0adcaca70800000000000000
+      internalID: 8848110507814051821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_85
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 225
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4d588e3f33247f0800000000000000
+      internalID: -629883875207293774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_86
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 216
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1cf66ca0f448c40800000000000000
+      internalID: 5513618751505809912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e8fc26a5975ee90800000000000000
+      internalID: -6997053016938410454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4813ceb0a99e80b80800000000000000
+      internalID: -8428229854789619324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_89
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 207
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ea72cbf37689870800000000000000
+      internalID: 8689809004448689743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_90
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 198
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230e81ffaca548260800000000000000
+      internalID: 7098898740552458290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_91
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 207
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef139ac2511239d80800000000000000
+      internalID: -8245210117957930498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_92
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 198
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef8a5674e187ecb0800000000000000
+      internalID: -4834752856720764951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_93
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 198
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb05a8467566812d0800000000000000
+      internalID: -3307781400768655173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_94
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 207
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691f36430f71e6d70800000000000000
+      internalID: 9038187822617719190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 189
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec7a31f683dd02b0800000000000000
+      internalID: -5616600583734919960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9843f4c1b0ef28300800000000000000
+      internalID: 253043852759217289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_97
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 189
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a1e7162b31f3df0800000000000000
+      internalID: -198418201720251868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_98
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 180
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3328e7b0a7ec95e00800000000000000
+      internalID: 1034084613032411699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_99
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 189
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51294238a0bc0dde0800000000000000
+      internalID: -1310324245554490859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_100
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 180
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd7b2b03cf2fab50800000000000000
+      internalID: 6606551693128334772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_101
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 189
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7776d08cb6e0110800000000000000
+      internalID: 1229038255281240031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_102
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 180
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484796762a0dbf4d0800000000000000
+      internalID: -3099654522576210812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a377b9305d55a40800000000000000
+      internalID: 5356421543296973367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb4a61dbb8471880800000000000000
+      internalID: -8640357388577518617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_105
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 171
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643207f610fa14960800000000000000
+      internalID: 7584535668168074054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_106
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 162
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a0daa0ebd67cb70800000000000000
+      internalID: 8919218250020882979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_107
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 171
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b2b69e1bede7c30800000000000000
+      internalID: 4359166345047911223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_108
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 162
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54325e53a24d0fb0800000000000000
+      internalID: -4680011168338529185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_109
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 171
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1f4f235af57ead0800000000000000
+      internalID: -2673062690691944021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_110
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 162
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1584225c2da98a090800000000000000
+      internalID: -8022992506119370671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b427d1dff86690c0800000000000000
+      internalID: -4569349323974302539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47deeef76d64b25b0800000000000000
+      internalID: -5392138241762726540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_113
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 153
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc937d3f27f970cf0800000000000000
+      internalID: -286084735248680499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_114
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 144
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e1a87ea3d8ffdd0800000000000000
+      internalID: -2450084388134052316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_115
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 153
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79057288eed3105a0800000000000000
+      internalID: -6556891487778942825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_116
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 144
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f54ac0de8969bd0800000000000000
+      internalID: -2623741589009965302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_117
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 153
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2cf9deee91989490800000000000000
+      internalID: -7739275847838073811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_118
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 144
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a091ac6d83037c5a0800000000000000
+      internalID: -6501174516406150902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24548d874fa1269d0800000000000000
+      internalID: -2782631982459763390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb322b89e5a1ae70800000000000000
+      internalID: 9124756742509575090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_121
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 135
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4e9797263b9cee0800000000000000
+      internalID: -1240262986837662524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_122
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 126
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca13439589ec6bc90800000000000000
+      internalID: -7154303804304510548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_123
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 135
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bae3edd1bbded160800000000000000
+      internalID: 7052315623487171251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_124
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 126
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41763fa6d96608f0800000000000000
+      internalID: -574655531659660981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_125
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 135
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b9f1fbd678562a0800000000000000
+      internalID: -6744835961489745094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_126
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 126
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18de6e48122d77430800000000000000
+      internalID: 3780721453606301057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_127
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86f4de8daeb1e460800000000000000
+      internalID: 7269300926187632266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1b89080ab47aeb0800000000000000
+      internalID: -4708711732668223039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_129
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 117
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd74d00cb6c2304c0800000000000000
+      internalID: -4322562376050325541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_130
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 108
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a4fcefdc0638690800000000000000
+      internalID: -7601125308211705259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_131
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 117
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2513558c7510b600800000000000000
+      internalID: 481908784685585711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_132
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 112
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7348287433c5ecb50800000000000000
+      internalID: 6615326277966660663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_133
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 117
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90494b5d097e324c0800000000000000
+      internalID: -4313349408844114935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_134
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bfb354439dae9080800000000000000
+      internalID: -9178708142516355145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_135
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 99
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feacc75c005edcb00800000000000000
+      internalID: 850587696118942447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_136
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 81
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83bd5b3537661a310800000000000000
+      internalID: 1414524403482745656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_137
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 99
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9517da2adb08d2f0800000000000000
+      internalID: -947994689911974497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_138
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 85
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750b6ba05cfc8c370800000000000000
+      internalID: 8343146754899095639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_139
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 99
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628389277ac3673a0800000000000000
+      internalID: -6668075508395657178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_140
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 81
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7a65973a1f44790800000000000000
+      internalID: -7546641391148423225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_141
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2906637e2be498940800000000000000
+      internalID: 5298852966868344978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_142
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cf8417f3427e170800000000000000
+      internalID: 8207568700808166476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_143
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 72
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea817d43108072ca0800000000000000
+      internalID: -6041851573819729746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_144
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbb9307a8ade6950800000000000000
+      internalID: 6444328404936932316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_145
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 72
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e61630a73bb0dd0800000000000000
+      internalID: -2518722229959561687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_146
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 63
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf6391902b021270800000000000000
+      internalID: 8219644504413794232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_147
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b893ba964c65600800000000000000
+      internalID: 456768370347969366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_148
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 72
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb3c7f40dd7c1c50800000000000000
+      internalID: 6637318284477479921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_149
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91578d5754d1a2c50800000000000000
+      internalID: 6641152784678286617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d237d9d7a85cd40800000000000000
+      internalID: 5604037583449566620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_151
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 54
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6e4f1857693a4f0800000000000000
+      internalID: -818645275815647584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_152
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 45
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bde8abea1b14e150800000000000000
+      internalID: 5900871214199008688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_153
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 54
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6610075c66dbb00800000000000000
+      internalID: 845945303189251824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_154
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 45
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1b082c6ec79a9e0800000000000000
+      internalID: -1609618061260705291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_155
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f584b95ef97d29af0800000000000000
+      internalID: -391013135875880865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9978df70ca2656de0800000000000000
+      internalID: -1340556823064901735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_157
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6355d8e0fd04960800000000000000
+      internalID: 7584307026085623469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_158
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642ed2bca87688d00800000000000000
+      internalID: 975143165137642054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_159
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 27
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0def60717399f4be0800000000000000
+      internalID: -1490804489747759408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_160
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695be913487300580800000000000000
+      internalID: -8863023025757440618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_161
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72603b19b07ebf20800000000000000
+      internalID: 3440311105685054075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7bbc96c5c5070620800000000000000
+      internalID: 2740165245277092733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_163
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9442cc61abbbf8f00800000000000000
+      internalID: 1121321240159331401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_164
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3c929c1218b3c50800000000000000
+      internalID: 6646047657224160246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_165
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d26d5f8424b50f0800000000000000
+      internalID: -1127234400596644472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_166
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 9
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c969d98209bb0d0800000000000000
+      internalID: -3405970189058663284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_167
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8286719bf6bc3c010800000000000000
+      internalID: 1208032805772552232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_168
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 11
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f795cc88db506cb20800000000000000
+      internalID: 3154214900621662591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_169
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e5df7c1ce768f70800000000000000
+      internalID: 9189171460445134425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_170
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c5ba80a1d334c40800000000000000
+      internalID: 5495303152346029125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_171
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77ff987c00c6f3f0800000000000000
+      internalID: -867294718426351747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molten_foundry_tiles_172
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc063f70fbae628e0800000000000000
+      internalID: -1718428101602221877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

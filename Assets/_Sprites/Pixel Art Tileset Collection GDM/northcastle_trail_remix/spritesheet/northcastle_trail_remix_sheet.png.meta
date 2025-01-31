@@ -1,0 +1,843 @@
+fileFormatVersion: 2
+guid: 56a35a524cdbd314b9f46e9a97f20966
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1024562289184057936
+    second: northcastle_trail_remix_sheet_0
+  - first:
+      213: -6211455645301723397
+    second: northcastle_trail_remix_sheet_1
+  - first:
+      213: 1950245061021142389
+    second: northcastle_trail_remix_sheet_2
+  - first:
+      213: 8934737756546821628
+    second: northcastle_trail_remix_sheet_3
+  - first:
+      213: -8234903799109852380
+    second: northcastle_trail_remix_sheet_4
+  - first:
+      213: -4394316491025259952
+    second: northcastle_trail_remix_sheet_5
+  - first:
+      213: 2010690685714693274
+    second: northcastle_trail_remix_sheet_6
+  - first:
+      213: 6083828607491970841
+    second: northcastle_trail_remix_sheet_7
+  - first:
+      213: 5664076020210351048
+    second: northcastle_trail_remix_sheet_8
+  - first:
+      213: -7430577416289617145
+    second: northcastle_trail_remix_sheet_9
+  - first:
+      213: 1892135233639986383
+    second: northcastle_trail_remix_sheet_10
+  - first:
+      213: 8899869975764971529
+    second: northcastle_trail_remix_sheet_11
+  - first:
+      213: -4687308382782304005
+    second: northcastle_trail_remix_sheet_12
+  - first:
+      213: -5587467711202134367
+    second: northcastle_trail_remix_sheet_13
+  - first:
+      213: -370350482744263865
+    second: northcastle_trail_remix_sheet_14
+  - first:
+      213: 4057498012113283256
+    second: northcastle_trail_remix_sheet_15
+  - first:
+      213: -2886276114019269832
+    second: northcastle_trail_remix_sheet_16
+  - first:
+      213: 388641246227202369
+    second: northcastle_trail_remix_sheet_17
+  - first:
+      213: 3917766860574934949
+    second: northcastle_trail_remix_sheet_18
+  - first:
+      213: 5130182526868429371
+    second: northcastle_trail_remix_sheet_19
+  - first:
+      213: 4225658494786136738
+    second: northcastle_trail_remix_sheet_20
+  - first:
+      213: -3565627724505312090
+    second: northcastle_trail_remix_sheet_21
+  - first:
+      213: 2438501868992250450
+    second: northcastle_trail_remix_sheet_22
+  - first:
+      213: -9005611083920300904
+    second: northcastle_trail_remix_sheet_23
+  - first:
+      213: -6976977061549237950
+    second: northcastle_trail_remix_sheet_24
+  - first:
+      213: 3216170993944844271
+    second: northcastle_trail_remix_sheet_25
+  - first:
+      213: -7487549365420887913
+    second: northcastle_trail_remix_sheet_26
+  - first:
+      213: -6964309589339104066
+    second: northcastle_trail_remix_sheet_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: northcastle_trail_remix_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 258
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05aa31149f9f73e00800000000000000
+      internalID: 1024562289184057936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northcastle_trail_remix_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 204
+        width: 64
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe22b3100a7cc9a0800000000000000
+      internalID: -6211455645301723397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northcastle_trail_remix_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 219
+        width: 64
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d0027dc89a01b10800000000000000
+      internalID: 1950245061021142389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northcastle_trail_remix_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 236
+        width: 64
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd6e3cb6a09efb70800000000000000
+      internalID: 8934737756546821628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northcastle_trail_remix_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 58
+        width: 18
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423ea8600aeb7bd80800000000000000
+      internalID: -8234903799109852380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northcastle_trail_remix_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 268
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0526cc9fe604403c0800000000000000
+      internalID: -4394316491025259952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northcastle_trail_remix_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 104
+        width: 61
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9cf53b868867eb10800000000000000
+      internalID: 2010690685714693274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northcastle_trail_remix_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 170
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9171bef82e91e6450800000000000000
+      internalID: 6083828607491970841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northcastle_trail_remix_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 105
+        width: 64
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb327d7127da9e40800000000000000
+      internalID: 5664076020210351048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northcastle_trail_remix_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 122
+        width: 61
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b7402753941e890800000000000000
+      internalID: -7430577416289617145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northcastle_trail_remix_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 218
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4bc1458f6324a10800000000000000
+      internalID: 1892135233639986383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northcastle_trail_remix_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 120
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900b2a4e690b28b70800000000000000
+      internalID: 8899869975764971529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northcastle_trail_remix_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 35
+        width: 61
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0dc8b3cd553feb0800000000000000
+      internalID: -4687308382782304005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northcastle_trail_remix_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 168
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6f4d768b35572b0800000000000000
+      internalID: -5587467711202134367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northcastle_trail_remix_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 118
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b32a9b2304cdaf0800000000000000
+      internalID: -370350482744263865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northcastle_trail_remix_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 70
+        width: 90
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8add8c1f02f4830800000000000000
+      internalID: 4057498012113283256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northcastle_trail_remix_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 16
+        width: 68
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833cf2c9a23e1f7d0800000000000000
+      internalID: -2886276114019269832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northcastle_trail_remix_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 8
+        width: 34
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1410072872bb46500800000000000000
+      internalID: 388641246227202369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northcastle_trail_remix_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 5
+        width: 36
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7cd55d334be5630800000000000000
+      internalID: 3917766860574934949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northcastle_trail_remix_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 55
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a98eac3d1123740800000000000000
+      internalID: 5130182526868429371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northcastle_trail_remix_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 68
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aae6d3330e84aa30800000000000000
+      internalID: 4225658494786136738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northcastle_trail_remix_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 36
+        width: 82
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4939fd978548ec0800000000000000
+      internalID: -3565627724505312090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northcastle_trail_remix_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 5
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252c865b78c47d120800000000000000
+      internalID: 2438501868992250450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northcastle_trail_remix_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 3
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8942c95de64a50380800000000000000
+      internalID: -9005611083920300904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northcastle_trail_remix_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 17
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2491f40045ccc2f90800000000000000
+      internalID: -6976977061549237950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northcastle_trail_remix_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 14
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe75ffe9a7222ac20800000000000000
+      internalID: 3216170993944844271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northcastle_trail_remix_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 14
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790f2ebd581e61890800000000000000
+      internalID: -7487549365420887913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northcastle_trail_remix_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 13
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc9895b35dc95f90800000000000000
+      internalID: -6964309589339104066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

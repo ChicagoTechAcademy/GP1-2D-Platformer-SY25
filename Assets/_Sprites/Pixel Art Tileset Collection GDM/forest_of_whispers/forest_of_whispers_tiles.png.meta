@@ -1,0 +1,3493 @@
+fileFormatVersion: 2
+guid: 3521385955b8c724a9c5ac225d7c15b9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5413630977459750368
+    second: forest_of_whispers_tiles_0
+  - first:
+      213: -3406344979532952250
+    second: forest_of_whispers_tiles_1
+  - first:
+      213: -8778836948162410162
+    second: forest_of_whispers_tiles_2
+  - first:
+      213: 2394153904974047526
+    second: forest_of_whispers_tiles_3
+  - first:
+      213: 4400767461298735856
+    second: forest_of_whispers_tiles_4
+  - first:
+      213: -2748324117566482293
+    second: forest_of_whispers_tiles_5
+  - first:
+      213: 6997746848519942339
+    second: forest_of_whispers_tiles_6
+  - first:
+      213: -5190598907270375677
+    second: forest_of_whispers_tiles_7
+  - first:
+      213: -1083104984754368867
+    second: forest_of_whispers_tiles_8
+  - first:
+      213: -8273163012677386327
+    second: forest_of_whispers_tiles_9
+  - first:
+      213: -910012013274864690
+    second: forest_of_whispers_tiles_10
+  - first:
+      213: 8992649226448606492
+    second: forest_of_whispers_tiles_11
+  - first:
+      213: 7037200257082894466
+    second: forest_of_whispers_tiles_12
+  - first:
+      213: -5366445904260884681
+    second: forest_of_whispers_tiles_13
+  - first:
+      213: 4524365545846266076
+    second: forest_of_whispers_tiles_14
+  - first:
+      213: -7805725104387047233
+    second: forest_of_whispers_tiles_15
+  - first:
+      213: 1894608814849938426
+    second: forest_of_whispers_tiles_16
+  - first:
+      213: 3116472214755537623
+    second: forest_of_whispers_tiles_17
+  - first:
+      213: -7739038821234671925
+    second: forest_of_whispers_tiles_18
+  - first:
+      213: -2050996067501378694
+    second: forest_of_whispers_tiles_19
+  - first:
+      213: 304411000550880914
+    second: forest_of_whispers_tiles_20
+  - first:
+      213: -4255036820513351666
+    second: forest_of_whispers_tiles_21
+  - first:
+      213: 2236166915380162435
+    second: forest_of_whispers_tiles_22
+  - first:
+      213: -3542440229329972933
+    second: forest_of_whispers_tiles_23
+  - first:
+      213: -3226180668695350323
+    second: forest_of_whispers_tiles_24
+  - first:
+      213: 1536802610507547260
+    second: forest_of_whispers_tiles_25
+  - first:
+      213: 3613227344664047168
+    second: forest_of_whispers_tiles_26
+  - first:
+      213: 2003596559039198085
+    second: forest_of_whispers_tiles_27
+  - first:
+      213: 8612065616372469870
+    second: forest_of_whispers_tiles_28
+  - first:
+      213: -4528168441248033203
+    second: forest_of_whispers_tiles_29
+  - first:
+      213: -1129242372660957624
+    second: forest_of_whispers_tiles_30
+  - first:
+      213: 227741462548784176
+    second: forest_of_whispers_tiles_31
+  - first:
+      213: 9070504462119453245
+    second: forest_of_whispers_tiles_32
+  - first:
+      213: -1933755966760951676
+    second: forest_of_whispers_tiles_33
+  - first:
+      213: -1929166500566014158
+    second: forest_of_whispers_tiles_34
+  - first:
+      213: 500825011541951779
+    second: forest_of_whispers_tiles_35
+  - first:
+      213: 1971531454772132449
+    second: forest_of_whispers_tiles_36
+  - first:
+      213: 677647289187384620
+    second: forest_of_whispers_tiles_37
+  - first:
+      213: -3952168842702217997
+    second: forest_of_whispers_tiles_38
+  - first:
+      213: -1529060599791616504
+    second: forest_of_whispers_tiles_39
+  - first:
+      213: -306390559339180073
+    second: forest_of_whispers_tiles_40
+  - first:
+      213: -8509564629384286798
+    second: forest_of_whispers_tiles_41
+  - first:
+      213: -6879664198427613486
+    second: forest_of_whispers_tiles_42
+  - first:
+      213: -4910400567473405818
+    second: forest_of_whispers_tiles_43
+  - first:
+      213: 2009186321457182100
+    second: forest_of_whispers_tiles_44
+  - first:
+      213: -2997134978200322295
+    second: forest_of_whispers_tiles_45
+  - first:
+      213: -6838798397117146740
+    second: forest_of_whispers_tiles_46
+  - first:
+      213: 2466389630897255548
+    second: forest_of_whispers_tiles_47
+  - first:
+      213: 6332748249710419806
+    second: forest_of_whispers_tiles_48
+  - first:
+      213: 2197513975338664629
+    second: forest_of_whispers_tiles_49
+  - first:
+      213: 6301389383864375605
+    second: forest_of_whispers_tiles_50
+  - first:
+      213: -7345921319216652564
+    second: forest_of_whispers_tiles_51
+  - first:
+      213: 8281326329650279498
+    second: forest_of_whispers_tiles_52
+  - first:
+      213: -7258631807247011365
+    second: forest_of_whispers_tiles_53
+  - first:
+      213: 644901680973199228
+    second: forest_of_whispers_tiles_54
+  - first:
+      213: 5406603994185166915
+    second: forest_of_whispers_tiles_55
+  - first:
+      213: 1478657832874835598
+    second: forest_of_whispers_tiles_56
+  - first:
+      213: -4760865187965787891
+    second: forest_of_whispers_tiles_57
+  - first:
+      213: -8223992344278786051
+    second: forest_of_whispers_tiles_58
+  - first:
+      213: 7283507152482559557
+    second: forest_of_whispers_tiles_59
+  - first:
+      213: 6584579182013211386
+    second: forest_of_whispers_tiles_60
+  - first:
+      213: 4611888106981800689
+    second: forest_of_whispers_tiles_61
+  - first:
+      213: -8217506841562336244
+    second: forest_of_whispers_tiles_62
+  - first:
+      213: -7268348872560655420
+    second: forest_of_whispers_tiles_63
+  - first:
+      213: -5691523153947357437
+    second: forest_of_whispers_tiles_64
+  - first:
+      213: 5899382070074313296
+    second: forest_of_whispers_tiles_65
+  - first:
+      213: 4778334486008382909
+    second: forest_of_whispers_tiles_66
+  - first:
+      213: 8609082752988695577
+    second: forest_of_whispers_tiles_67
+  - first:
+      213: -5671336049384677105
+    second: forest_of_whispers_tiles_68
+  - first:
+      213: -6826787590526161103
+    second: forest_of_whispers_tiles_69
+  - first:
+      213: -1283669406845383027
+    second: forest_of_whispers_tiles_70
+  - first:
+      213: -1231314137045764165
+    second: forest_of_whispers_tiles_71
+  - first:
+      213: 5361029750550232053
+    second: forest_of_whispers_tiles_72
+  - first:
+      213: 7542636069036433145
+    second: forest_of_whispers_tiles_73
+  - first:
+      213: -6894391375098188330
+    second: forest_of_whispers_tiles_74
+  - first:
+      213: -616396696523308366
+    second: forest_of_whispers_tiles_75
+  - first:
+      213: -190833391138790154
+    second: forest_of_whispers_tiles_76
+  - first:
+      213: -1412717072873848780
+    second: forest_of_whispers_tiles_77
+  - first:
+      213: 8361333961192124200
+    second: forest_of_whispers_tiles_78
+  - first:
+      213: -7964487334318041445
+    second: forest_of_whispers_tiles_79
+  - first:
+      213: 1973869191267331947
+    second: forest_of_whispers_tiles_80
+  - first:
+      213: -3369354699628645181
+    second: forest_of_whispers_tiles_81
+  - first:
+      213: -3486512942040595225
+    second: forest_of_whispers_tiles_82
+  - first:
+      213: -7017069300539733868
+    second: forest_of_whispers_tiles_83
+  - first:
+      213: -8279305807403612912
+    second: forest_of_whispers_tiles_84
+  - first:
+      213: 5722364795990585847
+    second: forest_of_whispers_tiles_85
+  - first:
+      213: -2718698563492792293
+    second: forest_of_whispers_tiles_86
+  - first:
+      213: -40430002326890994
+    second: forest_of_whispers_tiles_87
+  - first:
+      213: 7461051672435823886
+    second: forest_of_whispers_tiles_88
+  - first:
+      213: 4839104516304539373
+    second: forest_of_whispers_tiles_89
+  - first:
+      213: -5875721895224012693
+    second: forest_of_whispers_tiles_90
+  - first:
+      213: 5128482129505657407
+    second: forest_of_whispers_tiles_91
+  - first:
+      213: 3647368235383894430
+    second: forest_of_whispers_tiles_92
+  - first:
+      213: -5282816366374154197
+    second: forest_of_whispers_tiles_93
+  - first:
+      213: -3850547195925368647
+    second: forest_of_whispers_tiles_94
+  - first:
+      213: -1512803152959081589
+    second: forest_of_whispers_tiles_95
+  - first:
+      213: 7675488653887070341
+    second: forest_of_whispers_tiles_96
+  - first:
+      213: -6382476453984859919
+    second: forest_of_whispers_tiles_97
+  - first:
+      213: -1178123776175761387
+    second: forest_of_whispers_tiles_98
+  - first:
+      213: -2332491403683497726
+    second: forest_of_whispers_tiles_99
+  - first:
+      213: -3932804812460484058
+    second: forest_of_whispers_tiles_100
+  - first:
+      213: 2329550990111660278
+    second: forest_of_whispers_tiles_101
+  - first:
+      213: -7572543282993060825
+    second: forest_of_whispers_tiles_102
+  - first:
+      213: -904604748610227536
+    second: forest_of_whispers_tiles_103
+  - first:
+      213: -6969174421063103749
+    second: forest_of_whispers_tiles_104
+  - first:
+      213: 1642497289746056881
+    second: forest_of_whispers_tiles_105
+  - first:
+      213: -5791996815172677606
+    second: forest_of_whispers_tiles_106
+  - first:
+      213: 6494855089937061999
+    second: forest_of_whispers_tiles_107
+  - first:
+      213: -782149931767621952
+    second: forest_of_whispers_tiles_108
+  - first:
+      213: 6084316014948195460
+    second: forest_of_whispers_tiles_109
+  - first:
+      213: 2039115594748903861
+    second: forest_of_whispers_tiles_110
+  - first:
+      213: 3185521416327314309
+    second: forest_of_whispers_tiles_111
+  - first:
+      213: -5833587067780331372
+    second: forest_of_whispers_tiles_112
+  - first:
+      213: -6543347295402800496
+    second: forest_of_whispers_tiles_113
+  - first:
+      213: -5051048868262584039
+    second: forest_of_whispers_tiles_114
+  - first:
+      213: 5454294215290852512
+    second: forest_of_whispers_tiles_115
+  - first:
+      213: -6940636464874935117
+    second: forest_of_whispers_tiles_116
+  - first:
+      213: -2425524238063134360
+    second: forest_of_whispers_tiles_117
+  - first:
+      213: 2788906871992986032
+    second: forest_of_whispers_tiles_118
+  - first:
+      213: 1838547176373647025
+    second: forest_of_whispers_tiles_119
+  - first:
+      213: 2671736421115454259
+    second: forest_of_whispers_tiles_120
+  - first:
+      213: -3239763965395562974
+    second: forest_of_whispers_tiles_121
+  - first:
+      213: 8785129940484594588
+    second: forest_of_whispers_tiles_122
+  - first:
+      213: -2356546281886816206
+    second: forest_of_whispers_tiles_123
+  - first:
+      213: -4210891279875476417
+    second: forest_of_whispers_tiles_124
+  - first:
+      213: 7179577672903872960
+    second: forest_of_whispers_tiles_125
+  - first:
+      213: -6668056859776768545
+    second: forest_of_whispers_tiles_126
+  - first:
+      213: 4408521654854295945
+    second: forest_of_whispers_tiles_127
+  - first:
+      213: 2449098531590414451
+    second: forest_of_whispers_tiles_128
+  - first:
+      213: 5527151367171581396
+    second: forest_of_whispers_tiles_129
+  - first:
+      213: 1815878635366818757
+    second: forest_of_whispers_tiles_130
+  - first:
+      213: 1818074119624588000
+    second: forest_of_whispers_tiles_131
+  - first:
+      213: -9045712572211873809
+    second: forest_of_whispers_tiles_132
+  - first:
+      213: -3638089260166901098
+    second: forest_of_whispers_tiles_133
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 324
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02af5730f4beed4b0800000000000000
+      internalID: -5413630977459750368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64dc088e94b3ab0d0800000000000000
+      internalID: -3406344979532952250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_2
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 324
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4984b3de4e4b2680800000000000000
+      internalID: -8778836948162410162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_3
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 315
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629a793ba4eb93120800000000000000
+      internalID: 2394153904974047526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 324
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa0fc590baa21d30800000000000000
+      internalID: 4400767461298735856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 315
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b889fccb6cdfbd9d0800000000000000
+      internalID: -2748324117566482293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_6
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 324
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0f32edeadfc1160800000000000000
+      internalID: 6997746848519942339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_7
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 315
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3075e987bc947f7b0800000000000000
+      internalID: -5190598907270375677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ec24141c908f0f0800000000000000
+      internalID: -1083104984754368867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 297
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9afb674b212df2d80800000000000000
+      internalID: -8273163012677386327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 306
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3e96735ecfe53f0800000000000000
+      internalID: -910012013274864690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_11
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 297
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15192c83de4ccc70800000000000000
+      internalID: 8992649226448606492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 306
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288a6b0695829a160800000000000000
+      internalID: 7037200257082894466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_13
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 297
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7371e2af1ed8685b0800000000000000
+      internalID: -5366445904260884681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_14
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 306
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8de2a2e76c9ce30800000000000000
+      internalID: 4524365545846266076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_15
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 297
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb049a2cf5e7ca390800000000000000
+      internalID: -7805725104387047233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af35475dda00b4a10800000000000000
+      internalID: 1894608814849938426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 279
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2f0e0b7feef3b20800000000000000
+      internalID: 3116472214755537623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 288
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce795df139699490800000000000000
+      internalID: -7739038821234671925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_19
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 279
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a737bd871f56983e0800000000000000
+      internalID: -2050996067501378694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_20
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 288
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2967e81313c793400800000000000000
+      internalID: 304411000550880914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_21
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 279
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08181f4e8213f4c0800000000000000
+      internalID: -4255036820513351666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_22
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 288
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f27b936f5780f10800000000000000
+      internalID: 2236166915380162435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_23
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 279
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31dbbc4169b6dec0800000000000000
+      internalID: -3542440229329972933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc37e2d56cd4a33d0800000000000000
+      internalID: -3226180668695350323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 261
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c720239f4d1d35510800000000000000
+      internalID: 1536802610507547260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_26
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 261
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ead635023c42230800000000000000
+      internalID: 3613227344664047168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_27
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 270
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583f9b674743ecb10800000000000000
+      internalID: 2003596559039198085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_28
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 270
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e609c36ac04348770800000000000000
+      internalID: 8612065616372469870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_29
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 261
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46d6404bc6b821c0800000000000000
+      internalID: -4528168441248033203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_30
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 270
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e69388b002450f0800000000000000
+      internalID: -1129242372660957624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_31
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 261
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03429df47a9192300800000000000000
+      internalID: 227741462548784176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32c93e20c7e0ed70800000000000000
+      internalID: 9070504462119453245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 243
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480ebe6913be925e0800000000000000
+      internalID: -1933755966760951676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_34
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 252
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237ed25f9493a35e0800000000000000
+      internalID: -1929166500566014158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_35
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 243
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325c69bc1b943f600800000000000000
+      internalID: 500825011541951779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_36
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 252
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ab33999694c5b10800000000000000
+      internalID: 1971531454772132449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_37
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 234
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d35038e9c776900800000000000000
+      internalID: 677647289187384620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_38
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 243
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc1e5680631729c0800000000000000
+      internalID: -3952168842702217997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_39
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 234
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80eff5d5c7fa7cae0800000000000000
+      internalID: -1529060599791616504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_40
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 234
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df0e0cd86b7fbbf0800000000000000
+      internalID: -306390559339180073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_41
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 225
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd22502e04f7e980800000000000000
+      internalID: -8509564629384286798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_42
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 225
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6efbe8cd58680a0800000000000000
+      internalID: -6879664198427613486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_43
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 225
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6800fd643b0cadbb0800000000000000
+      internalID: -4910400567473405818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_44
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 234
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4957702705012eb10800000000000000
+      internalID: 2009186321457182100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90fb878ed990866d0800000000000000
+      internalID: -2997134978200322295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_46
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 225
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8952516715b711a0800000000000000
+      internalID: -6838798397117146740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_47
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 216
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7476534d406a3220800000000000000
+      internalID: 2466389630897255548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_48
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 219
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f57f31bf072e750800000000000000
+      internalID: 6332748249710419806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2840151532f7e10800000000000000
+      internalID: 2197513975338664629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_50
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 198
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53957a82248037750800000000000000
+      internalID: 6301389383864375605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_51
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 201
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee5f140b7b0e0a90800000000000000
+      internalID: -7345921319216652564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44f4e3ab6e2de270800000000000000
+      internalID: 8281326329650279498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_53
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 193
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1b0b544d8244b90800000000000000
+      internalID: -7258631807247011365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_54
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 189
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77b57979a623f800800000000000000
+      internalID: 644901680973199228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_55
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 189
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3407d92ffad180b40800000000000000
+      internalID: 5406603994185166915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e7ad8f67f358410800000000000000
+      internalID: 1478657832874835598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01a6cfe5520eedb0800000000000000
+      internalID: -4760865187965787891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_58
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 180
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff1bb319828edd80800000000000000
+      internalID: -8223992344278786051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_59
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 171
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5466dbe5a27341560800000000000000
+      internalID: 7283507152482559557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_60
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 180
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2645321ef116b50800000000000000
+      internalID: 6584579182013211386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_61
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 171
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fabf786cc7b00040800000000000000
+      internalID: 4611888106981800689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_62
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 180
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04b559d01d85fd80800000000000000
+      internalID: -8217506841562336244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_63
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 171
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c34963b533a12b90800000000000000
+      internalID: -7268348872560655420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f8e02b8d5a301b0800000000000000
+      internalID: -5691523153947357437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a86198cb0ded150800000000000000
+      internalID: 5899382070074313296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_66
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 162
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db54788f5ed005240800000000000000
+      internalID: 4778334486008382909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_67
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 153
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c45d5a62b997770800000000000000
+      internalID: 8609082752988695577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_68
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 162
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f012f8e39ed5b41b0800000000000000
+      internalID: -5671336049384677105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_69
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 153
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13fa4a53bd06241a0800000000000000
+      internalID: -6826787590526161103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_70
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 162
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ec1f3c97d7f2ee0800000000000000
+      internalID: -1283669406845383027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_71
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 153
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7787ee05e79eee0800000000000000
+      internalID: -1231314137045764165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbf8d77724366a40800000000000000
+      internalID: 5361029750550232053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe17fcca83dca860800000000000000
+      internalID: 7542636069036433145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_74
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 144
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd61c882933250a0800000000000000
+      internalID: -6894391375098188330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_75
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 135
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b20107687e1277f0800000000000000
+      internalID: -616396696523308366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_76
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 144
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4a3e5ba060a5df0800000000000000
+      internalID: -190833391138790154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_77
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 135
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430893f9e45056ce0800000000000000
+      internalID: -1412717072873848780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_78
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 144
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f244dffec690470800000000000000
+      internalID: 8361333961192124200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_79
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 135
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9610e397f4787190800000000000000
+      internalID: -7964487334318041445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6fa39a4297946b10800000000000000
+      internalID: 1973869191267331947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4775690c5ad31d0800000000000000
+      internalID: -3369354699628645181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_82
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 126
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e44ed893fa6d9fc0800000000000000
+      internalID: -3486512942040595225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_83
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 117
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498c70136ac5e9e90800000000000000
+      internalID: -7017069300539733868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_84
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 126
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01501eadb3ff91d80800000000000000
+      internalID: -8279305807403612912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_85
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 117
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1383ca67ce96f40800000000000000
+      internalID: 5722364795990585847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_86
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 126
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18b5af8f0e354ad0800000000000000
+      internalID: -2718698563492792293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e069909802d507ff0800000000000000
+      internalID: -40430002326890994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_88
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 108
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e051f5a37fafa8760800000000000000
+      internalID: 7461051672435823886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_89
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 108
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee025d3be3f72340800000000000000
+      internalID: 4839104516304539373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_90
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 117
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b601034311e357ea0800000000000000
+      internalID: -5875721895224012693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_91
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 108
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32af1e23570c2740800000000000000
+      internalID: 5128482129505657407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91b913e51e0e9230800000000000000
+      internalID: 3647368235383894430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2016ac118aafa6b0800000000000000
+      internalID: -5282816366374154197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_94
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 99
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0fdf3f9bb109ac0800000000000000
+      internalID: -3850547195925368647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_95
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 90
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8378cc2c81710be0800000000000000
+      internalID: -1512803152959081589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_96
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 99
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580ea74a340d48a60800000000000000
+      internalID: 7675488653887070341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_97
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 90
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f800fc1b73ec67a0800000000000000
+      internalID: -6382476453984859919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_98
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 99
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5181a93eaa676afe0800000000000000
+      internalID: -1178123776175761387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_99
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 90
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209fac92d6351afd0800000000000000
+      internalID: -2332491403683497726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a98562cdedb69c0800000000000000
+      internalID: -3932804812460484058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8d3c3784a345020800000000000000
+      internalID: 2329550990111660278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_102
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 81
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724ade2510ce8e690800000000000000
+      internalID: -7572543282993060825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_103
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 72
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2b4f026c23273f0800000000000000
+      internalID: -904604748610227536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_104
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 72
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa8bcec9c4884f90800000000000000
+      internalID: -6969174421063103749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_105
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 74
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b60bdb25925bc610800000000000000
+      internalID: 1642497289746056881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_106
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 81
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10507b7591be9fa0800000000000000
+      internalID: -5791996815172677606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_107
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 66
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6816570b4c522a50800000000000000
+      internalID: 6494855089937061999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_108
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c615e3f7ce3525f0800000000000000
+      internalID: -782149931767621952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_109
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c1534fd25df6450800000000000000
+      internalID: 6084316014948195460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_110
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1c7f864d46c4c10800000000000000
+      internalID: 2039115594748903861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58bb69cb9de353c20800000000000000
+      internalID: 3185521416327314309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49804a2387fea0fa0800000000000000
+      internalID: -5833587067780331372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_113
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 54
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ac08f8d4c5135a0800000000000000
+      internalID: -6543347295402800496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_114
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 46
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911e110e0d117e9b0800000000000000
+      internalID: -5051048868262584039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_115
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 55
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a411e2d0bb81bb40800000000000000
+      internalID: 5454294215290852512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_116
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 45
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bca10488e7edaf90800000000000000
+      internalID: -6940636464874935117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86995247e8ec65ed0800000000000000
+      internalID: -2425524238063134360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9a9c8160034b620800000000000000
+      internalID: 2788906871992986032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_119
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 36
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b67c867ae4d38910800000000000000
+      internalID: 1838547176373647025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_120
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 36
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3336f0a9e1ae31520800000000000000
+      internalID: 2671736421115454259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_121
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 27
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e8c76a6db0a03d0800000000000000
+      internalID: -3239763965395562974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_122
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b9b30a22d0be970800000000000000
+      internalID: 8785129940484594588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_123
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2386e5364addb4fd0800000000000000
+      internalID: -2356546281886816206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f347b33f0b8ef85c0800000000000000
+      internalID: -4210891279875476417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1d2cebadbf2a360800000000000000
+      internalID: 7179577672903872960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_126
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd526ea6d9d4673a0800000000000000
+      internalID: -6668056859776768545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_127
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981253676173e2d30800000000000000
+      internalID: 4408521654854295945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_128
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370a06b7322fcf120800000000000000
+      internalID: 2449098531590414451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_129
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5a31462e264bc40800000000000000
+      internalID: 5527151367171581396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_130
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 19
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3a2487ffb433910800000000000000
+      internalID: 1815878635366818757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_131
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 10
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eafd8b77c81b3910800000000000000
+      internalID: 1818074119624588000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7b601875c277280800000000000000
+      internalID: -9045712572211873809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_tiles_133
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6929692e719e28dc0800000000000000
+      internalID: -3638089260166901098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

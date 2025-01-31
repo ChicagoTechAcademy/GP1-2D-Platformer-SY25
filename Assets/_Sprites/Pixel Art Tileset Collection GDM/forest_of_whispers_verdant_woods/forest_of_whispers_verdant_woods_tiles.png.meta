@@ -1,0 +1,3493 @@
+fileFormatVersion: 2
+guid: 846d9a3e8a0ad1647a32048bbfd0e9a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3245942966837976438
+    second: forest_of_whispers_verdant_woods_tiles_0
+  - first:
+      213: 8724261727257185117
+    second: forest_of_whispers_verdant_woods_tiles_1
+  - first:
+      213: -995094760083166366
+    second: forest_of_whispers_verdant_woods_tiles_2
+  - first:
+      213: -3201764557716074506
+    second: forest_of_whispers_verdant_woods_tiles_3
+  - first:
+      213: -4607564449424260710
+    second: forest_of_whispers_verdant_woods_tiles_4
+  - first:
+      213: 4226612744322331838
+    second: forest_of_whispers_verdant_woods_tiles_5
+  - first:
+      213: -6242611763229468892
+    second: forest_of_whispers_verdant_woods_tiles_6
+  - first:
+      213: -8400689065885759125
+    second: forest_of_whispers_verdant_woods_tiles_7
+  - first:
+      213: 6799305908416356184
+    second: forest_of_whispers_verdant_woods_tiles_8
+  - first:
+      213: 6995957316293066647
+    second: forest_of_whispers_verdant_woods_tiles_9
+  - first:
+      213: -8214247547592981121
+    second: forest_of_whispers_verdant_woods_tiles_10
+  - first:
+      213: 2602125251828394805
+    second: forest_of_whispers_verdant_woods_tiles_11
+  - first:
+      213: 7687018133394016967
+    second: forest_of_whispers_verdant_woods_tiles_12
+  - first:
+      213: 6159782269523435
+    second: forest_of_whispers_verdant_woods_tiles_13
+  - first:
+      213: -3096767254441230982
+    second: forest_of_whispers_verdant_woods_tiles_14
+  - first:
+      213: 3034439550199350721
+    second: forest_of_whispers_verdant_woods_tiles_15
+  - first:
+      213: -6541121197046662342
+    second: forest_of_whispers_verdant_woods_tiles_16
+  - first:
+      213: 8336617738477450100
+    second: forest_of_whispers_verdant_woods_tiles_17
+  - first:
+      213: 8115898634343556086
+    second: forest_of_whispers_verdant_woods_tiles_18
+  - first:
+      213: 5323263404628751058
+    second: forest_of_whispers_verdant_woods_tiles_19
+  - first:
+      213: 8492911943445428829
+    second: forest_of_whispers_verdant_woods_tiles_20
+  - first:
+      213: 9068182904939325212
+    second: forest_of_whispers_verdant_woods_tiles_21
+  - first:
+      213: -2528945158388169781
+    second: forest_of_whispers_verdant_woods_tiles_22
+  - first:
+      213: -5577057780754348049
+    second: forest_of_whispers_verdant_woods_tiles_23
+  - first:
+      213: 1598690137085604156
+    second: forest_of_whispers_verdant_woods_tiles_24
+  - first:
+      213: -3570609378307181786
+    second: forest_of_whispers_verdant_woods_tiles_25
+  - first:
+      213: -7592335454437280675
+    second: forest_of_whispers_verdant_woods_tiles_26
+  - first:
+      213: 5267483183784582781
+    second: forest_of_whispers_verdant_woods_tiles_27
+  - first:
+      213: -3210225018926901352
+    second: forest_of_whispers_verdant_woods_tiles_28
+  - first:
+      213: 3121254964422450079
+    second: forest_of_whispers_verdant_woods_tiles_29
+  - first:
+      213: 8869045946804426402
+    second: forest_of_whispers_verdant_woods_tiles_30
+  - first:
+      213: -3754626255930700574
+    second: forest_of_whispers_verdant_woods_tiles_31
+  - first:
+      213: -8712728740219392978
+    second: forest_of_whispers_verdant_woods_tiles_32
+  - first:
+      213: -4811355751560970315
+    second: forest_of_whispers_verdant_woods_tiles_33
+  - first:
+      213: -2860527692605870556
+    second: forest_of_whispers_verdant_woods_tiles_34
+  - first:
+      213: -868589523528625370
+    second: forest_of_whispers_verdant_woods_tiles_35
+  - first:
+      213: 2173601567389594453
+    second: forest_of_whispers_verdant_woods_tiles_36
+  - first:
+      213: 8243575664496345795
+    second: forest_of_whispers_verdant_woods_tiles_37
+  - first:
+      213: 2269344462773871965
+    second: forest_of_whispers_verdant_woods_tiles_38
+  - first:
+      213: -3341157611719308418
+    second: forest_of_whispers_verdant_woods_tiles_39
+  - first:
+      213: -6941498123630421494
+    second: forest_of_whispers_verdant_woods_tiles_40
+  - first:
+      213: -5603465369102579930
+    second: forest_of_whispers_verdant_woods_tiles_41
+  - first:
+      213: -4939262079906415765
+    second: forest_of_whispers_verdant_woods_tiles_42
+  - first:
+      213: -6511706080855733488
+    second: forest_of_whispers_verdant_woods_tiles_43
+  - first:
+      213: 2760414643185250657
+    second: forest_of_whispers_verdant_woods_tiles_44
+  - first:
+      213: 8833725583647252929
+    second: forest_of_whispers_verdant_woods_tiles_45
+  - first:
+      213: -8517755989503854928
+    second: forest_of_whispers_verdant_woods_tiles_46
+  - first:
+      213: -3687852953565319713
+    second: forest_of_whispers_verdant_woods_tiles_47
+  - first:
+      213: 6660685781412863626
+    second: forest_of_whispers_verdant_woods_tiles_48
+  - first:
+      213: 203817757505006555
+    second: forest_of_whispers_verdant_woods_tiles_49
+  - first:
+      213: -8351588824996039138
+    second: forest_of_whispers_verdant_woods_tiles_50
+  - first:
+      213: -1249748253105139125
+    second: forest_of_whispers_verdant_woods_tiles_51
+  - first:
+      213: -3894633992247781776
+    second: forest_of_whispers_verdant_woods_tiles_52
+  - first:
+      213: 1460881980244056226
+    second: forest_of_whispers_verdant_woods_tiles_53
+  - first:
+      213: -3980883482885164268
+    second: forest_of_whispers_verdant_woods_tiles_54
+  - first:
+      213: -3549511994316835090
+    second: forest_of_whispers_verdant_woods_tiles_55
+  - first:
+      213: -8911370656036873882
+    second: forest_of_whispers_verdant_woods_tiles_56
+  - first:
+      213: -7588210836021560554
+    second: forest_of_whispers_verdant_woods_tiles_57
+  - first:
+      213: 6750024550996239511
+    second: forest_of_whispers_verdant_woods_tiles_58
+  - first:
+      213: 7196826241520554475
+    second: forest_of_whispers_verdant_woods_tiles_59
+  - first:
+      213: 1618295825043170662
+    second: forest_of_whispers_verdant_woods_tiles_60
+  - first:
+      213: 9150862561547132486
+    second: forest_of_whispers_verdant_woods_tiles_61
+  - first:
+      213: 5573608620586225078
+    second: forest_of_whispers_verdant_woods_tiles_62
+  - first:
+      213: -2785080746734412821
+    second: forest_of_whispers_verdant_woods_tiles_63
+  - first:
+      213: 2666745365027531071
+    second: forest_of_whispers_verdant_woods_tiles_64
+  - first:
+      213: -3323464175890685938
+    second: forest_of_whispers_verdant_woods_tiles_65
+  - first:
+      213: 8349158025452046474
+    second: forest_of_whispers_verdant_woods_tiles_66
+  - first:
+      213: 4431265823630210802
+    second: forest_of_whispers_verdant_woods_tiles_67
+  - first:
+      213: 6622417562781176258
+    second: forest_of_whispers_verdant_woods_tiles_68
+  - first:
+      213: -7047243262628078400
+    second: forest_of_whispers_verdant_woods_tiles_69
+  - first:
+      213: -1076226182874009159
+    second: forest_of_whispers_verdant_woods_tiles_70
+  - first:
+      213: 8741957753077785883
+    second: forest_of_whispers_verdant_woods_tiles_71
+  - first:
+      213: -7119763671160812768
+    second: forest_of_whispers_verdant_woods_tiles_72
+  - first:
+      213: -5486484981188723140
+    second: forest_of_whispers_verdant_woods_tiles_73
+  - first:
+      213: 8496156311069125825
+    second: forest_of_whispers_verdant_woods_tiles_74
+  - first:
+      213: 6213225386841790549
+    second: forest_of_whispers_verdant_woods_tiles_75
+  - first:
+      213: 1966097087142457072
+    second: forest_of_whispers_verdant_woods_tiles_76
+  - first:
+      213: -5328739759659240966
+    second: forest_of_whispers_verdant_woods_tiles_77
+  - first:
+      213: -6089407951794570348
+    second: forest_of_whispers_verdant_woods_tiles_78
+  - first:
+      213: 5972633728586094469
+    second: forest_of_whispers_verdant_woods_tiles_79
+  - first:
+      213: -8391102290927561049
+    second: forest_of_whispers_verdant_woods_tiles_80
+  - first:
+      213: 5509492369785418950
+    second: forest_of_whispers_verdant_woods_tiles_81
+  - first:
+      213: 2310758891471279922
+    second: forest_of_whispers_verdant_woods_tiles_82
+  - first:
+      213: 3740024657089920720
+    second: forest_of_whispers_verdant_woods_tiles_83
+  - first:
+      213: 8663423556215864116
+    second: forest_of_whispers_verdant_woods_tiles_84
+  - first:
+      213: 4100018645624871934
+    second: forest_of_whispers_verdant_woods_tiles_85
+  - first:
+      213: 6759896285816459719
+    second: forest_of_whispers_verdant_woods_tiles_86
+  - first:
+      213: 5334849622594541321
+    second: forest_of_whispers_verdant_woods_tiles_87
+  - first:
+      213: 1832490080655240645
+    second: forest_of_whispers_verdant_woods_tiles_88
+  - first:
+      213: -9020194725808333465
+    second: forest_of_whispers_verdant_woods_tiles_89
+  - first:
+      213: -5203528523140114555
+    second: forest_of_whispers_verdant_woods_tiles_90
+  - first:
+      213: 3580322496142437712
+    second: forest_of_whispers_verdant_woods_tiles_91
+  - first:
+      213: -8399205635954833465
+    second: forest_of_whispers_verdant_woods_tiles_92
+  - first:
+      213: 5638089045318219716
+    second: forest_of_whispers_verdant_woods_tiles_93
+  - first:
+      213: -5109571631165670203
+    second: forest_of_whispers_verdant_woods_tiles_94
+  - first:
+      213: -8537438331317034376
+    second: forest_of_whispers_verdant_woods_tiles_95
+  - first:
+      213: 3452983177538074580
+    second: forest_of_whispers_verdant_woods_tiles_96
+  - first:
+      213: -1757355604749052988
+    second: forest_of_whispers_verdant_woods_tiles_97
+  - first:
+      213: -6740262728692402016
+    second: forest_of_whispers_verdant_woods_tiles_98
+  - first:
+      213: -3153780805087717310
+    second: forest_of_whispers_verdant_woods_tiles_99
+  - first:
+      213: -4411256484989147907
+    second: forest_of_whispers_verdant_woods_tiles_100
+  - first:
+      213: 5726526267581897031
+    second: forest_of_whispers_verdant_woods_tiles_101
+  - first:
+      213: 8161093025706273689
+    second: forest_of_whispers_verdant_woods_tiles_102
+  - first:
+      213: 5819346280369281515
+    second: forest_of_whispers_verdant_woods_tiles_103
+  - first:
+      213: -8679471420723929409
+    second: forest_of_whispers_verdant_woods_tiles_104
+  - first:
+      213: -5570424939672810145
+    second: forest_of_whispers_verdant_woods_tiles_105
+  - first:
+      213: 6824707397049138715
+    second: forest_of_whispers_verdant_woods_tiles_106
+  - first:
+      213: 8865182370497616788
+    second: forest_of_whispers_verdant_woods_tiles_107
+  - first:
+      213: 2775839063450147379
+    second: forest_of_whispers_verdant_woods_tiles_108
+  - first:
+      213: 6085293486657012990
+    second: forest_of_whispers_verdant_woods_tiles_109
+  - first:
+      213: -8270656303481611348
+    second: forest_of_whispers_verdant_woods_tiles_110
+  - first:
+      213: -1694038157534901294
+    second: forest_of_whispers_verdant_woods_tiles_111
+  - first:
+      213: 170125617478517693
+    second: forest_of_whispers_verdant_woods_tiles_112
+  - first:
+      213: -3438234837824244207
+    second: forest_of_whispers_verdant_woods_tiles_113
+  - first:
+      213: -303093529624903390
+    second: forest_of_whispers_verdant_woods_tiles_114
+  - first:
+      213: 7590449286927475508
+    second: forest_of_whispers_verdant_woods_tiles_115
+  - first:
+      213: -1960283638143965663
+    second: forest_of_whispers_verdant_woods_tiles_116
+  - first:
+      213: -363328815806141792
+    second: forest_of_whispers_verdant_woods_tiles_117
+  - first:
+      213: 6412685353988455728
+    second: forest_of_whispers_verdant_woods_tiles_118
+  - first:
+      213: -4861870700000253809
+    second: forest_of_whispers_verdant_woods_tiles_119
+  - first:
+      213: 1917446594792954070
+    second: forest_of_whispers_verdant_woods_tiles_120
+  - first:
+      213: -2827843727228848061
+    second: forest_of_whispers_verdant_woods_tiles_121
+  - first:
+      213: -5981803051455968591
+    second: forest_of_whispers_verdant_woods_tiles_122
+  - first:
+      213: -2959040697742949771
+    second: forest_of_whispers_verdant_woods_tiles_123
+  - first:
+      213: 1885730854418445720
+    second: forest_of_whispers_verdant_woods_tiles_124
+  - first:
+      213: -9043460486666364201
+    second: forest_of_whispers_verdant_woods_tiles_125
+  - first:
+      213: -3107126590203388530
+    second: forest_of_whispers_verdant_woods_tiles_126
+  - first:
+      213: -1831119944769587365
+    second: forest_of_whispers_verdant_woods_tiles_127
+  - first:
+      213: -3396501744273880373
+    second: forest_of_whispers_verdant_woods_tiles_128
+  - first:
+      213: 8950671541418817243
+    second: forest_of_whispers_verdant_woods_tiles_129
+  - first:
+      213: 2681920719547712468
+    second: forest_of_whispers_verdant_woods_tiles_130
+  - first:
+      213: 7200756660155298594
+    second: forest_of_whispers_verdant_woods_tiles_131
+  - first:
+      213: -3470540338653585187
+    second: forest_of_whispers_verdant_woods_tiles_132
+  - first:
+      213: -3824375315764089328
+    second: forest_of_whispers_verdant_woods_tiles_133
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 324
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d1e8b3ee7eb0d20800000000000000
+      internalID: 3245942966837976438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b43bc51ddc21970800000000000000
+      internalID: 8724261727257185117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_2
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 324
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26be3638696b032f0800000000000000
+      internalID: -995094760083166366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_3
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 315
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffc5e2391c0193d0800000000000000
+      internalID: -3201764557716074506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 324
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9149509b84ae00c0800000000000000
+      internalID: -4607564449424260710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 315
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4b87cb5e1f7aa30800000000000000
+      internalID: 4226612744322331838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_6
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 324
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42758061da9cd59a0800000000000000
+      internalID: -6242611763229468892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_7
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 315
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b690f57adc1ca6b80800000000000000
+      internalID: -8400689065885759125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f1f5e03bcfb5e50800000000000000
+      internalID: 6799305908416356184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 297
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f717dec12a61160800000000000000
+      internalID: 6995957316293066647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 306
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75c89c5061210e80800000000000000
+      internalID: -8214247547592981121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_11
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 297
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b2e40412b9c1420800000000000000
+      internalID: 2602125251828394805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 306
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cacfe6c346cdaa60800000000000000
+      internalID: 7687018133394016967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_13
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 297
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be591121a42e51000800000000000000
+      internalID: 6159782269523435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_14
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 306
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7df7f6e6921605d0800000000000000
+      internalID: -3096767254441230982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_15
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 297
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5470a91be7c1a20800000000000000
+      internalID: 3034439550199350721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b71497de44935a0800000000000000
+      internalID: -6541121197046662342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 279
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4733b22f9ad91b370800000000000000
+      internalID: 8336617738477450100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 288
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3202ddec671a070800000000000000
+      internalID: 8115898634343556086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_19
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 279
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2bbb6dcd700e940800000000000000
+      internalID: 5323263404628751058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_20
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 288
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5abcb94a62ecd570800000000000000
+      internalID: 8492911943445428829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_21
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 279
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17ad278e48a8dd70800000000000000
+      internalID: 9068182904939325212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_22
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 288
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc344d107c167ecd0800000000000000
+      internalID: -2528945158388169781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_23
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 279
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe70f463f7f4a92b0800000000000000
+      internalID: -5577057780754348049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3178ee9530bf2610800000000000000
+      internalID: 1598690137085604156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 261
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623725630b5a27ec0800000000000000
+      internalID: -3570609378307181786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_26
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 261
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5479ae412b92a690800000000000000
+      internalID: -7592335454437280675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_27
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 270
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ed2dd1c0cd91940800000000000000
+      internalID: 5267483183784582781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_28
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 270
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8975ac19a5df273d0800000000000000
+      internalID: -3210225018926901352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_29
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 261
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b13df5adce05b20800000000000000
+      internalID: 3121254964422450079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_30
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 270
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a655e36c4e251b70800000000000000
+      internalID: 8869045946804426402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_31
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 261
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec45e62053e4ebc0800000000000000
+      internalID: -3754626255930700574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ce2ee6f5b261780800000000000000
+      internalID: -8712728740219392978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 243
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bffc248f61aa3db0800000000000000
+      internalID: -4811355751560970315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_34
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 252
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e2f04283d5d48d0800000000000000
+      internalID: -2860527692605870556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_35
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 243
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623537a2e6622f3f0800000000000000
+      internalID: -868589523528625370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_36
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 252
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5533d7bfb1f2a2e10800000000000000
+      internalID: 2173601567389594453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_37
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 234
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c20c59f360176270800000000000000
+      internalID: 8243575664496345795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_38
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 243
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55e2a0f3c45e7f10800000000000000
+      internalID: 2269344462773871965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_39
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 234
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7bc0e6bad2d1a1d0800000000000000
+      internalID: -3341157611719308418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_40
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 234
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ad7f3fb38daaf90800000000000000
+      internalID: -6941498123630421494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_41
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 225
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627007b6fed7c32b0800000000000000
+      internalID: -5603465369102579930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_42
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 225
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6bfe92ce47347bb0800000000000000
+      internalID: -4939262079906415765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_43
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 225
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01bc7d8e1d5c1a5a0800000000000000
+      internalID: -6511706080855733488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_44
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 234
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161f7df1e76fe4620800000000000000
+      internalID: 2760414643185250657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c123908d92b79a70800000000000000
+      internalID: 8833725583647252929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_46
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 225
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6ba2a7e0adac980800000000000000
+      internalID: -8517755989503854928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_47
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 216
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd2dde174d12dcc0800000000000000
+      internalID: -3687852953565319713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_48
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 219
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8edb99ad628f6c50800000000000000
+      internalID: 6660685781412863626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdba00bab2b14d200800000000000000
+      internalID: 203817757505006555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_50
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 198
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e163df75632391c80800000000000000
+      internalID: -8351588824996039138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_51
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 201
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42d003d59008aee0800000000000000
+      internalID: -1249748253105139125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076d8e9c40b73f9c0800000000000000
+      internalID: -3894633992247781776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_53
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 193
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a85733cb68164410800000000000000
+      internalID: 1460881980244056226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_54
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 189
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413f86e509f01c8c0800000000000000
+      internalID: -3980883482885164268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_55
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 189
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6b1c4b5a99dbec0800000000000000
+      internalID: -3549511994316835090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66915115a93745480800000000000000
+      internalID: -8911370656036873882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b3a2ed27241b690800000000000000
+      internalID: -7588210836021560554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_58
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 180
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794eb43e097ecad50800000000000000
+      internalID: 6750024550996239511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_59
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 171
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1da04165340e360800000000000000
+      internalID: 7196826241520554475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_60
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 180
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66522319a77557610800000000000000
+      internalID: 1618295825043170662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_61
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 171
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e107134056efe70800000000000000
+      internalID: 9150862561547132486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_62
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 180
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bdc81b928f695d40800000000000000
+      internalID: 5573608620586225078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_63
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 171
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb9d1c11d76959d0800000000000000
+      internalID: -2785080746734412821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39a2ecc7ce220520800000000000000
+      internalID: 2666745365027531071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00ac44c0fea0e1d0800000000000000
+      internalID: -3323464175890685938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_66
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 162
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88cba80dfa2ed370800000000000000
+      internalID: 8349158025452046474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_67
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 153
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6becae9c40f7d30800000000000000
+      internalID: 4431265823630210802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_68
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 162
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c151efafad87eb50800000000000000
+      internalID: 6622417562781176258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_69
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 153
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ccd94d2799233e90800000000000000
+      internalID: -7047243262628078400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_70
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 162
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1f1df1df97011f0800000000000000
+      internalID: -1076226182874009159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_71
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 153
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b156ca1724ca15970800000000000000
+      internalID: 8741957753077785883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b8ab7c9a4813d90800000000000000
+      internalID: -7119763671160812768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3efabe6af61cd3b0800000000000000
+      internalID: -5486484981188723140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_74
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 144
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cce77d762968e570800000000000000
+      internalID: 8496156311069125825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_75
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 135
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558d42cf19fc93650800000000000000
+      internalID: 6213225386841790549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_76
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 144
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe6e0942eaf84b10800000000000000
+      internalID: 1966097087142457072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_77
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 135
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1b205eb638c06b0800000000000000
+      internalID: -5328739759659240966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_78
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 144
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b78dc1bb31e7ba0800000000000000
+      internalID: -6089407951794570348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_79
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 135
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58714e55bbe03e250800000000000000
+      internalID: 5972633728586094469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6db43ace0dc8b80800000000000000
+      internalID: -8391102290927561049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4f8c9ae16a57c40800000000000000
+      internalID: 5509492369785418950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_82
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 126
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23798b708f6711020800000000000000
+      internalID: 2310758891471279922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_83
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 117
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0defb013c9c37e330800000000000000
+      internalID: 3740024657089920720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_84
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 126
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b7ff6d2d9aa3870800000000000000
+      internalID: 8663423556215864116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_85
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 117
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbd2f04c3136e830800000000000000
+      internalID: 4100018645624871934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_86
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 126
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c192924bd9ffcd50800000000000000
+      internalID: 6759896285816459719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907dfdc6771390a40800000000000000
+      internalID: 5334849622594541321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_88
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 108
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cde1e7f4005e6910800000000000000
+      internalID: 1832490080655240645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_89
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 108
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d975b10b4d1d280800000000000000
+      internalID: -9020194725808333465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_90
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 117
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587de9fa06a59c7b0800000000000000
+      internalID: -5203528523140114555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_91
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 108
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05de8e3475cdfa130800000000000000
+      internalID: 3580322496142437712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7047999f6007b80800000000000000
+      internalID: -8399205635954833465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7b6366d148e3e40800000000000000
+      internalID: 5638089045318219716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_94
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 99
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ccf4f15ca72719b0800000000000000
+      internalID: -5109571631165670203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_95
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 90
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8726b0a221de48980800000000000000
+      internalID: -8537438331317034376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_96
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 99
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d77e80c7e57bef20800000000000000
+      internalID: 3452983177538074580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_97
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 90
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c314ea636e9c97e0800000000000000
+      internalID: -1757355604749052988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_98
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 99
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8fb7b72c6c572a0800000000000000
+      internalID: -6740262728692402016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_99
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 90
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2481d4531158b34d0800000000000000
+      internalID: -3153780805087717310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df46517499118c2c0800000000000000
+      internalID: -4411256484989147907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7499928cc45b87f40800000000000000
+      internalID: 5726526267581897031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_102
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 81
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99be3281ed6024170800000000000000
+      internalID: 8161093025706273689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_103
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 72
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9d66a1c9872c050800000000000000
+      internalID: 5819346280369281515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_104
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 72
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe58998ab25c8780800000000000000
+      internalID: -8679471420723929409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_105
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 74
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d43ded700e1b2b0800000000000000
+      internalID: -5570424939672810145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_106
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 81
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e3811083b36be50800000000000000
+      internalID: 6824707397049138715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_107
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 66
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bd09e6564770b70800000000000000
+      internalID: 8865182370497616788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_108
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a5992dbe2c58620800000000000000
+      internalID: 2775839063450147379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_109
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef480325f2e437450800000000000000
+      internalID: 6085293486657012990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_110
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab12ab69e9b83d80800000000000000
+      internalID: -8270656303481611348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dbcc2865419d78e0800000000000000
+      internalID: -1694038157534901294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3400509586c5200800000000000000
+      internalID: 170125617478517693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_113
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 54
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116fc1da1afe840d0800000000000000
+      internalID: -3438234837824244207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_114
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 46
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2210df86a023bcbf0800000000000000
+      internalID: -303093529624903390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_115
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 55
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433ede81961b65960800000000000000
+      internalID: 7590449286927475508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_116
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 45
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1262b69ca6cabc4e0800000000000000
+      internalID: -1960283638143965663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa2635fd5235faf0800000000000000
+      internalID: -363328815806141792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03df4d48a5f6ef850800000000000000
+      internalID: 6412685353988455728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_119
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 36
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88ea9e8b5a278cb0800000000000000
+      internalID: -4861870700000253809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_120
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 36
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d89a66d4832c9a10800000000000000
+      internalID: 1917446594792954070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_121
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 27
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3483536dc1b71c8d0800000000000000
+      internalID: -2827843727228848061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_122
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba8e9151dd5cfca0800000000000000
+      internalID: -5981803051455968591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_123
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5728b1fb9206fe6d0800000000000000
+      internalID: -2959040697742949771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895fa9798367b2a10800000000000000
+      internalID: 1885730854418445720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da58f70a9c2f7280800000000000000
+      internalID: -9043460486666364201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_126
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d91c614d441e4d0800000000000000
+      internalID: -3107126590203388530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_127
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5730e6ac1e8696e0800000000000000
+      internalID: -1831119944769587365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_128
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca8f85b8a33dd0d0800000000000000
+      internalID: -3396501744273880373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_129
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6777f185c273c70800000000000000
+      internalID: 8950671541418817243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_130
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 19
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3c66c5fa8183520800000000000000
+      internalID: 2681920719547712468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_131
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 10
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223b59af70a3ee360800000000000000
+      internalID: 7200756660155298594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0a3ef13f926dfc0800000000000000
+      internalID: -3470540338653585187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_of_whispers_verdant_woods_tiles_133
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01eeb18a9e61deac0800000000000000
+      internalID: -3824375315764089328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

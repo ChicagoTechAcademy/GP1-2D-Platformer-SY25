@@ -1,0 +1,3693 @@
+fileFormatVersion: 2
+guid: 721aa95aadbae9145a5560d3dadf5335
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1841404639879683910
+    second: forest05-2048-x-1536_005_0
+  - first:
+      213: -6761289155006037825
+    second: forest05-2048-x-1536_005_1
+  - first:
+      213: 2091803513382908343
+    second: forest05-2048-x-1536_005_2
+  - first:
+      213: 1985268267082977554
+    second: forest05-2048-x-1536_005_3
+  - first:
+      213: 2905252784323289094
+    second: forest05-2048-x-1536_005_4
+  - first:
+      213: -4732636605889959101
+    second: forest05-2048-x-1536_005_5
+  - first:
+      213: 7848774147141278395
+    second: forest05-2048-x-1536_005_6
+  - first:
+      213: -4828218113288082517
+    second: forest05-2048-x-1536_005_7
+  - first:
+      213: 6504184454181013205
+    second: forest05-2048-x-1536_005_8
+  - first:
+      213: 4214977148513737939
+    second: forest05-2048-x-1536_005_9
+  - first:
+      213: 7687342129788519768
+    second: forest05-2048-x-1536_005_10
+  - first:
+      213: -8104512544288491433
+    second: forest05-2048-x-1536_005_11
+  - first:
+      213: 3672802707958417525
+    second: forest05-2048-x-1536_005_12
+  - first:
+      213: -8679440127527504463
+    second: forest05-2048-x-1536_005_13
+  - first:
+      213: 519644469119403715
+    second: forest05-2048-x-1536_005_14
+  - first:
+      213: 5138456730430784196
+    second: forest05-2048-x-1536_005_15
+  - first:
+      213: 9216956473536719169
+    second: forest05-2048-x-1536_005_16
+  - first:
+      213: 5642654272184437292
+    second: forest05-2048-x-1536_005_17
+  - first:
+      213: 41571697907781540
+    second: forest05-2048-x-1536_005_18
+  - first:
+      213: -5841638107197026142
+    second: forest05-2048-x-1536_005_19
+  - first:
+      213: 8264686986801097239
+    second: forest05-2048-x-1536_005_20
+  - first:
+      213: -6847126173575260349
+    second: forest05-2048-x-1536_005_21
+  - first:
+      213: -7360294752504685470
+    second: forest05-2048-x-1536_005_22
+  - first:
+      213: -5798711442678624347
+    second: forest05-2048-x-1536_005_23
+  - first:
+      213: -7690314485711036628
+    second: forest05-2048-x-1536_005_24
+  - first:
+      213: -6743985349886373934
+    second: forest05-2048-x-1536_005_25
+  - first:
+      213: 2012641841196980429
+    second: forest05-2048-x-1536_005_26
+  - first:
+      213: -1228050627415856676
+    second: forest05-2048-x-1536_005_27
+  - first:
+      213: 6826595312490591710
+    second: forest05-2048-x-1536_005_28
+  - first:
+      213: -4603256579548574865
+    second: forest05-2048-x-1536_005_29
+  - first:
+      213: 3362512016363515531
+    second: forest05-2048-x-1536_005_30
+  - first:
+      213: -2194894247498878240
+    second: forest05-2048-x-1536_005_31
+  - first:
+      213: 5309750149607550440
+    second: forest05-2048-x-1536_005_32
+  - first:
+      213: 7191492135942250703
+    second: forest05-2048-x-1536_005_33
+  - first:
+      213: -413899884410259055
+    second: forest05-2048-x-1536_005_34
+  - first:
+      213: -8207870360536962420
+    second: forest05-2048-x-1536_005_35
+  - first:
+      213: -4029385331913867094
+    second: forest05-2048-x-1536_005_36
+  - first:
+      213: -317611856685805182
+    second: forest05-2048-x-1536_005_37
+  - first:
+      213: -7191385346031518166
+    second: forest05-2048-x-1536_005_38
+  - first:
+      213: 2743915998142160584
+    second: forest05-2048-x-1536_005_39
+  - first:
+      213: 4070683002692307981
+    second: forest05-2048-x-1536_005_40
+  - first:
+      213: -2259723803908913475
+    second: forest05-2048-x-1536_005_41
+  - first:
+      213: 4974927367832673110
+    second: forest05-2048-x-1536_005_42
+  - first:
+      213: -3099762090496628014
+    second: forest05-2048-x-1536_005_43
+  - first:
+      213: -8474196653457574819
+    second: forest05-2048-x-1536_005_44
+  - first:
+      213: -5980246283199970951
+    second: forest05-2048-x-1536_005_45
+  - first:
+      213: 6706689910932651645
+    second: forest05-2048-x-1536_005_46
+  - first:
+      213: -8338242562980806983
+    second: forest05-2048-x-1536_005_47
+  - first:
+      213: -7019728292234246023
+    second: forest05-2048-x-1536_005_48
+  - first:
+      213: -110829253322402979
+    second: forest05-2048-x-1536_005_49
+  - first:
+      213: -1874113073335854781
+    second: forest05-2048-x-1536_005_50
+  - first:
+      213: -4264284912577330769
+    second: forest05-2048-x-1536_005_51
+  - first:
+      213: 9117460401421409478
+    second: forest05-2048-x-1536_005_52
+  - first:
+      213: -7786926268805907019
+    second: forest05-2048-x-1536_005_53
+  - first:
+      213: -6265696975210470006
+    second: forest05-2048-x-1536_005_54
+  - first:
+      213: 8401207448312539175
+    second: forest05-2048-x-1536_005_55
+  - first:
+      213: -6052808588088563536
+    second: forest05-2048-x-1536_005_56
+  - first:
+      213: -8232257945360624913
+    second: forest05-2048-x-1536_005_57
+  - first:
+      213: 2205318199993632011
+    second: forest05-2048-x-1536_005_58
+  - first:
+      213: -6650666760296521301
+    second: forest05-2048-x-1536_005_59
+  - first:
+      213: 5308409242060841685
+    second: forest05-2048-x-1536_005_60
+  - first:
+      213: 5482280198735418601
+    second: forest05-2048-x-1536_005_61
+  - first:
+      213: -5479269207605636835
+    second: forest05-2048-x-1536_005_62
+  - first:
+      213: 848338865765957450
+    second: forest05-2048-x-1536_005_63
+  - first:
+      213: 5701519993513219807
+    second: forest05-2048-x-1536_005_64
+  - first:
+      213: -4051458864956175176
+    second: forest05-2048-x-1536_005_65
+  - first:
+      213: 599416086053018079
+    second: forest05-2048-x-1536_005_66
+  - first:
+      213: 3082803732376999172
+    second: forest05-2048-x-1536_005_67
+  - first:
+      213: 8192240561720766970
+    second: forest05-2048-x-1536_005_68
+  - first:
+      213: 6984527263950099073
+    second: forest05-2048-x-1536_005_69
+  - first:
+      213: 1364598039767953825
+    second: forest05-2048-x-1536_005_70
+  - first:
+      213: 4757730381351385994
+    second: forest05-2048-x-1536_005_71
+  - first:
+      213: 8142703247406447758
+    second: forest05-2048-x-1536_005_72
+  - first:
+      213: 599461639206540428
+    second: forest05-2048-x-1536_005_73
+  - first:
+      213: 6683830604035899456
+    second: forest05-2048-x-1536_005_74
+  - first:
+      213: -6039020479148345372
+    second: forest05-2048-x-1536_005_75
+  - first:
+      213: 7404008415935383615
+    second: forest05-2048-x-1536_005_76
+  - first:
+      213: -4807845741547737997
+    second: forest05-2048-x-1536_005_77
+  - first:
+      213: -2453143575586178022
+    second: forest05-2048-x-1536_005_78
+  - first:
+      213: -8974523305111996904
+    second: forest05-2048-x-1536_005_79
+  - first:
+      213: 7590019525375433312
+    second: forest05-2048-x-1536_005_80
+  - first:
+      213: -576747044523247391
+    second: forest05-2048-x-1536_005_81
+  - first:
+      213: 1870781136379303099
+    second: forest05-2048-x-1536_005_82
+  - first:
+      213: -7175724700051628842
+    second: forest05-2048-x-1536_005_83
+  - first:
+      213: -9153674403050296824
+    second: forest05-2048-x-1536_005_84
+  - first:
+      213: -508127192115811140
+    second: forest05-2048-x-1536_005_85
+  - first:
+      213: -2814029566284593433
+    second: forest05-2048-x-1536_005_86
+  - first:
+      213: -1543814950790661953
+    second: forest05-2048-x-1536_005_87
+  - first:
+      213: 3667041120558307830
+    second: forest05-2048-x-1536_005_88
+  - first:
+      213: -6921679092353071668
+    second: forest05-2048-x-1536_005_89
+  - first:
+      213: -7987817293416837948
+    second: forest05-2048-x-1536_005_90
+  - first:
+      213: -7288806511184145887
+    second: forest05-2048-x-1536_005_91
+  - first:
+      213: 6522219746026849571
+    second: forest05-2048-x-1536_005_92
+  - first:
+      213: -3506478234519804212
+    second: forest05-2048-x-1536_005_93
+  - first:
+      213: 3620713143886193014
+    second: forest05-2048-x-1536_005_94
+  - first:
+      213: -508445456988492959
+    second: forest05-2048-x-1536_005_95
+  - first:
+      213: 3806614910526821729
+    second: forest05-2048-x-1536_005_96
+  - first:
+      213: 1157388181193654414
+    second: forest05-2048-x-1536_005_97
+  - first:
+      213: -2311736513260496621
+    second: forest05-2048-x-1536_005_98
+  - first:
+      213: -416032353452180307
+    second: forest05-2048-x-1536_005_99
+  - first:
+      213: 89477077826663115
+    second: forest05-2048-x-1536_005_100
+  - first:
+      213: -2922232069219878847
+    second: forest05-2048-x-1536_005_101
+  - first:
+      213: -657568784905326933
+    second: forest05-2048-x-1536_005_102
+  - first:
+      213: 2154496928548986309
+    second: forest05-2048-x-1536_005_103
+  - first:
+      213: 5690711831326421695
+    second: forest05-2048-x-1536_005_104
+  - first:
+      213: -5793167116282367247
+    second: forest05-2048-x-1536_005_105
+  - first:
+      213: 7146381442195230487
+    second: forest05-2048-x-1536_005_106
+  - first:
+      213: -315290919753449626
+    second: forest05-2048-x-1536_005_107
+  - first:
+      213: 6020191111352700561
+    second: forest05-2048-x-1536_005_108
+  - first:
+      213: -3020872844918755363
+    second: forest05-2048-x-1536_005_109
+  - first:
+      213: -6064235415888942957
+    second: forest05-2048-x-1536_005_110
+  - first:
+      213: -4350080687306736648
+    second: forest05-2048-x-1536_005_111
+  - first:
+      213: 8820160706323276190
+    second: forest05-2048-x-1536_005_112
+  - first:
+      213: -5412493168749165702
+    second: forest05-2048-x-1536_005_113
+  - first:
+      213: 2479609167580473866
+    second: forest05-2048-x-1536_005_114
+  - first:
+      213: -3071764634554766647
+    second: forest05-2048-x-1536_005_115
+  - first:
+      213: 4205883254171144132
+    second: forest05-2048-x-1536_005_116
+  - first:
+      213: 1732401173547765190
+    second: forest05-2048-x-1536_005_117
+  - first:
+      213: -739038910496021954
+    second: forest05-2048-x-1536_005_118
+  - first:
+      213: 5160649227556668711
+    second: forest05-2048-x-1536_005_119
+  - first:
+      213: 8648970712731445369
+    second: forest05-2048-x-1536_005_120
+  - first:
+      213: -4234424126009594742
+    second: forest05-2048-x-1536_005_121
+  - first:
+      213: -3143280753813801000
+    second: forest05-2048-x-1536_005_122
+  - first:
+      213: 4675628438709861079
+    second: forest05-2048-x-1536_005_123
+  - first:
+      213: -7721956226503007573
+    second: forest05-2048-x-1536_005_124
+  - first:
+      213: 5787876573061416916
+    second: forest05-2048-x-1536_005_125
+  - first:
+      213: 6184114970968482106
+    second: forest05-2048-x-1536_005_126
+  - first:
+      213: 7948885794130672849
+    second: forest05-2048-x-1536_005_127
+  - first:
+      213: -6688859282340466097
+    second: forest05-2048-x-1536_005_128
+  - first:
+      213: 4155536476065053237
+    second: forest05-2048-x-1536_005_129
+  - first:
+      213: 4876210606987130779
+    second: forest05-2048-x-1536_005_130
+  - first:
+      213: 2916174246551298809
+    second: forest05-2048-x-1536_005_131
+  - first:
+      213: -6578712056599907335
+    second: forest05-2048-x-1536_005_132
+  - first:
+      213: -4350372770353645730
+    second: forest05-2048-x-1536_005_133
+  - first:
+      213: 3990011137415165078
+    second: forest05-2048-x-1536_005_134
+  - first:
+      213: -3354525184572027215
+    second: forest05-2048-x-1536_005_135
+  - first:
+      213: 4583239580918298340
+    second: forest05-2048-x-1536_005_136
+  - first:
+      213: -7304287936625956937
+    second: forest05-2048-x-1536_005_137
+  - first:
+      213: 833776352999661245
+    second: forest05-2048-x-1536_005_138
+  - first:
+      213: -5039387109465644100
+    second: forest05-2048-x-1536_005_139
+  - first:
+      213: -4332739371174996034
+    second: forest05-2048-x-1536_005_140
+  - first:
+      213: -4253556202574828633
+    second: forest05-2048-x-1536_005_141
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1505
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64fd8c783cbfd8910800000000000000
+      internalID: 1841404639879683910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1511
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb00a2c16531b22a0800000000000000
+      internalID: -6761289155006037825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_2
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1517
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b13a1b6634970d10800000000000000
+      internalID: 2091803513382908343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_3
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1511
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211165378f61d8b10800000000000000
+      internalID: 1985268267082977554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_4
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1475
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600ed40c308815820800000000000000
+      internalID: 2905252784323289094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_5
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1493
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b2beed41c425eb0800000000000000
+      internalID: -4732636605889959101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_6
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1505
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba10a290827cec60800000000000000
+      internalID: 7848774147141278395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_7
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1499
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab6b5bf439befcb0800000000000000
+      internalID: -4828218113288082517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_8
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1511
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6c319ec41834a50800000000000000
+      internalID: 6504184454181013205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_9
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1505
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dcdc89726b9e7a30800000000000000
+      internalID: 4214977148513737939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_10
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1505
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85580f010fceeaa60800000000000000
+      internalID: 7687342129788519768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_11
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 1517
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758bcffc7ccf68f80800000000000000
+      internalID: -8104512544288491433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_12
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 1511
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57844f18a9a68f230800000000000000
+      internalID: 3672802707958417525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_13
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 1511
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5b37d803f6c8780800000000000000
+      internalID: -8679440127527504463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_14
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 1475
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6cb5734e5263700800000000000000
+      internalID: 519644469119403715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_15
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 1517
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2ca0feb277f4740800000000000000
+      internalID: 5138456730430784196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_16
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 1523
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149a463441539ef70800000000000000
+      internalID: 9216956473536719169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_17
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1463
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ac4eb1a2cbe4e40800000000000000
+      internalID: 5642654272184437292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_18
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1433
+        width: 86
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4afc08e2d31b39000800000000000000
+      internalID: 41571697907781540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_19
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1463
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0d22287155eeea0800000000000000
+      internalID: -5841638107197026142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_20
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1469
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71aa21cb60112b270800000000000000
+      internalID: 8264686986801097239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_21
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 1487
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34754c3d50f1af0a0800000000000000
+      internalID: -6847126173575260349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_22
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1475
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c59ca4beafad990800000000000000
+      internalID: -7360294752504685470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_23
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1487
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afc5207aa6d68fa0800000000000000
+      internalID: -5798711442678624347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_24
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 1487
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f172468b3864590800000000000000
+      internalID: -7690314485711036628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_25
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1445
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df85913e0d8862a0800000000000000
+      internalID: -6743985349886373934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_26
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1451
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc852a457175eeb10800000000000000
+      internalID: 2012641841196980429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_27
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1451
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9aeaaf57615fee0800000000000000
+      internalID: -1228050627415856676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_28
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1451
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed539529440fcbe50800000000000000
+      internalID: 6826595312490591710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_29
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 1457
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b070ea782fd10c0800000000000000
+      internalID: -4603256579548574865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_30
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 1445
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e64501dda0aae20800000000000000
+      internalID: 3362512016363515531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_31
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 1447
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2f74a9f4b2a81e0800000000000000
+      internalID: -2194894247498878240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_32
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1415
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed6f69f0a500b940800000000000000
+      internalID: 5309750149607550440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_33
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1403
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc06ad7deff4dc360800000000000000
+      internalID: 7191492135942250703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_34
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1421
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199b6218f38814af0800000000000000
+      internalID: -413899884410259055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_35
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 1397
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8aacbde469c71e80800000000000000
+      internalID: -8207870360536962420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_36
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 1427
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0ca14a36fb418c0800000000000000
+      internalID: -4029385331913867094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_37
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 1409
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2815ac9f2bd979bf0800000000000000
+      internalID: -317611856685805182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_38
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 1421
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e77de1121133c90800000000000000
+      internalID: -7191385346031518166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_39
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 1427
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce56caff09541620800000000000000
+      internalID: 2743915998142160584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_40
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1397
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c02b0af98fd7830800000000000000
+      internalID: 4070683002692307981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_41
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1385
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6c3814c29d3a0e0800000000000000
+      internalID: -2259723803908913475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_42
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1379
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b190f251e7a0540800000000000000
+      internalID: 4974927367832673110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_43
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1397
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dae9bb4dce6bf4d0800000000000000
+      internalID: -3099762090496628014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_44
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1367
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d547bd9ba0b956a80800000000000000
+      internalID: -8474196653457574819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_45
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1373
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971048ca0b5e10da0800000000000000
+      internalID: -5980246283199970951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_46
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 1379
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e36dfb0f2f21d50800000000000000
+      internalID: 6706689910932651645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_47
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 1391
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be7c7e119c984c80800000000000000
+      internalID: -8338242562980806983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_48
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1397
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9784e917f4ae49e90800000000000000
+      internalID: -7019728292234246023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_49
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 1392
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d531ffc9161467ef0800000000000000
+      internalID: -110829253322402979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_50
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1361
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34996ead610ddf5e0800000000000000
+      internalID: -1874113073335854781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_51
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1361
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa145c4177732d4c0800000000000000
+      internalID: -4264284912577330769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_52
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1361
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccd960cde9b78e70800000000000000
+      internalID: 9117460401421409478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_53
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1349
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd7aafb0d74fe390800000000000000
+      internalID: -7786926268805907019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_54
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1337
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8527525cc5cb09a0800000000000000
+      internalID: -6265696975210470006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_55
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1343
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728e809a9a5179470800000000000000
+      internalID: 8401207448312539175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_56
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1307
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b82c8588aa100ca0800000000000000
+      internalID: -6052808588088563536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_57
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 1361
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2946bd30521cd80800000000000000
+      internalID: -8232257945360624913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_58
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 1325
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b050357f73dda9e10800000000000000
+      internalID: 2205318199993632011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_59
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 1343
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1270971d514b3a0800000000000000
+      internalID: -6650666760296521301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_60
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1349
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2ef6b94124ba940800000000000000
+      internalID: 5308409242060841685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_61
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 1343
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e458cc5bc8f41c40800000000000000
+      internalID: 5482280198735418601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_62
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1325
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d111ee3afa9b5f3b0800000000000000
+      internalID: -5479269207605636835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_63
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1325
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f332724b7e5cb00800000000000000
+      internalID: 848338865765957450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_64
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1319
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd69425e93edf1f40800000000000000
+      internalID: 5701519993513219807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_65
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1313
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc0e2cb0a356c7c0800000000000000
+      internalID: -4051458864956175176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_66
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1313
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd958d121cd815800800000000000000
+      internalID: 599416086053018079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_67
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1337
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405549449a158ca20800000000000000
+      internalID: 3082803732376999172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_68
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1313
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1b9e3f26fa0b170800000000000000
+      internalID: 8192240561720766970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_69
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 1313
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182d6cb7a860ee060800000000000000
+      internalID: 6984527263950099073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_70
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 1331
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1309defa600f210800000000000000
+      internalID: 1364598039767953825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_71
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 1337
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b7885039ad60240800000000000000
+      internalID: 4757730381351385994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_72
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 1313
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8cb41d2671b00170800000000000000
+      internalID: 8142703247406447758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_73
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 1307
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84116d4f27b15800800000000000000
+      internalID: 599461639206540428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_74
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 1325
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040c17c958cb1cc50800000000000000
+      internalID: 6683830604035899456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_75
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 1331
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7bd0dced6113ca0800000000000000
+      internalID: -6039020479148345372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_76
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1325
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38c4d91d6250c660800000000000000
+      internalID: 7404008415935383615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_77
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1325
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c2c2865c9174db0800000000000000
+      internalID: -4807845741547737997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_78
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 1301
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c77225aeea4fdd0800000000000000
+      internalID: -2453143575586178022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_79
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1313
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816b5526a96147380800000000000000
+      internalID: -8974523305111996904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_80
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1307
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a18407b8a255960800000000000000
+      internalID: 7590019525375433312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_81
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 1319
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e87fe56e9bfef7f0800000000000000
+      internalID: -576747044523247391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_82
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1289
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4d36e188956f910800000000000000
+      internalID: 1870781136379303099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_83
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1295
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc1d676764ba6c90800000000000000
+      internalID: -7175724700051628842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_84
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1307
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ae990f0ad97f080800000000000000
+      internalID: -9153674403050296824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_85
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1295
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc683dc205c2f8f0800000000000000
+      internalID: -508127192115811140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_86
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1313
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e60922d40f82f8d0800000000000000
+      internalID: -2814029566284593433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1289
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb87f235b74439ae0800000000000000
+      internalID: -1543814950790661953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_88
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1283
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9d0a76872f3e230800000000000000
+      internalID: 3667041120558307830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_89
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1301
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc50c03c98141ff90800000000000000
+      internalID: -6921679092353071668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_90
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1277
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ccca2f2e72952190800000000000000
+      internalID: -7987817293416837948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_91
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1301
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12290588815f8da90800000000000000
+      internalID: -7288806511184145887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_92
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1301
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32508f48d44938a50800000000000000
+      internalID: 6522219746026849571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_93
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 1289
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6eec2bf9c765fc0800000000000000
+      internalID: -3506478234519804212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_94
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1265
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671ace6cb6b5f3230800000000000000
+      internalID: 3620713143886193014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_95
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1289
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b2a8cfc83a1f8f0800000000000000
+      internalID: -508445456988492959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_96
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1289
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16518a2c710d3d430800000000000000
+      internalID: 3806614910526821729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_97
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1265
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80884f2b6edf0010800000000000000
+      internalID: 1157388181193654414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_98
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 1283
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319dec8a3ef0befd0800000000000000
+      internalID: -2311736513260496621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_99
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1247
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dacb96d57c4f93af0800000000000000
+      internalID: -416032353452180307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_100
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1235
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2f56f9de2ed3100800000000000000
+      internalID: 89477077826663115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_101
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1259
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148f4ea6a652277d0800000000000000
+      internalID: -2922232069219878847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_102
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1247
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae25509ca8dfd6f0800000000000000
+      internalID: -657568784905326933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_103
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1224
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd15df9a8f46ed10800000000000000
+      internalID: 2154496928548986309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_104
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1211
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2f259824879fe40800000000000000
+      internalID: 5690711831326421695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_105
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1229
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2f38583398a9fa0800000000000000
+      internalID: -5793167116282367247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_106
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 1224
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f8d7bfe0c0d2360800000000000000
+      internalID: 7146381442195230487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_107
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 1223
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f7037349cdf9bf0800000000000000
+      internalID: -315290919753449626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_108
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1194
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e44206be30c8350800000000000000
+      internalID: 6020191111352700561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_109
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1169
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf6efe1724b316d0800000000000000
+      internalID: -3020872844918755363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_110
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1175
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398a899d40287dba0800000000000000
+      internalID: -6064235415888942957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_111
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1193
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb7bc0a9a861a3c0800000000000000
+      internalID: -4350080687306736648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_112
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1193
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91e1426e61876a70800000000000000
+      internalID: 8820160706323276190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_113
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1199
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a734a7fb326f2e4b0800000000000000
+      internalID: -5412493168749165702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_114
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 1169
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0aaf6f7667596220800000000000000
+      internalID: 2479609167580473866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_115
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 1194
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca61cbf656ee55d0800000000000000
+      internalID: -3071764634554766647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_116
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 1175
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf82a3398c4e5a30800000000000000
+      internalID: 4205883254171144132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_117
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1181
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cdc8cd40b9ba0810800000000000000
+      internalID: 1732401173547765190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_118
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1157
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3261b8c6086eb5f0800000000000000
+      internalID: -739038910496021954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_119
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1164
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725c8e2512f4e9740800000000000000
+      internalID: 5160649227556668711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_120
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 1169
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9786d1df901570870800000000000000
+      internalID: 8648970712731445369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_121
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1170
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8caadc31bd4c35c0800000000000000
+      internalID: -4234424126009594742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_122
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1181
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d73b97eec2d064d0800000000000000
+      internalID: -3143280753813801000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_123
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 1157
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7daf30fda4b23e040800000000000000
+      internalID: 4675628438709861079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_124
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1145
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba22c2489b916d490800000000000000
+      internalID: -7721956226503007573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_125
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 978
+        width: 78
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d78125e31ba25050800000000000000
+      internalID: 5787876573061416916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_126
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 1128
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3160ce1dc362d550800000000000000
+      internalID: 6184114970968482106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_127
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 1145
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dcbe47c38d105e60800000000000000
+      internalID: 7948885794130672849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_128
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 1133
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42b58bfbe56c23a0800000000000000
+      internalID: -6688859282340466097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_129
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 1139
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a3903786e6ba930800000000000000
+      internalID: 4155536476065053237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_130
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 1145
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97b57736b7cba340800000000000000
+      internalID: 4876210606987130779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_131
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1122
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f225d4d605587820800000000000000
+      internalID: 2916174246551298809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_132
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1121
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f378c27d38b3b4a0800000000000000
+      internalID: -6578712056599907335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_133
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1115
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57f98eb30f50a3c0800000000000000
+      internalID: -4350372770353645730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_134
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1115
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694bb7f4dfd5f5730800000000000000
+      internalID: 3990011137415165078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_135
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1049
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be8b7f1e155271d0800000000000000
+      internalID: -3354525184572027215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_136
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 989
+        width: 120
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e63525ad10fa9f30800000000000000
+      internalID: 4583239580918298340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_137
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 960
+        width: 42
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b72d3842d4f1aa90800000000000000
+      internalID: -7304287936625956937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_138
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1080
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe5aaeec2b229b00800000000000000
+      internalID: 833776352999661245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_139
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 995
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb32e9eaf10801ab0800000000000000
+      internalID: -5039387109465644100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_140
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 1002
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7d3cc6f740fd3c0800000000000000
+      internalID: -4332739371174996034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest05-2048-x-1536_005_141
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 972
+        width: 60
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab2e598b2558f4c0800000000000000
+      internalID: -4253556202574828633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
