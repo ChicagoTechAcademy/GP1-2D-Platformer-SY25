@@ -1,2 +1,2368 @@
 fileFormatVersion: 2
 guid: 182ed558a641a32489c603db23260b54
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8519206977320436156
+    second: nightvale_dungeon_tiles_0
+  - first:
+      213: -1994799321719477159
+    second: nightvale_dungeon_tiles_1
+  - first:
+      213: -4016203382314895666
+    second: nightvale_dungeon_tiles_2
+  - first:
+      213: 9141308949944087623
+    second: nightvale_dungeon_tiles_3
+  - first:
+      213: 2714170663359251958
+    second: nightvale_dungeon_tiles_4
+  - first:
+      213: 8361337487525658272
+    second: nightvale_dungeon_tiles_5
+  - first:
+      213: -3333159716516399681
+    second: nightvale_dungeon_tiles_6
+  - first:
+      213: 3154892276815531461
+    second: nightvale_dungeon_tiles_7
+  - first:
+      213: -8396124524550809107
+    second: nightvale_dungeon_tiles_8
+  - first:
+      213: 6975414721354399738
+    second: nightvale_dungeon_tiles_9
+  - first:
+      213: 8907276342889264772
+    second: nightvale_dungeon_tiles_10
+  - first:
+      213: -602745963381078676
+    second: nightvale_dungeon_tiles_11
+  - first:
+      213: 268629948036725932
+    second: nightvale_dungeon_tiles_12
+  - first:
+      213: -1480212147840897528
+    second: nightvale_dungeon_tiles_13
+  - first:
+      213: -3824392068544305723
+    second: nightvale_dungeon_tiles_14
+  - first:
+      213: 5283745827771535443
+    second: nightvale_dungeon_tiles_15
+  - first:
+      213: 1351849586991354624
+    second: nightvale_dungeon_tiles_16
+  - first:
+      213: -6500926562892900395
+    second: nightvale_dungeon_tiles_17
+  - first:
+      213: 8878099852249490503
+    second: nightvale_dungeon_tiles_18
+  - first:
+      213: -4744551901282807617
+    second: nightvale_dungeon_tiles_19
+  - first:
+      213: -3477182966234585674
+    second: nightvale_dungeon_tiles_20
+  - first:
+      213: 8498328593071929353
+    second: nightvale_dungeon_tiles_21
+  - first:
+      213: 9139096194332828300
+    second: nightvale_dungeon_tiles_22
+  - first:
+      213: -7206623855165029005
+    second: nightvale_dungeon_tiles_23
+  - first:
+      213: -1519495303555024860
+    second: nightvale_dungeon_tiles_24
+  - first:
+      213: -5377676152717126996
+    second: nightvale_dungeon_tiles_25
+  - first:
+      213: 2050339374151723627
+    second: nightvale_dungeon_tiles_26
+  - first:
+      213: -4027503142710783133
+    second: nightvale_dungeon_tiles_27
+  - first:
+      213: -2197744809469494927
+    second: nightvale_dungeon_tiles_28
+  - first:
+      213: 7633921505085303624
+    second: nightvale_dungeon_tiles_29
+  - first:
+      213: -7530470720827355126
+    second: nightvale_dungeon_tiles_30
+  - first:
+      213: -5032799383023450135
+    second: nightvale_dungeon_tiles_31
+  - first:
+      213: 3673340861927833069
+    second: nightvale_dungeon_tiles_32
+  - first:
+      213: 2879938997175216828
+    second: nightvale_dungeon_tiles_33
+  - first:
+      213: 8413071488516834987
+    second: nightvale_dungeon_tiles_34
+  - first:
+      213: 1122124533676354227
+    second: nightvale_dungeon_tiles_35
+  - first:
+      213: 2252151134762934644
+    second: nightvale_dungeon_tiles_36
+  - first:
+      213: 4814496355896446770
+    second: nightvale_dungeon_tiles_37
+  - first:
+      213: -7388716447480648101
+    second: nightvale_dungeon_tiles_38
+  - first:
+      213: -1582758699257524934
+    second: nightvale_dungeon_tiles_39
+  - first:
+      213: 8667644787346001143
+    second: nightvale_dungeon_tiles_40
+  - first:
+      213: -3394899621477698874
+    second: nightvale_dungeon_tiles_41
+  - first:
+      213: 4105684025792731801
+    second: nightvale_dungeon_tiles_42
+  - first:
+      213: 7583685759059451807
+    second: nightvale_dungeon_tiles_43
+  - first:
+      213: 8695125641001876801
+    second: nightvale_dungeon_tiles_44
+  - first:
+      213: 438852572749548161
+    second: nightvale_dungeon_tiles_45
+  - first:
+      213: 1266541805627049518
+    second: nightvale_dungeon_tiles_46
+  - first:
+      213: -1181165237038344894
+    second: nightvale_dungeon_tiles_47
+  - first:
+      213: 4841044383456810308
+    second: nightvale_dungeon_tiles_48
+  - first:
+      213: -5543996612948325424
+    second: nightvale_dungeon_tiles_49
+  - first:
+      213: 6888100011923624363
+    second: nightvale_dungeon_tiles_50
+  - first:
+      213: -7588658318031444935
+    second: nightvale_dungeon_tiles_51
+  - first:
+      213: 2078963568490804062
+    second: nightvale_dungeon_tiles_52
+  - first:
+      213: 6283540621174934212
+    second: nightvale_dungeon_tiles_53
+  - first:
+      213: 6747096506513368669
+    second: nightvale_dungeon_tiles_54
+  - first:
+      213: 4797634002926107779
+    second: nightvale_dungeon_tiles_55
+  - first:
+      213: -2508261644782717050
+    second: nightvale_dungeon_tiles_56
+  - first:
+      213: -3107051301303819118
+    second: nightvale_dungeon_tiles_57
+  - first:
+      213: -351848520783942744
+    second: nightvale_dungeon_tiles_58
+  - first:
+      213: -996457020612258643
+    second: nightvale_dungeon_tiles_59
+  - first:
+      213: -599557930694178954
+    second: nightvale_dungeon_tiles_60
+  - first:
+      213: 6642026151554513666
+    second: nightvale_dungeon_tiles_61
+  - first:
+      213: -6437132105365253003
+    second: nightvale_dungeon_tiles_62
+  - first:
+      213: 4337839224364762203
+    second: nightvale_dungeon_tiles_63
+  - first:
+      213: 343002571944477124
+    second: nightvale_dungeon_tiles_64
+  - first:
+      213: 324518531806366619
+    second: nightvale_dungeon_tiles_65
+  - first:
+      213: -6026206676905511512
+    second: nightvale_dungeon_tiles_66
+  - first:
+      213: 1247318140713687328
+    second: nightvale_dungeon_tiles_67
+  - first:
+      213: -5298476034068911895
+    second: nightvale_dungeon_tiles_68
+  - first:
+      213: -5855267792471607917
+    second: nightvale_dungeon_tiles_69
+  - first:
+      213: -8035758587588186605
+    second: nightvale_dungeon_tiles_70
+  - first:
+      213: 2721756690886123658
+    second: nightvale_dungeon_tiles_71
+  - first:
+      213: 9038571832309438108
+    second: nightvale_dungeon_tiles_72
+  - first:
+      213: -7184649261350206984
+    second: nightvale_dungeon_tiles_73
+  - first:
+      213: -7667406337782697024
+    second: nightvale_dungeon_tiles_74
+  - first:
+      213: 6325584790003493956
+    second: nightvale_dungeon_tiles_75
+  - first:
+      213: 2633146118517605881
+    second: nightvale_dungeon_tiles_76
+  - first:
+      213: 346750313011825818
+    second: nightvale_dungeon_tiles_77
+  - first:
+      213: 4053359935608719275
+    second: nightvale_dungeon_tiles_78
+  - first:
+      213: 4638083037869145389
+    second: nightvale_dungeon_tiles_79
+  - first:
+      213: 6885902308017222406
+    second: nightvale_dungeon_tiles_80
+  - first:
+      213: 8559768564373869414
+    second: nightvale_dungeon_tiles_81
+  - first:
+      213: -5967263696620300990
+    second: nightvale_dungeon_tiles_82
+  - first:
+      213: 2908988978046431648
+    second: nightvale_dungeon_tiles_83
+  - first:
+      213: 8995357571745963708
+    second: nightvale_dungeon_tiles_84
+  - first:
+      213: -2198999564539254552
+    second: nightvale_dungeon_tiles_85
+  - first:
+      213: -559887379021086324
+    second: nightvale_dungeon_tiles_86
+  - first:
+      213: 3990507423017445707
+    second: nightvale_dungeon_tiles_87
+  - first:
+      213: 6480033253815469873
+    second: nightvale_dungeon_tiles_88
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1c633fb9d4a3670800000000000000
+      internalID: 8519206977320436156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c68b6f59c0154e0800000000000000
+      internalID: -1994799321719477159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_2
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 225
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6f5637d449348c0800000000000000
+      internalID: -4016203382314895666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_3
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 216
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7443487ae047cde70800000000000000
+      internalID: 9141308949944087623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 225
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5805986dbaaa520800000000000000
+      internalID: 2714170663359251958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_5
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 225
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aebf170520790470800000000000000
+      internalID: 8361337487525658272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_6
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 216
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5f56dc5ec3eb1d0800000000000000
+      internalID: -3333159716516399681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd86387fcd68cb20800000000000000
+      internalID: 3154892276815531461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 207
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de91430ca39fa7b80800000000000000
+      internalID: -8396124524550809107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_9
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 216
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afffb535bb6adc060800000000000000
+      internalID: 6975414721354399738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 207
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486b72e14a00d9b70800000000000000
+      internalID: 8907276342889264772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_11
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 207
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65ced26dbd92a7f0800000000000000
+      internalID: -602745963381078676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cacb2c4b38d5ab300800000000000000
+      internalID: 268629948036725932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 189
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ea9bfd4ea357be0800000000000000
+      internalID: -1480212147840897528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_14
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 198
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c568981da70deac0800000000000000
+      internalID: -3824392068544305723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_15
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 189
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35056cbf5d2a35940800000000000000
+      internalID: 5283745827771535443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_16
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 198
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003d066790cb2c210800000000000000
+      internalID: 1351849586991354624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_17
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 189
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d71ed30cb118c5a0800000000000000
+      internalID: -6500926562892900395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_18
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 198
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74467c507c8553b70800000000000000
+      internalID: 8878099852249490503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_19
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 189
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb052a9fe27f72eb0800000000000000
+      internalID: -4744551901282807617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b56c8ed3809ebfc0800000000000000
+      internalID: -3477182966234585674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908f89e44d020f570800000000000000
+      internalID: 8498328593071929353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_22
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 180
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c822557519794de70800000000000000
+      internalID: 9139096194332828300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_23
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 171
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375480b39cdecfb90800000000000000
+      internalID: -7206623855165029005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_24
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 180
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4287ab1721ba9eae0800000000000000
+      internalID: -1519495303555024860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_25
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 171
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2d4300808ae55b0800000000000000
+      internalID: -5377676152717126996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_26
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 171
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a6f413cc4447c10800000000000000
+      internalID: 2050339374151723627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36354f6fa3f6b18c0800000000000000
+      internalID: -4027503142710783133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 162
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179bc9c6dba0081e0800000000000000
+      internalID: -2197744809469494927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_29
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 153
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b23d1a92321f960800000000000000
+      internalID: 7633921505085303624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_30
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 162
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a001b9d07c46e7790800000000000000
+      internalID: -7530470720827355126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_31
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 153
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7051540a7e72ab0800000000000000
+      internalID: -5032799383023450135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_32
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 153
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dedb22e3d045af230800000000000000
+      internalID: 3673340861927833069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba6c65624997f720800000000000000
+      internalID: 2879938997175216828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba64307c1fb31c470800000000000000
+      internalID: 8413071488516834987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_35
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 135
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3baa78f6156929f00800000000000000
+      internalID: 1122124533676354227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 135
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471a900568f314f10800000000000000
+      internalID: 2252151134762934644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_37
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 144
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fce996de680d240800000000000000
+      internalID: 4814496355896446770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_38
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 144
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e64d1c981067990800000000000000
+      internalID: -7388716447480648101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_39
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 135
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d889d4959e80ae0800000000000000
+      internalID: -1582758699257524934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc460dc209a94870800000000000000
+      internalID: 8667644787346001143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2b6bdf7c4e2e0d0800000000000000
+      internalID: -3394899621477698874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_42
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 126
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a1f5d5ed15af830800000000000000
+      internalID: 4105684025792731801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_43
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 117
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f5dec840aae3960800000000000000
+      internalID: 7583685759059451807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_44
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 126
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14dbe45a3ba4ba870800000000000000
+      internalID: 8695125641001876801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_45
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 117
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ac08bf61e171600800000000000000
+      internalID: 438852572749548161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_46
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 126
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e260591df09a39110800000000000000
+      internalID: 1266541805627049518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_47
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 117
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2451a499978ab9fe0800000000000000
+      internalID: -1181165237038344894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445d7d1c738de2340800000000000000
+      internalID: 4841044383456810308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db0f313474cf03b0800000000000000
+      internalID: -5543996612948325424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_50
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 108
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba152145772779f50800000000000000
+      internalID: 6888100011923624363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_51
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 99
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9342ce7577bafa690800000000000000
+      internalID: -7588658318031444935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_52
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 108
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e537fd8c956f9dc10800000000000000
+      internalID: 2078963568490804062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_53
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 108
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca8ed047ee933750800000000000000
+      internalID: 6283540621174934212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_54
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 91
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d562208668082ad50800000000000000
+      internalID: 6747096506513368669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_55
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 91
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38cfebae4be949240800000000000000
+      internalID: 4797634002926107779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_56
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 94
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6873dfac25dd03dd0800000000000000
+      internalID: -2508261644782717050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_57
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 99
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294eed6ad4981e4d0800000000000000
+      internalID: -3107051301303819118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_58
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 99
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab2def62abfd1bf0800000000000000
+      internalID: -351848520783942744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_59
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 90
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da456748e9fdb22f0800000000000000
+      internalID: -996457020612258643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_60
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 81
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67784b61d31fda7f0800000000000000
+      internalID: -599557930694178954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_61
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 85
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20bf24808973d2c50800000000000000
+      internalID: 6642026151554513666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_62
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 72
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574117f9476baa6a0800000000000000
+      internalID: -6437132105365253003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54840daac9133c30800000000000000
+      internalID: 4337839224364762203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_64
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 72
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1cbc9950792c400800000000000000
+      internalID: 343002571944477124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_65
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 67
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b8953a2ebe08400800000000000000
+      internalID: 324518531806366619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_66
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 45
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5b5ff94fc9e5ca0800000000000000
+      internalID: -6026206676905511512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_67
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 50
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029d32b8d3d5f4110800000000000000
+      internalID: 1247318140713687328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_68
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 54
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8e66a9e180876b0800000000000000
+      internalID: -5298476034068911895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395b1fc17f8edbea0800000000000000
+      internalID: -5855267792471607917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ee20ec3204b7090800000000000000
+      internalID: -8035758587588186605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_71
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 36
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a806f453a4f95c520800000000000000
+      internalID: 2721756690886123658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_72
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96d7ad61357f6d70800000000000000
+      internalID: 9038571832309438108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1c27d009ffa4c90800000000000000
+      internalID: -7184649261350206984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_74
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c332e73f86e79590800000000000000
+      internalID: -7667406337782697024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_75
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ca5c42addf8c750800000000000000
+      internalID: 6325584790003493956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_76
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 27
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5c0fb9170da8420800000000000000
+      internalID: 2633146118517605881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_77
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 27
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c43d09297efc400800000000000000
+      internalID: 346750313011825818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_78
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba702c4c26d604830800000000000000
+      internalID: 4053359935608719275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_79
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 28
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d74f603f7cd5040800000000000000
+      internalID: 4638083037869145389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_80
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 10
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603b8638aa3af8f50800000000000000
+      internalID: 6885902308017222406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_81
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 10
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6635f0f58286ac670800000000000000
+      internalID: 8559768564373869414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_82
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245dcd9a845003da0800000000000000
+      internalID: -5967263696620300990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_83
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 9
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1fbf3201ece5820800000000000000
+      internalID: 2908988978046431648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_84
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbed9835d0ee5dc70800000000000000
+      internalID: 8995357571745963708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_85
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8266efb859b71e0800000000000000
+      internalID: -2198999564539254552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_86
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81493b2561ea38f0800000000000000
+      internalID: -559887379021086324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_87
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49a38ecb51216730800000000000000
+      internalID: 3990507423017445707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightvale_dungeon_tiles_88
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137c36269e3bde950800000000000000
+      internalID: 6480033253815469873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

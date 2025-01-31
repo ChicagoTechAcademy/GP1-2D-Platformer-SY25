@@ -1,2 +1,2618 @@
 fileFormatVersion: 2
 guid: 8e5cbca5f8213da4089dd2acee6ff119
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5836280389926436555
+    second: gloomfall_dungeon_tiles_0
+  - first:
+      213: 8605864766432040690
+    second: gloomfall_dungeon_tiles_1
+  - first:
+      213: -6561166515847345232
+    second: gloomfall_dungeon_tiles_2
+  - first:
+      213: 929661677709366673
+    second: gloomfall_dungeon_tiles_3
+  - first:
+      213: -4559053065437945949
+    second: gloomfall_dungeon_tiles_4
+  - first:
+      213: -7054677806253998779
+    second: gloomfall_dungeon_tiles_5
+  - first:
+      213: -3318140991196564521
+    second: gloomfall_dungeon_tiles_6
+  - first:
+      213: -904058763071948320
+    second: gloomfall_dungeon_tiles_7
+  - first:
+      213: -4614221836379918202
+    second: gloomfall_dungeon_tiles_8
+  - first:
+      213: -6986259953589774187
+    second: gloomfall_dungeon_tiles_9
+  - first:
+      213: 7803593097970285015
+    second: gloomfall_dungeon_tiles_10
+  - first:
+      213: 3149901079041241252
+    second: gloomfall_dungeon_tiles_11
+  - first:
+      213: 2936693605500614443
+    second: gloomfall_dungeon_tiles_12
+  - first:
+      213: -4237443324417631649
+    second: gloomfall_dungeon_tiles_13
+  - first:
+      213: -715792652380393
+    second: gloomfall_dungeon_tiles_14
+  - first:
+      213: -3332935001199713128
+    second: gloomfall_dungeon_tiles_15
+  - first:
+      213: -7838349079921357015
+    second: gloomfall_dungeon_tiles_16
+  - first:
+      213: -928603785488173238
+    second: gloomfall_dungeon_tiles_17
+  - first:
+      213: 8289836986910754060
+    second: gloomfall_dungeon_tiles_18
+  - first:
+      213: 1966001402621001286
+    second: gloomfall_dungeon_tiles_19
+  - first:
+      213: -222242473120366355
+    second: gloomfall_dungeon_tiles_20
+  - first:
+      213: -34095712342730438
+    second: gloomfall_dungeon_tiles_21
+  - first:
+      213: -4755048803068781445
+    second: gloomfall_dungeon_tiles_22
+  - first:
+      213: 3797891425840154452
+    second: gloomfall_dungeon_tiles_23
+  - first:
+      213: 2580627523012812454
+    second: gloomfall_dungeon_tiles_24
+  - first:
+      213: -7479383789290469896
+    second: gloomfall_dungeon_tiles_25
+  - first:
+      213: -6761301824523042737
+    second: gloomfall_dungeon_tiles_26
+  - first:
+      213: -7039080486571432290
+    second: gloomfall_dungeon_tiles_27
+  - first:
+      213: 4518923728235570142
+    second: gloomfall_dungeon_tiles_28
+  - first:
+      213: 7371749205895944984
+    second: gloomfall_dungeon_tiles_29
+  - first:
+      213: -1848784034827270537
+    second: gloomfall_dungeon_tiles_30
+  - first:
+      213: -6678162448525283636
+    second: gloomfall_dungeon_tiles_31
+  - first:
+      213: -2931342458086111770
+    second: gloomfall_dungeon_tiles_32
+  - first:
+      213: 8778225701399225685
+    second: gloomfall_dungeon_tiles_33
+  - first:
+      213: 6451335859539443985
+    second: gloomfall_dungeon_tiles_34
+  - first:
+      213: 4455447397356057133
+    second: gloomfall_dungeon_tiles_35
+  - first:
+      213: 1003495870782077158
+    second: gloomfall_dungeon_tiles_36
+  - first:
+      213: 8615404289824105090
+    second: gloomfall_dungeon_tiles_37
+  - first:
+      213: 3857909502586592222
+    second: gloomfall_dungeon_tiles_38
+  - first:
+      213: 8268207309963628915
+    second: gloomfall_dungeon_tiles_39
+  - first:
+      213: 3361875431582174894
+    second: gloomfall_dungeon_tiles_40
+  - first:
+      213: -6377848034096206767
+    second: gloomfall_dungeon_tiles_41
+  - first:
+      213: 8885268458871504880
+    second: gloomfall_dungeon_tiles_42
+  - first:
+      213: 244606899287618809
+    second: gloomfall_dungeon_tiles_43
+  - first:
+      213: 6975021487744517371
+    second: gloomfall_dungeon_tiles_44
+  - first:
+      213: -2813852181431138096
+    second: gloomfall_dungeon_tiles_45
+  - first:
+      213: 7343642767619493950
+    second: gloomfall_dungeon_tiles_46
+  - first:
+      213: -178317816267156740
+    second: gloomfall_dungeon_tiles_47
+  - first:
+      213: 800393089056778563
+    second: gloomfall_dungeon_tiles_48
+  - first:
+      213: 7474776337948582060
+    second: gloomfall_dungeon_tiles_49
+  - first:
+      213: 6876513338320333497
+    second: gloomfall_dungeon_tiles_50
+  - first:
+      213: 5320902510619664694
+    second: gloomfall_dungeon_tiles_51
+  - first:
+      213: -1176170839165796961
+    second: gloomfall_dungeon_tiles_52
+  - first:
+      213: 5955243992781287978
+    second: gloomfall_dungeon_tiles_53
+  - first:
+      213: 8435011249617186121
+    second: gloomfall_dungeon_tiles_54
+  - first:
+      213: -1252208636303884283
+    second: gloomfall_dungeon_tiles_55
+  - first:
+      213: -7097603625191421412
+    second: gloomfall_dungeon_tiles_56
+  - first:
+      213: 5280637187080025608
+    second: gloomfall_dungeon_tiles_57
+  - first:
+      213: 7758719597688024358
+    second: gloomfall_dungeon_tiles_58
+  - first:
+      213: 6985600535401986326
+    second: gloomfall_dungeon_tiles_59
+  - first:
+      213: 2232556004069877203
+    second: gloomfall_dungeon_tiles_60
+  - first:
+      213: -2358264832305274262
+    second: gloomfall_dungeon_tiles_61
+  - first:
+      213: -133533269925905150
+    second: gloomfall_dungeon_tiles_62
+  - first:
+      213: 5856424299292387081
+    second: gloomfall_dungeon_tiles_63
+  - first:
+      213: 6163012409248385393
+    second: gloomfall_dungeon_tiles_64
+  - first:
+      213: -2333085816726452859
+    second: gloomfall_dungeon_tiles_65
+  - first:
+      213: -641420608307095639
+    second: gloomfall_dungeon_tiles_66
+  - first:
+      213: -1070718524569803837
+    second: gloomfall_dungeon_tiles_67
+  - first:
+      213: 1737017367170537182
+    second: gloomfall_dungeon_tiles_68
+  - first:
+      213: 2042730258185098676
+    second: gloomfall_dungeon_tiles_69
+  - first:
+      213: 3573771056241169794
+    second: gloomfall_dungeon_tiles_70
+  - first:
+      213: 4298411903519554782
+    second: gloomfall_dungeon_tiles_71
+  - first:
+      213: 1547575688377833011
+    second: gloomfall_dungeon_tiles_72
+  - first:
+      213: 2918173427029645245
+    second: gloomfall_dungeon_tiles_73
+  - first:
+      213: -7392689565676746569
+    second: gloomfall_dungeon_tiles_74
+  - first:
+      213: 2367082372902370250
+    second: gloomfall_dungeon_tiles_75
+  - first:
+      213: -7105148721208930052
+    second: gloomfall_dungeon_tiles_76
+  - first:
+      213: -2631156409920638666
+    second: gloomfall_dungeon_tiles_77
+  - first:
+      213: 8170761076833320106
+    second: gloomfall_dungeon_tiles_78
+  - first:
+      213: 2000505398191214965
+    second: gloomfall_dungeon_tiles_79
+  - first:
+      213: -1527182092657841667
+    second: gloomfall_dungeon_tiles_80
+  - first:
+      213: -4777600485097898926
+    second: gloomfall_dungeon_tiles_81
+  - first:
+      213: -3127476887230400260
+    second: gloomfall_dungeon_tiles_82
+  - first:
+      213: 4543832089398700796
+    second: gloomfall_dungeon_tiles_83
+  - first:
+      213: -65335083980451974
+    second: gloomfall_dungeon_tiles_84
+  - first:
+      213: -883392694125234418
+    second: gloomfall_dungeon_tiles_85
+  - first:
+      213: 5736060252072293667
+    second: gloomfall_dungeon_tiles_86
+  - first:
+      213: -6728760535769692703
+    second: gloomfall_dungeon_tiles_87
+  - first:
+      213: 1660795235627618325
+    second: gloomfall_dungeon_tiles_88
+  - first:
+      213: 6416478676844074699
+    second: gloomfall_dungeon_tiles_89
+  - first:
+      213: 3601967520951886032
+    second: gloomfall_dungeon_tiles_90
+  - first:
+      213: -1185568707385814227
+    second: gloomfall_dungeon_tiles_91
+  - first:
+      213: 6029542078038658849
+    second: gloomfall_dungeon_tiles_92
+  - first:
+      213: 5757078836968759701
+    second: gloomfall_dungeon_tiles_93
+  - first:
+      213: 6377483905848558664
+    second: gloomfall_dungeon_tiles_94
+  - first:
+      213: 6118717043573354872
+    second: gloomfall_dungeon_tiles_95
+  - first:
+      213: -3136454684825308515
+    second: gloomfall_dungeon_tiles_96
+  - first:
+      213: 4959393737781953109
+    second: gloomfall_dungeon_tiles_97
+  - first:
+      213: 3898406404026550985
+    second: gloomfall_dungeon_tiles_98
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 425
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bceb42bb712aef050800000000000000
+      internalID: 5836280389926436555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f65b34c86c2e6770800000000000000
+      internalID: 8605864766432040690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 425
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb4bbef0dd02f4a0800000000000000
+      internalID: -6561166515847345232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_3
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 408
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195192dce52d6ec00800000000000000
+      internalID: 929661677709366673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_4
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 425
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af5a62546dfab0c0800000000000000
+      internalID: -4559053065437945949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 408
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54df56999efb81e90800000000000000
+      internalID: -7054677806253998779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_6
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 425
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3f019495893f1d0800000000000000
+      internalID: -3318140991196564521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_7
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 408
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9740b48532473f0800000000000000
+      internalID: -904058763071948320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 391
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68079bfdfadf6ffb0800000000000000
+      internalID: -4614221836379918202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 374
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5989eb54691db0f90800000000000000
+      internalID: -6986259953589774187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 391
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d97530d39eeb4c60800000000000000
+      internalID: 7803593097970285015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_11
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 374
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a07fdda752b6bb20800000000000000
+      internalID: 3149901079041241252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 391
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b277602664b31c820800000000000000
+      internalID: 2936693605500614443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_13
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 374
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a9c345fb39135c0800000000000000
+      internalID: -4237443324417631649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_14
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 391
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717d8398df47dfff0800000000000000
+      internalID: -715792652380393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_15
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 374
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894660a66490fb1d0800000000000000
+      internalID: -3332935001199713128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 357
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f07c98a07983390800000000000000
+      internalID: -7838349079921357015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47f4ece6cfec13f0800000000000000
+      internalID: -928603785488173238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 357
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05c5b271da6b0370800000000000000
+      internalID: 8289836986910754060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_19
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 340
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ef42ffbd3a84b10800000000000000
+      internalID: 1966001402621001286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_20
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 357
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de008afe5af6aecf0800000000000000
+      internalID: -222242473120366355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_21
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 340
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a399279512ed68ff0800000000000000
+      internalID: -34095712342730438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_22
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 357
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c50739e4ca20eb0800000000000000
+      internalID: -4755048803068781445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_23
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 340
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45744b43122d4b430800000000000000
+      internalID: 3797891425840154452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 323
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae56c63f0b30d320800000000000000
+      internalID: 2580627523012812454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5c6843214e33890800000000000000
+      internalID: -7479383789290469896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_26
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 323
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f408a1240d70b22a0800000000000000
+      internalID: -6761301824523042737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_27
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 306
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96a6849799205e90800000000000000
+      internalID: -7039080486571432290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_28
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 323
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3a094403176be30800000000000000
+      internalID: 4518923728235570142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_29
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 306
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b12b678d6bd4660800000000000000
+      internalID: 7371749205895944984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_30
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 323
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77605b137bcc756e0800000000000000
+      internalID: -1848784034827270537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_31
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 306
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce2c4fa2a66253a0800000000000000
+      internalID: -6678162448525283636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5c1c6b097c157d0800000000000000
+      internalID: -2931342458086111770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555ea1234c582d970800000000000000
+      internalID: 8778225701399225685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_34
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 289
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111869a98cfb78950800000000000000
+      internalID: 6451335859539443985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_35
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 272
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22b8da4dcde4dd30800000000000000
+      internalID: 4455447397356057133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_36
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 289
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8798f7d222ded00800000000000000
+      internalID: 1003495870782077158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_37
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 272
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282a7532e80109770800000000000000
+      internalID: 8615404289824105090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_38
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 289
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb1745a04c0a8530800000000000000
+      internalID: 3857909502586592222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_39
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 272
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3719ba7ddb29eb270800000000000000
+      internalID: 8268207309963628915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae819e94e7c7ae20800000000000000
+      internalID: 3361875431582174894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 238
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ca54811055d77a0800000000000000
+      internalID: -6377848034096206767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_42
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 255
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ffb4015690de4b70800000000000000
+      internalID: 8885268458871504880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_43
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 238
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4f5adcda4056300800000000000000
+      internalID: 244606899287618809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_44
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 255
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf48abd76114cc060800000000000000
+      internalID: 6975021487744517371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_45
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 238
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8c653795033f8d0800000000000000
+      internalID: -2813852181431138096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_46
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 255
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e309359503cd9e560800000000000000
+      internalID: 7343642767619493950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_47
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 238
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2d54014ec768df0800000000000000
+      internalID: -178317816267156740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 221
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34928e916419b1b00800000000000000
+      internalID: 800393089056778563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0abeee97dbbb760800000000000000
+      internalID: 7474776337948582060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_50
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 221
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9baa1d7a2784e6f50800000000000000
+      internalID: 6876513338320333497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_51
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 204
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63128fd54a4a7d940800000000000000
+      internalID: 5320902510619664694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_52
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 221
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d79587ad66dafe0800000000000000
+      internalID: -1176170839165796961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_53
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 204
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22f184fbd645a250800000000000000
+      internalID: 5955243992781287978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_54
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 221
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d2bd97a0e2f0570800000000000000
+      internalID: 8435011249617186121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_55
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 204
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5004e6831e24f9ee0800000000000000
+      internalID: -1252208636303884283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 187
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ac0fb8b1f308d90800000000000000
+      internalID: -7097603625191421412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8067f9b2b87984940800000000000000
+      internalID: 5280637187080025608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_58
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 187
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d6e0cdd528cab60800000000000000
+      internalID: 7758719597688024358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_59
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 170
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619f967fca6d1f060800000000000000
+      internalID: 6985600535401986326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_60
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 187
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d520cb6bd1abfe10800000000000000
+      internalID: 2232556004069877203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_61
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 170
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62e52031a2c54fd0800000000000000
+      internalID: -2358264832305274262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_62
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 187
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20dbe50d238952ef0800000000000000
+      internalID: -133533269925905150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_63
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 170
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907e94d1fd2364150800000000000000
+      internalID: 5856424299292387081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1790397122b678550800000000000000
+      internalID: 6163012409248385393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58584879fc63f9fd0800000000000000
+      internalID: -2333085816726452859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_66
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 153
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a79d3aea573917f0800000000000000
+      internalID: -641420608307095639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_67
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 136
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c32690cc2b0421f0800000000000000
+      internalID: -1070718524569803837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_68
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 153
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed652e2a7102b1810800000000000000
+      internalID: 1737017367170537182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_69
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 136
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b59013d85c395c10800000000000000
+      internalID: 2042730258185098676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_70
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 153
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285d3db47d5989130800000000000000
+      internalID: 3573771056241169794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_71
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 136
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edcf79f2ad607ab30800000000000000
+      internalID: 4298411903519554782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3369ac0a3e71a7510800000000000000
+      internalID: 1547575688377833011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7161f454f6f7820800000000000000
+      internalID: 2918173427029645245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_74
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 119
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8c9171204e76990800000000000000
+      internalID: -7392689565676746569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_75
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 102
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb3fe670e099d020800000000000000
+      internalID: 2367082372902370250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_76
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 119
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0550cf1e0756d90800000000000000
+      internalID: -7105148721208930052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_77
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 102
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63130368f214c7bd0800000000000000
+      internalID: -2631156409920638666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_78
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 119
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aacfc39a8ef546170800000000000000
+      internalID: 8170761076833320106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_79
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 102
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571507e7f0933cb10800000000000000
+      internalID: 2000505398191214965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9aac36afb5ecae0800000000000000
+      internalID: -1527182092657841667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c710febad82bdb0800000000000000
+      internalID: -4777600485097898926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_82
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 85
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf833655758f894d0800000000000000
+      internalID: -3127476887230400260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_83
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 68
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa61a7063fee0f30800000000000000
+      internalID: 4543832089398700796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_84
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 85
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f89f75612e71ff0800000000000000
+      internalID: -65335083980451974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_85
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 85
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e077d7d660f8db3f0800000000000000
+      internalID: -883392694125234418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_86
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 51
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325b10788649a9f40800000000000000
+      internalID: 5736060252072293667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_87
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 51
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5c7c671f3ae92a0800000000000000
+      internalID: -6728760535769692703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_88
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 68
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510de30b7745c0710800000000000000
+      internalID: 1660795235627618325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_89
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 51
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6d8225c59eb0950800000000000000
+      internalID: 6416478676844074699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_90
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 68
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0e4d25062ccf130800000000000000
+      internalID: 3601967520951886032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_91
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 51
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d231373ca830c8fe0800000000000000
+      internalID: -1185568707385814227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_92
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 40
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12fc3c7f29c3da350800000000000000
+      internalID: 6029542078038658849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_93
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 40
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591217d23b045ef40800000000000000
+      internalID: 5757078836968759701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_94
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 17
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844cfd0b2df518850800000000000000
+      internalID: 6377483905848558664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_95
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 17
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87171579bbc0ae450800000000000000
+      internalID: 6118717043573354872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92b0e0f4131974d0800000000000000
+      internalID: -3136454684825308515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_97
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5524ac9145e43d440800000000000000
+      internalID: 4959393737781953109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gloomfall_dungeon_tiles_98
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca4c1648fbe91630800000000000000
+      internalID: 3898406404026550985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

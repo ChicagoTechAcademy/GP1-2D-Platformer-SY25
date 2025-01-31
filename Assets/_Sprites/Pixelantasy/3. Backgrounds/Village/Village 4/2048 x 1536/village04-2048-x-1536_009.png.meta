@@ -1,2 +1,3368 @@
 fileFormatVersion: 2
 guid: f99ffd8fb458dfa41a37853dccba66f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8620012174771209458
+    second: village04-2048-x-1536_009_0
+  - first:
+      213: 5963036252631774238
+    second: village04-2048-x-1536_009_1
+  - first:
+      213: 1627430107782853494
+    second: village04-2048-x-1536_009_2
+  - first:
+      213: -4965435551605206049
+    second: village04-2048-x-1536_009_3
+  - first:
+      213: -4554550979977634634
+    second: village04-2048-x-1536_009_4
+  - first:
+      213: 8412083731004537732
+    second: village04-2048-x-1536_009_5
+  - first:
+      213: -1787259128039163842
+    second: village04-2048-x-1536_009_6
+  - first:
+      213: -3049592313945338703
+    second: village04-2048-x-1536_009_7
+  - first:
+      213: -848224891461528855
+    second: village04-2048-x-1536_009_8
+  - first:
+      213: -786932664739064357
+    second: village04-2048-x-1536_009_9
+  - first:
+      213: -3535220464436735322
+    second: village04-2048-x-1536_009_10
+  - first:
+      213: -8656381698709205236
+    second: village04-2048-x-1536_009_11
+  - first:
+      213: 7751830291375508407
+    second: village04-2048-x-1536_009_12
+  - first:
+      213: 6724386648147320577
+    second: village04-2048-x-1536_009_13
+  - first:
+      213: -7026187816203461571
+    second: village04-2048-x-1536_009_14
+  - first:
+      213: 8781701931204114331
+    second: village04-2048-x-1536_009_15
+  - first:
+      213: 3891171887681759380
+    second: village04-2048-x-1536_009_16
+  - first:
+      213: 1656456297153236606
+    second: village04-2048-x-1536_009_17
+  - first:
+      213: -628349014967827182
+    second: village04-2048-x-1536_009_18
+  - first:
+      213: 1602865094606230546
+    second: village04-2048-x-1536_009_19
+  - first:
+      213: -6791244540802142827
+    second: village04-2048-x-1536_009_20
+  - first:
+      213: 9052027631809622711
+    second: village04-2048-x-1536_009_21
+  - first:
+      213: 4051968245031193346
+    second: village04-2048-x-1536_009_22
+  - first:
+      213: 2060796194766750377
+    second: village04-2048-x-1536_009_23
+  - first:
+      213: -6550166806619299453
+    second: village04-2048-x-1536_009_24
+  - first:
+      213: -1349927859027647495
+    second: village04-2048-x-1536_009_25
+  - first:
+      213: -1557810070585282704
+    second: village04-2048-x-1536_009_26
+  - first:
+      213: 8917567127305878552
+    second: village04-2048-x-1536_009_27
+  - first:
+      213: 1706365042132623226
+    second: village04-2048-x-1536_009_28
+  - first:
+      213: 3209330337319454461
+    second: village04-2048-x-1536_009_29
+  - first:
+      213: 7183406324045715674
+    second: village04-2048-x-1536_009_30
+  - first:
+      213: -6154272758636100078
+    second: village04-2048-x-1536_009_31
+  - first:
+      213: -7270756875766237777
+    second: village04-2048-x-1536_009_32
+  - first:
+      213: -6567720693546114974
+    second: village04-2048-x-1536_009_33
+  - first:
+      213: -606629170090160098
+    second: village04-2048-x-1536_009_34
+  - first:
+      213: 4116351176876950428
+    second: village04-2048-x-1536_009_35
+  - first:
+      213: 4624000290794944545
+    second: village04-2048-x-1536_009_36
+  - first:
+      213: -5295302036581143059
+    second: village04-2048-x-1536_009_37
+  - first:
+      213: -7772947896530813103
+    second: village04-2048-x-1536_009_38
+  - first:
+      213: -8187951641258948006
+    second: village04-2048-x-1536_009_39
+  - first:
+      213: 9017397828433426960
+    second: village04-2048-x-1536_009_40
+  - first:
+      213: 1746422204220444599
+    second: village04-2048-x-1536_009_41
+  - first:
+      213: 2328051019227129304
+    second: village04-2048-x-1536_009_42
+  - first:
+      213: 5843976082455759823
+    second: village04-2048-x-1536_009_43
+  - first:
+      213: 9216127592184940789
+    second: village04-2048-x-1536_009_44
+  - first:
+      213: 6453504802121270821
+    second: village04-2048-x-1536_009_45
+  - first:
+      213: -7770097573751195198
+    second: village04-2048-x-1536_009_46
+  - first:
+      213: 6249868365832167491
+    second: village04-2048-x-1536_009_47
+  - first:
+      213: 2058474773557357440
+    second: village04-2048-x-1536_009_48
+  - first:
+      213: -4438685409625082148
+    second: village04-2048-x-1536_009_49
+  - first:
+      213: -8824843269207179278
+    second: village04-2048-x-1536_009_50
+  - first:
+      213: 8819200941598317875
+    second: village04-2048-x-1536_009_51
+  - first:
+      213: -7895175091410971134
+    second: village04-2048-x-1536_009_52
+  - first:
+      213: -5153829224420080355
+    second: village04-2048-x-1536_009_53
+  - first:
+      213: 2065160391396273715
+    second: village04-2048-x-1536_009_54
+  - first:
+      213: -4230256067028678704
+    second: village04-2048-x-1536_009_55
+  - first:
+      213: 1381302385698627097
+    second: village04-2048-x-1536_009_56
+  - first:
+      213: 4450734079123228053
+    second: village04-2048-x-1536_009_57
+  - first:
+      213: 754253361896268549
+    second: village04-2048-x-1536_009_58
+  - first:
+      213: 712345011396157088
+    second: village04-2048-x-1536_009_59
+  - first:
+      213: 6168214357805744767
+    second: village04-2048-x-1536_009_60
+  - first:
+      213: 6863798153763932777
+    second: village04-2048-x-1536_009_61
+  - first:
+      213: 6537233848030858671
+    second: village04-2048-x-1536_009_62
+  - first:
+      213: -348541194322909979
+    second: village04-2048-x-1536_009_63
+  - first:
+      213: -3690252233623848480
+    second: village04-2048-x-1536_009_64
+  - first:
+      213: -5396859796844193875
+    second: village04-2048-x-1536_009_65
+  - first:
+      213: -3901565622444215364
+    second: village04-2048-x-1536_009_66
+  - first:
+      213: -2174537380747769206
+    second: village04-2048-x-1536_009_67
+  - first:
+      213: -2990889113380891926
+    second: village04-2048-x-1536_009_68
+  - first:
+      213: 4128793340329532559
+    second: village04-2048-x-1536_009_69
+  - first:
+      213: 178923598509791235
+    second: village04-2048-x-1536_009_70
+  - first:
+      213: -8208599202468932308
+    second: village04-2048-x-1536_009_71
+  - first:
+      213: 5378297581799313577
+    second: village04-2048-x-1536_009_72
+  - first:
+      213: -2705014263062911579
+    second: village04-2048-x-1536_009_73
+  - first:
+      213: 6514609767054450294
+    second: village04-2048-x-1536_009_74
+  - first:
+      213: 8574354452695697260
+    second: village04-2048-x-1536_009_75
+  - first:
+      213: -4183601930980606097
+    second: village04-2048-x-1536_009_76
+  - first:
+      213: 4862378759959081125
+    second: village04-2048-x-1536_009_77
+  - first:
+      213: 8650470223195470702
+    second: village04-2048-x-1536_009_78
+  - first:
+      213: 3742666741199222744
+    second: village04-2048-x-1536_009_79
+  - first:
+      213: -1982378649355335641
+    second: village04-2048-x-1536_009_80
+  - first:
+      213: -8376612285775046309
+    second: village04-2048-x-1536_009_81
+  - first:
+      213: -5195208758787991907
+    second: village04-2048-x-1536_009_82
+  - first:
+      213: -4855211435785732137
+    second: village04-2048-x-1536_009_83
+  - first:
+      213: -2300104268648420825
+    second: village04-2048-x-1536_009_84
+  - first:
+      213: 6397944629589486022
+    second: village04-2048-x-1536_009_85
+  - first:
+      213: -5195402755100353365
+    second: village04-2048-x-1536_009_86
+  - first:
+      213: 4466682605809232919
+    second: village04-2048-x-1536_009_87
+  - first:
+      213: 7994375465225277327
+    second: village04-2048-x-1536_009_88
+  - first:
+      213: 3695756625200853372
+    second: village04-2048-x-1536_009_89
+  - first:
+      213: 5951602960354987991
+    second: village04-2048-x-1536_009_90
+  - first:
+      213: -5282806933878583821
+    second: village04-2048-x-1536_009_91
+  - first:
+      213: -401924576940707455
+    second: village04-2048-x-1536_009_92
+  - first:
+      213: -373196202768791963
+    second: village04-2048-x-1536_009_93
+  - first:
+      213: 7195066567929565816
+    second: village04-2048-x-1536_009_94
+  - first:
+      213: 573109447679267424
+    second: village04-2048-x-1536_009_95
+  - first:
+      213: -1451209558021135058
+    second: village04-2048-x-1536_009_96
+  - first:
+      213: -1741876692631966491
+    second: village04-2048-x-1536_009_97
+  - first:
+      213: -6824908925858706509
+    second: village04-2048-x-1536_009_98
+  - first:
+      213: -6171697992264541910
+    second: village04-2048-x-1536_009_99
+  - first:
+      213: 4147113495102593251
+    second: village04-2048-x-1536_009_100
+  - first:
+      213: 2202092363539620900
+    second: village04-2048-x-1536_009_101
+  - first:
+      213: 3669548021060507811
+    second: village04-2048-x-1536_009_102
+  - first:
+      213: 1329141795645243338
+    second: village04-2048-x-1536_009_103
+  - first:
+      213: -5287147307224806237
+    second: village04-2048-x-1536_009_104
+  - first:
+      213: 2632649992006172830
+    second: village04-2048-x-1536_009_105
+  - first:
+      213: 78724592446897297
+    second: village04-2048-x-1536_009_106
+  - first:
+      213: 1388340732450070747
+    second: village04-2048-x-1536_009_107
+  - first:
+      213: 1837433021433298129
+    second: village04-2048-x-1536_009_108
+  - first:
+      213: 6075189898766106738
+    second: village04-2048-x-1536_009_109
+  - first:
+      213: 8832335440617391125
+    second: village04-2048-x-1536_009_110
+  - first:
+      213: -8583294888690834985
+    second: village04-2048-x-1536_009_111
+  - first:
+      213: -8611280340882023427
+    second: village04-2048-x-1536_009_112
+  - first:
+      213: -2540851781229866143
+    second: village04-2048-x-1536_009_113
+  - first:
+      213: 6051583913327812632
+    second: village04-2048-x-1536_009_114
+  - first:
+      213: -333621618550625614
+    second: village04-2048-x-1536_009_115
+  - first:
+      213: -3915695471768627680
+    second: village04-2048-x-1536_009_116
+  - first:
+      213: 219522259289490405
+    second: village04-2048-x-1536_009_117
+  - first:
+      213: -7017883689406004681
+    second: village04-2048-x-1536_009_118
+  - first:
+      213: -8911594548725710484
+    second: village04-2048-x-1536_009_119
+  - first:
+      213: 6357006336122101601
+    second: village04-2048-x-1536_009_120
+  - first:
+      213: 3039354161770666483
+    second: village04-2048-x-1536_009_121
+  - first:
+      213: -1899321222838148808
+    second: village04-2048-x-1536_009_122
+  - first:
+      213: 1946915849163835092
+    second: village04-2048-x-1536_009_123
+  - first:
+      213: -7304611363989725783
+    second: village04-2048-x-1536_009_124
+  - first:
+      213: 347544714535387061
+    second: village04-2048-x-1536_009_125
+  - first:
+      213: 6964655086373318876
+    second: village04-2048-x-1536_009_126
+  - first:
+      213: -4209752349011980473
+    second: village04-2048-x-1536_009_127
+  - first:
+      213: -4892525982911391171
+    second: village04-2048-x-1536_009_128
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_0
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1427
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4c7c4f66f60a770800000000000000
+      internalID: 8620012174771209458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_1
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1433
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14b4e4d0e5f0c250800000000000000
+      internalID: 5963036252631774238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_2
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1403
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6733c2f7f0bc59610800000000000000
+      internalID: 1627430107782853494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_3
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 1427
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3d97f7caa371bb0800000000000000
+      internalID: -4965435551605206049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_4
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 1409
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc9607c30cfac0c0800000000000000
+      internalID: -4554550979977634634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_5
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1349
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b3e5f8599bdb470800000000000000
+      internalID: 8412083731004537732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_6
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38b6a7da416237e0800000000000000
+      internalID: -1787259128039163842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_7
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1397
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bcc689a2fbada5d0800000000000000
+      internalID: -3049592313945338703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_8
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1379
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e29ace84ff7a34f0800000000000000
+      internalID: -848224891461528855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_9
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1367
+        width: 80
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5931829e04415f0800000000000000
+      internalID: -786932664739064357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_10
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 1379
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a29e8ec7bf50fec0800000000000000
+      internalID: -3535220464436735322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_11
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 1379
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0fce3065ba5ed780800000000000000
+      internalID: -8656381698709205236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_12
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 1379
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbcc8c3498049b60800000000000000
+      internalID: 7751830291375508407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_13
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1355
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f53377702d15d50800000000000000
+      internalID: 6724386648147320577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_14
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1343
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3cd3025867fd7e90800000000000000
+      internalID: -7026187816203461571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_15
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1361
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9778c4016fded970800000000000000
+      internalID: 8781701931204114331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_16
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 1343
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498e14d2738300630800000000000000
+      internalID: 3891171887681759380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_17
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1355
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e07c9d93aecf610800000000000000
+      internalID: 1656456297153236606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_18
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 1337
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21540e766e7a747f0800000000000000
+      internalID: -628349014967827182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_19
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1280
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21490eaaf458e3610800000000000000
+      internalID: 1602865094606230546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_20
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d6daa5217a0c1a0800000000000000
+      internalID: -6791244540802142827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1313
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b27803eb234f9d70800000000000000
+      internalID: 9052027631809622711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_22
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1307
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b4f3e86ab7b3830800000000000000
+      internalID: 4051968245031193346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_23
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a28c87783b699c10800000000000000
+      internalID: 2060796194766750377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_24
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 1289
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381e6ef5ef12915a0800000000000000
+      internalID: -6550166806619299453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_25
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1307
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3e042b3c7144de0800000000000000
+      internalID: -1349927859027647495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_26
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1271
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fec339efb816ae0800000000000000
+      internalID: -1557810070585282704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_27
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 1313
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c74c31e0091cb70800000000000000
+      internalID: 8917567127305878552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_28
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1253
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f957117f93ea710800000000000000
+      internalID: 1706365042132623226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_29
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1277
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df68fc220f4d98c20800000000000000
+      internalID: 3209330337319454461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_30
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1223
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad81a0e0ef590b360800000000000000
+      internalID: 7183406324045715674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_31
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 1259
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216c1a26881a79aa0800000000000000
+      internalID: -6154272758636100078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_32
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 1253
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa579b3c425191b90800000000000000
+      internalID: -7270756875766237777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_33
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1224
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260a33593d4cad4a0800000000000000
+      internalID: -6567720693546114974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_34
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1187
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10d26edbf1d497f0800000000000000
+      internalID: -606629170090160098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_35
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1205
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9303840697302930800000000000000
+      internalID: 4116351176876950428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_36
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1217
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128b226f3cfbb2040800000000000000
+      internalID: 4624000290794944545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_37
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1217
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dedad2b7ade4386b0800000000000000
+      internalID: -5295302036581143059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_38
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1229
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f39a92211f02490800000000000000
+      internalID: -7772947896530813103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_39
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1235
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a0fa82d5d8e5e80800000000000000
+      internalID: -8187951641258948006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_40
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 1229
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a372a7c8b342d70800000000000000
+      internalID: 9017397828433426960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_41
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 1235
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf0a66edb98c3810800000000000000
+      internalID: 1746422204220444599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_42
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1187
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5e4044116ee4020800000000000000
+      internalID: 2328051019227129304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_43
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 1199
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb87a6c849f91150800000000000000
+      internalID: 5843976082455759823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_44
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 1175
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f80cd8473346ef70800000000000000
+      internalID: 9216127592184940789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_45
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1151
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52647b6ec647f8950800000000000000
+      internalID: 6453504802121270821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_46
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 1163
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c97f66ac611b2490800000000000000
+      internalID: -7770097573751195198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_47
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1169
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340a06e5a2efbb650800000000000000
+      internalID: 6249868365832167491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_48
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 1163
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b2df876eb219c10800000000000000
+      internalID: 2058474773557357440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_49
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 1157
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd67699132f9662c0800000000000000
+      internalID: -4438685409625082148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_50
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1139
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ffb86c7dcbd78580800000000000000
+      internalID: -8824843269207179278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_51
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 1139
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d12ceb788146a70800000000000000
+      internalID: 8819200941598317875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_52
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 1157
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206dfe4b514be6290800000000000000
+      internalID: -7895175091410971134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_53
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1121
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d150a6560abe978b0800000000000000
+      internalID: -5153829224420080355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_54
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1115
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ea16d2f6ce8ac10800000000000000
+      internalID: 2065160391396273715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_55
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1115
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d780d7158c1b45c0800000000000000
+      internalID: -4230256067028678704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_56
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1097
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e57fa833f5b2310800000000000000
+      internalID: 1381302385698627097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_57
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 1103
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5958ddf501f24cd30800000000000000
+      internalID: 4450734079123228053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_58
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 1127
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503a87abf65a77a00800000000000000
+      internalID: 754253361896268549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_59
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 1109
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae1ac18302c2e900800000000000000
+      internalID: 712345011396157088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_60
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 1103
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72c97f1746e99550800000000000000
+      internalID: 6168214357805744767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_61
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1073
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ac41d0e0c114f50800000000000000
+      internalID: 6863798153763932777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_62
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1097
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad0a8d8c8be8ba50800000000000000
+      internalID: 6537233848030858671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_63
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1079
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4eac261abb92bf0800000000000000
+      internalID: -348541194322909979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_64
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1091
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e93243352799ccc0800000000000000
+      internalID: -3690252233623848480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_65
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1062
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7d38acb908a15b0800000000000000
+      internalID: -5396859796844193875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_66
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1079
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3365edcbadad9c0800000000000000
+      internalID: -3901565622444215364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_67
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1043
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a88bdf5cd72d1e0800000000000000
+      internalID: -2174537380747769206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_68
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1043
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae25952a23a3e76d0800000000000000
+      internalID: -2990889113380891926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_69
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1067
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c1751faab6c4930800000000000000
+      internalID: 4128793340329532559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_70
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1049
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3085c1b901aab7200800000000000000
+      internalID: 178923598509791235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_71
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1055
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25d8413482351e80800000000000000
+      internalID: -8208599202468932308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_72
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1044
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a09d7bb72d83aa40800000000000000
+      internalID: 5378297581799313577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_73
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1043
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a525c90cdbd57ad0800000000000000
+      internalID: -2705014263062911579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_74
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 1067
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e1297311b886a50800000000000000
+      internalID: 6514609767054450294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_75
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 1055
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67473322f93ef670800000000000000
+      internalID: 8574354452695697260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_76
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1046
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f334e953cd0f5c0800000000000000
+      internalID: -4183601930980606097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_77
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1037
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0f3ce58b3aa7340800000000000000
+      internalID: 4862378759959081125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_78
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1031
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6bf8a9f5d4ac0870800000000000000
+      internalID: 8650470223195470702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_79
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1025
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d739d5529f90f330800000000000000
+      internalID: 3742666741199222744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_80
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1031
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7284bda1f1d2d74e0800000000000000
+      internalID: -1982378649355335641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_81
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1031
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59943dd18b40cb80800000000000000
+      internalID: -8376612285775046309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_82
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1037
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d969176c829e6e7b0800000000000000
+      internalID: -5195208758787991907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_83
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 1031
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dfb3945ce2de9cb0800000000000000
+      internalID: -4855211435785732137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_84
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1037
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ae9d8aa536410e0800000000000000
+      internalID: -2300104268648420825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_85
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 1037
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9ac4b2eb01ac850800000000000000
+      internalID: 6397944629589486022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_86
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1007
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac582d78b836e7b0800000000000000
+      internalID: -5195402755100353365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_87
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1013
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71cecab1a28dcfd30800000000000000
+      internalID: 4466682605809232919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_88
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1019
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fc9dd212ab1fe60800000000000000
+      internalID: 7994375465225277327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_89
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 1019
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71b465d117f94330800000000000000
+      internalID: 3695756625200853372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_90
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 1025
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df4f180c57589250800000000000000
+      internalID: 5951602960354987991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_91
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1001
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd42394513bfa6b0800000000000000
+      internalID: -5282806933878583821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_92
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 983
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18133fc0ab31c6af0800000000000000
+      internalID: -401924576940707455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_93
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 995
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5660176e70422daf0800000000000000
+      internalID: -373196202768791963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_94
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 1001
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8721bb42ce20ad360800000000000000
+      internalID: 7195066567929565816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_95
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 965
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062d756910814f700800000000000000
+      internalID: 573109447679267424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_96
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 977
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25af7788944cdbe0800000000000000
+      internalID: -1451209558021135058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_97
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 965
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eca32d706c93d7e0800000000000000
+      internalID: -1741876692631966491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_98
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 965
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb8cc9ed7d0941a0800000000000000
+      internalID: -6824908925858706509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_99
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 971
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2994160069b95aa0800000000000000
+      internalID: -6171697992264541910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_100
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 953
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e891de50c18d8930800000000000000
+      internalID: 4147113495102593251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_101
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 959
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424216366576f8e10800000000000000
+      internalID: 2202092363539620900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_102
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 947
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a89c89ab7adce230800000000000000
+      internalID: 3669548021060507811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_103
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 935
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf3f89cb6f027210800000000000000
+      internalID: 1329141795645243338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_104
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 941
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acc3bd598740a6b0800000000000000
+      internalID: -5287147307224806237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_105
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 911
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e908677283d098420800000000000000
+      internalID: 2632649992006172830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_106
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 911
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c72e7899fa71100800000000000000
+      internalID: 78724592446897297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_107
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 917
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd064e85a80644310800000000000000
+      internalID: 1388340732450070747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_108
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 917
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dcba1d099fdf7910800000000000000
+      internalID: 1837433021433298129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_109
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 905
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270cef276096f4450800000000000000
+      internalID: 6075189898766106738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_110
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 839
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514c71b9942c29a70800000000000000
+      internalID: 8832335440617391125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_111
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 893
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1282566c202e880800000000000000
+      internalID: -8583294888690834985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_112
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 899
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb1c6c87269e7880800000000000000
+      internalID: -8611280340882023427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_113
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 839
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16310e854c41dbcd0800000000000000
+      internalID: -2540851781229866143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_114
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 863
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8106f5aa18b8bf350800000000000000
+      internalID: 6051583913327812632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_115
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 875
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba26e0d7ecbe5bf0800000000000000
+      internalID: -333621618550625614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_116
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 797
+        width: 133
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02610a4f6b7a8a9c0800000000000000
+      internalID: -3915695471768627680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_117
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 786
+        width: 50
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3cd3de456eb0300800000000000000
+      internalID: 219522259289490405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_118
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 845
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73282f187f77b9e90800000000000000
+      internalID: -7017883689406004681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_119
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 887
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6185ec39f7a35480800000000000000
+      internalID: -8911594548725710484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_120
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 893
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f1773f49f983850800000000000000
+      internalID: 6357006336122101601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_121
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 869
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f912f6c184fd2a20800000000000000
+      internalID: 3039354161770666483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_122
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 851
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8312f5e296144a5e0800000000000000
+      internalID: -1899321222838148808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_123
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 857
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d60dfc46a5d40b10800000000000000
+      internalID: 1946915849163835092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_124
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 857
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad5c1b7aaec0aa90800000000000000
+      internalID: -7304611363989725783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_125
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 833
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf3275931ab2d400800000000000000
+      internalID: 347544714535387061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_126
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 869
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0366696ec67a060800000000000000
+      internalID: 6964655086373318876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_127
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 803
+        width: 55
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f46c4fa84f395c0800000000000000
+      internalID: -4209752349011980473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village04-2048-x-1536_009_128
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 821
+        width: 14
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a923e4a814a1cb0800000000000000
+      internalID: -4892525982911391171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
