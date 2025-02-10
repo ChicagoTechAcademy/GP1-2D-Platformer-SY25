@@ -1,5 +1,6 @@
 using UnityEngine;
 
+[SelectionBase]
 public class PlayerController : MonoBehaviour
 {
 
@@ -12,16 +13,25 @@ public class PlayerController : MonoBehaviour
     */
 
 
+    [Header("Components")]
+    [SerializeField] private Animator animator;
+    [SerializeField] private Transform groundCheck;
+    [SerializeField] private LayerMask groundLayer;
     private Rigidbody2D rb;
-    public Animator animator;
+
+
+    [Header("Movement Values")]
+    public float movementSpeed = 5.0f;
+    [Range(0.1f, 1.0f)]
+    [SerializeField] private float groundCheckRadius = 0.1f;
     private float horizontalMove = 0;
-    public Transform groundCheck;
-    public LayerMask groundLayer;
+
+
+    [Header("Flags")]
     private bool isFacingRight = true;
     private bool isJumping = false;
     private bool isGrounded = false;
-    private float groundCheckRadius = 0.1f;
-    public float movementSpeed = 5.0f;
+
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -29,10 +39,11 @@ public class PlayerController : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
     }
 
-    void FixedUpdate() {
+    void FixedUpdate()
+    {
         rb.linearVelocity = new Vector2(horizontalMove, rb.linearVelocityY);
 
-        if(isJumping == true)
+        if (isJumping == true)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocityX, 5);
             isJumping = false;
@@ -46,25 +57,26 @@ public class PlayerController : MonoBehaviour
 
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
 
-        if(horizontalMove != 0)
+        if (horizontalMove != 0)
         {
             animator.SetBool("isRunning", true);
         }
-        else {
+        else
+        {
             animator.SetBool("isRunning", false);
         }
 
 
-        if(horizontalMove > 0 && !isFacingRight)
+        if (horizontalMove > 0 && !isFacingRight)
         {
             Flip();
         }
-        else if(horizontalMove < 0 && isFacingRight)
+        else if (horizontalMove < 0 && isFacingRight)
         {
             Flip();
         }
 
-        if(Input.GetButtonDown("Jump") && isGrounded)
+        if (Input.GetButtonDown("Jump") && isGrounded)
         {
             isJumping = true;
             animator.SetBool("isJumping", true);
@@ -72,8 +84,9 @@ public class PlayerController : MonoBehaviour
 
     }
 
-    private void OnCollisionEnter2D(Collision2D other) {
-        if(other.gameObject.layer == LayerMask.NameToLayer("Ground"))
+    private void OnCollisionEnter2D(Collision2D other)
+    {
+        if (other.gameObject.layer == LayerMask.NameToLayer("Ground"))
         {
             animator.SetBool("isJumping", false);
         }
@@ -81,11 +94,11 @@ public class PlayerController : MonoBehaviour
 
     private void Flip()
     {
-        if(isFacingRight)
+        if (isFacingRight)
         {
             transform.eulerAngles = new Vector3(0, 180, 0);
         }
-        else if(!isFacingRight)
+        else if (!isFacingRight)
         {
             transform.eulerAngles = new Vector3(0, 0, 0);
         }
@@ -93,7 +106,8 @@ public class PlayerController : MonoBehaviour
         isFacingRight = !isFacingRight;
     }
 
-    private void OnDrawGizmos() {
+    private void OnDrawGizmos()
+    {
         Gizmos.color = Color.blue;
         Gizmos.DrawWireSphere(groundCheck.position, groundCheckRadius);
     }

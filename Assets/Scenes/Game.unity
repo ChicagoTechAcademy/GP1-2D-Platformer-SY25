@@ -1305,6 +1305,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 8
   movementSpeed: 5
+  groundCheckRadius: 0.1
 --- !u!1 &1266396154
 GameObject:
   m_ObjectHideFlags: 0
