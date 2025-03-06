@@ -98,6 +98,17 @@ public class PlayerController : MonoBehaviour
 
     }
 
+    public void PlayerDeath()
+    {
+        animator.SetBool("isDead", true);
+        Destroy(this.gameObject, 1.0f);
+    }
+
+    public void knockBack(float knockLeft, float knockUp)
+    {
+        rb.linearVelocity = new Vector2(-knockLeft, knockUp);
+    }
+
     private void OnCollisionEnter2D(Collision2D other)
     {
         if (other.gameObject.layer == LayerMask.NameToLayer("Ground"))
