@@ -22,6 +22,7 @@ public class PlayerController : MonoBehaviour
 
     [Header("Movement Values")]
     public float movementSpeed = 5.0f;
+    public float jumpForce = 5.0f;
     [Range(0.1f, 1.0f)]
     [SerializeField] private float groundCheckRadius = 0.1f;
     private float horizontalMove = 0;
@@ -45,7 +46,7 @@ public class PlayerController : MonoBehaviour
 
         if (isJumping == true)
         {
-            rb.linearVelocity = new Vector2(rb.linearVelocityX, 5);
+            rb.linearVelocity = new Vector2(rb.linearVelocityX, jumpForce);
             isJumping = false;
         }
     }
@@ -76,10 +77,23 @@ public class PlayerController : MonoBehaviour
             Flip();
         }
 
+        //jumping
         if (Input.GetButtonDown("Jump") && isGrounded)
         {
             isJumping = true;
             animator.SetBool("isJumping", true);
+        }
+
+        // handles the fall animation
+        if(isGrounded == false && rb.linearVelocityY < 0)
+        {
+            animator.SetBool("isJumping", false);
+            animator.SetBool("isRunning", false);
+            animator.SetBool("isFalling", true);
+        }
+        else
+        {
+            animator.SetBool("isFalling", false);
         }
 
     }
