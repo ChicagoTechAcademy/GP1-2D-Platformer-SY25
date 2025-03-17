@@ -64,7 +64,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -73,12 +73,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -376,7 +376,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -385,7 +385,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      fantasy-2048-x-1536_007_0: 4463392174567115608
+      fantasy-2048-x-1536_007_1: 5593987063951617815
+      fantasy-2048-x-1536_007_2: 6661097122527951159
+      fantasy-2048-x-1536_007_3: 2433789279483446043
+      fantasy-2048-x-1536_007_4: -7584540460504760074
+      fantasy-2048-x-1536_007_5: 8854906927904179195
+      fantasy-2048-x-1536_007_6: -5276778210713631053
+      fantasy-2048-x-1536_007_7: -5754674908052686470
+      fantasy-2048-x-1536_007_8: -4908573092100152069
+      fantasy-2048-x-1536_007_9: 133309342892914051
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

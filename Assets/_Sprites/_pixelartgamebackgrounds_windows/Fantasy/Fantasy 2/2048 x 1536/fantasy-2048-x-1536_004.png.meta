@@ -109,7 +109,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -118,12 +118,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -751,7 +751,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -760,7 +760,32 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      fantasy-2048-x-1536_004_0: 7562181483182019444
+      fantasy-2048-x-1536_004_1: 7691826041692281074
+      fantasy-2048-x-1536_004_10: -2972670011968879713
+      fantasy-2048-x-1536_004_11: 2870884944317599047
+      fantasy-2048-x-1536_004_12: -7004683837119321128
+      fantasy-2048-x-1536_004_13: 2114513186413836708
+      fantasy-2048-x-1536_004_14: -2651588713193217570
+      fantasy-2048-x-1536_004_15: -4430917656386352845
+      fantasy-2048-x-1536_004_16: 3750989295229095309
+      fantasy-2048-x-1536_004_17: 640803061105903992
+      fantasy-2048-x-1536_004_18: 5820723645128715275
+      fantasy-2048-x-1536_004_19: 6359712107333701511
+      fantasy-2048-x-1536_004_2: 9051514249859031113
+      fantasy-2048-x-1536_004_20: 439202207328758222
+      fantasy-2048-x-1536_004_21: -6797682616399840078
+      fantasy-2048-x-1536_004_22: -4461269189522348850
+      fantasy-2048-x-1536_004_23: 8289091891217062382
+      fantasy-2048-x-1536_004_24: 6509527839923283623
+      fantasy-2048-x-1536_004_3: 8327211698259227714
+      fantasy-2048-x-1536_004_4: 2464407544349264759
+      fantasy-2048-x-1536_004_5: -1327679012130464841
+      fantasy-2048-x-1536_004_6: 3666844266039770887
+      fantasy-2048-x-1536_004_7: -1361454500660508610
+      fantasy-2048-x-1536_004_8: -7496800593230335879
+      fantasy-2048-x-1536_004_9: -3196015095407084836
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
