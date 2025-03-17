@@ -5,6 +5,7 @@ public class PlayerCollisions : MonoBehaviour
 
     private GameManager manager;
     public PlayerController playerController;
+    public AudioClip healSound;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -30,6 +31,7 @@ public class PlayerCollisions : MonoBehaviour
         {
             manager.gainHealth(1);
             Destroy(collision.gameObject);
+            SoundFXManager.instance.PlaySoundFXClip(healSound, transform, .5f);
         }
     }
 
