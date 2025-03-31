@@ -1,42 +1,33 @@
-using TMPro;
+
 using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
-
-    [SerializeField]private int playerHealth = 3;
-    [SerializeField]private TextMeshProUGUI healthText;
     [SerializeField]private PlayerController player;
+    public Observer<int> Health = new Observer<int>(3);
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        UpdateHealthText();
+        Health.Invoke();
     }
 
     public void loseHealth(int healthToLose)
     {
-        playerHealth = playerHealth - healthToLose;
-        UpdateHealthText();
+        Health.Value = Health.Value - healthToLose;
         HealthCheck();
     }
 
     public void gainHealth(int healthToGain)
     {
-        playerHealth = playerHealth + healthToGain;
-        UpdateHealthText();
+        Health.Value = Health.Value + healthToGain;
     }
 
-    private void UpdateHealthText()
-    {
-        healthText.text = "Health: " + playerHealth.ToString();
-    }
-
+    
     private void HealthCheck()
     {
-        if(playerHealth <= 0)
+        if(Health.Value <= 0)
         {
             player.PlayerDeath();
-            healthText.text = "You Died";
         }
     }
 
