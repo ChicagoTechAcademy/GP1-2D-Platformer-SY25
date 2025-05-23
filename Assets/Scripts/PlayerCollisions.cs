@@ -5,7 +5,11 @@ public class PlayerCollisions : MonoBehaviour
 
     private GameManager manager;
     public PlayerController playerController;
-    public AudioClip healSound;
+
+    [Header("Events")]
+    public Observer<bool> isHealing = new Observer<bool>(false);
+    public Observer<bool> takingDamageFromTrap = new Observer<bool>(false);
+    
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -15,23 +19,42 @@ public class PlayerCollisions : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if(collision.gameObject.tag == "Trap")
+        if (collision.gameObject.tag == "Trap")
         {
+            takingDamageFromTrap.Value = true;
             manager.loseHealth(1);
             playerController.knockBack(15f, 5f);
+            takingDamageFromTrap.Value = false;
         }
 
-        if(collision.gameObject.tag == "InstaKill")
+        if (collision.gameObject.tag == "InstaKill")
         {
             manager.loseHealth(1000);
             // trigger death anim
         }
 
-        if(collision.gameObject.tag == "HealthPickup")
+        if (collision.gameObject.tag == "HealthPickup")
         {
+            isHealing.Value = true;
             manager.gainHealth(1);
             Destroy(collision.gameObject);
-            SoundFXManager.instance.PlaySoundFXClip(healSound, transform, .5f);
+            isHealing.Value = false;
+        }
+        
+        if(collision.gameObject.tag == "FinishLine")
+        {
+            manager.FinishLevel();
+        }
+    }
+
+    private void OnCollisionEnter2D(Collision2D other)
+    {
+        if (other.gameObject.tag == "Enemy")
+        { 
+            takingDamageFromTrap.Value = true;
+            manager.loseHealth(1);
+            playerController.knockBack(15f, 5f);
+            takingDamageFromTrap.Value = false;
         }
     }
 

@@ -7,6 +7,9 @@ TagManager:
   - Trap
   - HealthPickup
   - InstaKill
+  - Ground
+  - Enemy
+  - FinishLine
   layers:
   - Default
   - TransparentFX

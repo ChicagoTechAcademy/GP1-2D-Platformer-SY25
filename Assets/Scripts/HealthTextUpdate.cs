@@ -11,4 +11,9 @@ public class HealthTextUpdate : MonoBehaviour
         healthText.text = "Health: " + playerHealth.ToString();
     }
 
+    public void GameOverText(bool isLiving)
+    {
+        healthText.text = "Game Over";
+    }
+
 }
